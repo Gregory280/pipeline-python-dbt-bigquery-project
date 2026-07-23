@@ -1,0 +1,182 @@
+[
+  {
+    "produto_id": 1,
+    "produto": "Camiseta A",
+    "categoria": "Camisetas",
+    "marca": "Urban Thread",
+    "descricao": "Camiseta de algodão com modelagem confortável para uso diário.",
+    "preco": 79.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/camiseta-a.jpg"
+  },
+  {
+    "produto_id": 2,
+    "produto": "Camiseta B",
+    "categoria": "Camisetas",
+    "marca": "North Peak",
+    "descricao": "Tecido leve e respirável, ideal para dias quentes.",
+    "preco": 89.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/camiseta-b.jpg"
+  },
+  {
+    "produto_id": 3,
+    "produto": "Camiseta C",
+    "categoria": "Camisetas",
+    "marca": "Vertex Apparel",
+    "descricao": "Visual moderno com acabamento reforçado nas costuras.",
+    "preco": 99.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/camiseta-c.jpg"
+  },
+  {
+    "produto_id": 4,
+    "produto": "Camiseta D",
+    "categoria": "Camisetas",
+    "marca": "Urban Thread",
+    "descricao": "Modelo casual com caimento reto e toque macio.",
+    "preco": 109.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/camiseta-d.jpg"
+  },
+  {
+    "produto_id": 5,
+    "produto": "Camiseta E",
+    "categoria": "Camisetas",
+    "marca": "North Peak",
+    "descricao": "Estampa discreta e tecido resistente para o dia a dia.",
+    "preco": 119.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/camiseta-e.jpg"
+  },
+  {
+    "produto_id": 6,
+    "produto": "Moletom A",
+    "categoria": "Moletons",
+    "marca": "Vertex Apparel",
+    "descricao": "Moletom flanelado com bolso frontal e capuz ajustável.",
+    "preco": 179.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/moletom-a.jpg"
+  },
+  {
+    "produto_id": 7,
+    "produto": "Moletom B",
+    "categoria": "Moletons",
+    "marca": "Urban Thread",
+    "descricao": "Modelo confortável para dias frios e uso casual.",
+    "preco": 199.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/moletom-b.jpg"
+  },
+  {
+    "produto_id": 8,
+    "produto": "Moletom C",
+    "categoria": "Moletons",
+    "marca": "North Peak",
+    "descricao": "Acabamento premium com tecido de alta durabilidade.",
+    "preco": 219.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/moletom-c.jpg"
+  },
+  {
+    "produto_id": 9,
+    "produto": "Moletom D",
+    "categoria": "Moletons",
+    "marca": "Vertex Apparel",
+    "descricao": "Capuz com cordão e punhos canelados para melhor ajuste.",
+    "preco": 239.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/moletom-d.jpg"
+  },
+  {
+    "produto_id": 10,
+    "produto": "Moletom E",
+    "categoria": "Moletons",
+    "marca": "Urban Thread",
+    "descricao": "Ideal para o inverno com interior macio e quente.",
+    "preco": 259.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/moletom-e.jpg"
+  },
+  {
+    "produto_id": 11,
+    "produto": "Jaqueta A",
+    "categoria": "Jaquetas",
+    "marca": "North Peak",
+    "descricao": "Jaqueta leve resistente ao vento para uso urbano.",
+    "preco": 299.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/jaqueta-a.jpg"
+  },
+  {
+    "produto_id": 12,
+    "produto": "Jaqueta B",
+    "categoria": "Jaquetas",
+    "marca": "Vertex Apparel",
+    "descricao": "Modelo versátil com bolsos laterais e fechamento em zíper.",
+    "preco": 329.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/jaqueta-b.jpg"
+  },
+  {
+    "produto_id": 13,
+    "produto": "Jaqueta C",
+    "categoria": "Jaquetas",
+    "marca": "Urban Thread",
+    "descricao": "Design moderno com tecido resistente à umidade.",
+    "preco": 359.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/jaqueta-c.jpg"
+  },
+  {
+    "produto_id": 14,
+    "produto": "Jaqueta D",
+    "categoria": "Jaquetas",
+    "marca": "North Peak",
+    "descricao": "Perfeita para temperaturas amenas com ótimo conforto.",
+    "preco": 389.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/jaqueta-d.jpg"
+  },
+  {
+    "produto_id": 15,
+    "produto": "Jaqueta E",
+    "categoria": "Jaquetas",
+    "marca": "Vertex Apparel",
+    "descricao": "Acabamento sofisticado e excelente proteção térmica.",
+    "preco": 419.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/jaqueta-e.jpg"
+  },
+  {
+    "produto_id": 16,
+    "produto": "Calça A",
+    "categoria": "Calças",
+    "marca": "Urban Thread",
+    "descricao": "Calça casual com tecido flexível e ótimo caimento.",
+    "preco": 139.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/calca-a.jpg"
+  },
+  {
+    "produto_id": 17,
+    "produto": "Calça B",
+    "categoria": "Calças",
+    "marca": "North Peak",
+    "descricao": "Modelo confortável para trabalho e lazer.",
+    "preco": 159.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/calca-b.jpg"
+  },
+  {
+    "produto_id": 18,
+    "produto": "Calça C",
+    "categoria": "Calças",
+    "marca": "Vertex Apparel",
+    "descricao": "Tecido resistente com acabamento de alta qualidade.",
+    "preco": 179.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/calca-c.jpg"
+  },
+  {
+    "produto_id": 19,
+    "produto": "Calça D",
+    "categoria": "Calças",
+    "marca": "Urban Thread",
+    "descricao": "Visual moderno com excelente mobilidade no dia a dia.",
+    "preco": 199.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/calca-d.jpg"
+  },
+  {
+    "produto_id": 20,
+    "produto": "Calça E",
+    "categoria": "Calças",
+    "marca": "North Peak",
+    "descricao": "Conforto e durabilidade para uso frequente.",
+    "preco": 219.90,
+    "image_url": "https://cdn.fashionstore.com/produtos/calca-e.jpg"
+  }
+]

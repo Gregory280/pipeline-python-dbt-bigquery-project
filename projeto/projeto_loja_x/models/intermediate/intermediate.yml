@@ -1,0 +1,168 @@
+version: 1
+
+models:
+  - name: int_cliente_metricas
+    description: >
+      Modelo base para a construção da dimensão de clientes.
+
+      Modelo intermediário que consolida métricas de compras por cliente.
+      Calcula indicadores de valor total gasto, o valor médio de suas compras,
+      primeira e última compra, quantidade total de pedidos realizados,
+      e dias desde a primeira e última compra. 
+    columns:
+
+      - name: CLIENTE_ID
+        description: >
+          Identificador único do cliente.
+
+      - name: DATA_PRIMEIRO_PEDIDO
+        description: >
+          Data da primeira compra realizada pelo cliente.
+
+      - name: DATA_ULTIMO_PEDIDO
+        description: >
+          Data da compra mais recente realizada pelo cliente.
+
+      - name: QTD_TOTAL_PEDIDOS
+        description: >
+          Quantidade total de pedidos realizados pelo cliente.
+
+      - name: VALOR_TOTAL_PEDIDOS
+        description: >
+          Soma do valor de todos os pedidos realizados pelo cliente.
+
+      - name: VALOR_MEDIO_PEDIDOS
+        description: >
+          Valor médio gasto por pedido realizado pelo cliente.
+
+      - name: DIAS_DESDE_PRIMEIRA_COMPRA
+        description: >
+          Quantidade de dias decorridos entre a primeira compra do cliente
+          e a data atual.
+
+      - name: DIAS_DESDE_ULTIMA_COMPRA
+        description: >
+          Quantidade de dias decorridos entre a última compra do cliente
+          e a data atual.
+
+  - name: int_produto_metricas
+    description: >
+      Modelo base para a construção da dimensão de produtos.
+
+      Este modelo consolida métricas de vendas por produto.
+      Calcula a quantidade total vendida e o valor total faturado de cada
+      produto. 
+    columns:
+
+      - name: PRODUTO_ID
+        description:
+          "Identificador único do produto."
+
+      - name: QTD_TOTAL_VENDIDA
+        description:
+          "Quantidade total de unidades vendidas do produto."
+
+      - name: VALOR_TOTAL_VENDIDO
+        description:
+          "Valor total faturado pelo produto, considerando a soma dos subtotais de todas as vendas."
+  
+  - name: int_pedido_valores
+    description: >
+      Modelo que consolida métricas por pedido a partir dos itens vendidos.
+      
+      É utilizado para análise e agregações de outros modelos (int_cliente_metricas).
+      Calcula a quantidade de itens, a quantidade total de produtos e o valor
+      total de cada pedido.
+    columns:
+
+      - name: PEDIDO_ID
+        description:
+          "Identificador único do pedido."
+      
+      - name: QUANTIDADE_ITENS
+        description:
+          "Quantidade de itens distintos presentes no pedido."
+      
+      - name: QUANTIDADE_PRODUTOS
+        description:
+          "Quantidade total de produtos vendidos no pedido, contando todos os itens."
+      
+      - name: VALOR_TOTAL
+        description:
+          "Valor total do pedido, calculado pela soma dos subtotais de todos os itens do pedido."
+
+  - name: int_itens_pedidos_detalhados
+    description: >
+      Modelo que consolida as informações dos itens dos pedidos,
+      enriquecendo cada item com dados do pedido e do produto. Cada registro
+      representa um item vendido e serve como base para a construção da
+      tabela fato de vendas.
+
+    columns:
+      - name: ITEM_ID
+        description:
+          "Identificador único do item do pedido."
+        tests:
+          - unique
+          - not_null
+
+      - name: PEDIDO_ID
+        description: 
+          "Identificador único do pedido ao qual o item pertence."
+
+      - name: CLIENTE_ID
+        description: 
+          "Identificador do cliente responsável pela compra."
+
+      - name: DATA_PEDIDO
+        description: 
+          "Data em que o pedido foi realizado."
+
+      - name: FORMA_PAGAMENTO
+        description: 
+          "Forma de pagamento utilizada no pedido."
+
+      - name: STATUS
+        description:
+          "Status final do pedido."
+
+      - name: CANAL
+        description:
+          "Canal pelo qual a venda foi realizada."
+
+      - name: ORIGEM
+        description:
+          "Origem do pedido, indicando de onde a compra foi iniciada."
+
+      - name: TRANSPORTADORA
+        description:
+          "Transportadora responsável pela entrega do pedido."
+
+      - name: PRODUTO_ID
+        description:
+          "Identificador único do produto."
+
+      - name: PRODUTO
+        description:
+          "Nome do produto vendido."
+
+      - name: CATEGORIA
+        description:
+          "Categoria à qual o produto pertence."
+
+      - name: MARCA
+        description:
+          "Marca do produto."
+
+      - name: QUANTIDADE
+        description:
+          "Quantidade de unidades vendidas do produto no item do pedido."
+
+      - name: VALOR_UNITARIO
+        description:
+          "Valor unitário do produto no momento da venda."
+
+      - name: SUBTOTAL
+        description: >
+          Valor total do item do pedido, calculado pela multiplicação da
+          quantidade vendida pelo valor unitário do produto.

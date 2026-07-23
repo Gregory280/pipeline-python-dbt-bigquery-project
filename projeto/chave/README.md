@@ -1,0 +1,1 @@
+Colocamos a chave JSON da conta de serviço do GCP aqui.

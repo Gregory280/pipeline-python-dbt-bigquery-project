@@ -1,0 +1,195 @@
+version: 1
+
+models:
+  - name: dim_cliente
+    description: 
+      "Dimensão de Clientes."
+    columns:
+
+      - name: CLIENTE_ID
+        description: 
+          "Identificador único do cliente."
+
+      - name: NOME
+        description: 
+          "Nome completo do cliente."
+          
+      - name: EMAIL
+        description: 
+          "Endereço de e-mail do cliente."
+      
+      - name: CELULAR
+        description: 
+          "Número de telefone celular do cliente."
+
+      - name: SEXO
+        description: 
+          "Sexo do cliente."
+
+      - name: DATA_NASCIMENTO
+        description: 
+          "Data de nascimento do cliente."
+
+      - name: CIDADE
+        description: 
+          "Cidade do endereço de entrega."
+      
+      - name: ESTADO
+        description: 
+          "Estado do endereço de entrega."
+      
+      - name: CEP
+        description: 
+          "Endereço postal do cliente."
+
+      - name: ENDERECO
+        description: 
+          "Endereço completo do cliente."
+
+      - name: DATA_PRIMEIRA_PEDIDO
+        description: 
+          "Data do primeiro pedido realizado pelo cliente."
+      
+      - name: DATA_ULTIMO_PEDIDO
+        description: 
+          "Data do último pedido realizado pelo cliente."
+
+      - name: QTD_TOTAL_PEDIDOS
+        description: 
+          "Quantidade total de pedidos realizados pelo cliente."
+
+      - name: VALOR_TOTAL_PEDIDOS
+        description: 
+          "Valor total gasto pelo cliente em todos os pedidos."
+
+      - name: VALOR_MEDIO_PEDIDOS
+        description: 
+          "Valor médio gasto pelo cliente por pedido."
+
+      - name: DIAS_DESDE_PRIMEIRA_COMPRA
+        description: 
+          "Número de dias desde a primeira compra do cliente."
+      
+      - name: DIAS_DESDE_ULTIMA_COMPRA
+        description: 
+          "Número de dias desde a última compra do cliente."
+
+  - name: dim_produto
+    description: 
+      "Dimensão de Produtos."
+    columns:
+
+      - name: PRODUTO_ID
+        description: 
+          "Identificador único do produto."
+
+      - name: PRODUTO
+        description: 
+          "Nome do produto."
+      
+      - name: CATEGORIA
+        description: 
+          "Categoria do produto."
+
+      - name: MARCA
+        description: 
+          "Marca do produto."
+
+      - name: PRECO
+        description: 
+          "Preço do produto."
+
+      - name: QTD_TOTAL_VENDIDA
+        description: 
+          "Quantidade total vendida do produto."
+
+      - name: VALOR_TOTAL_VENDIDO
+        description: 
+          "Valor total vendido do produto."
+
+  - name: dim_data
+    description: 
+      "Dimensão de Datas."
+    columns:
+
+      - name: DATA
+        description: 
+          "Data no formato YYYY-MM-DD."
+
+      - name: ANO
+        description: 
+          "Ano da data."
+
+      - name: TRIMESTRE
+        description: 
+          "Representação do Trimestre da data."
+
+      - name: MES
+        description: 
+          "Mês da data."
+
+      - name: NOME_MES
+        description: 
+          "Nome do mês da data"
+
+      - name: DIA
+        description: 
+          "Dia da data."
+
+      - name: DIA_SEMANA
+        description: 
+          "Representação do dia da semana da data."
+
+  - name: fato_venda
+    description: > 
+      Tabela fato contendo uma linha para cada item vendido em um pedido. 
+      Armazena as métricas de vendas e as chaves necessárias para análise por cliente, produto e data.
+      
+    columns:
+      - name: ITEM_ID
+        description: 
+          "Identificador único do item do pedido."
+
+      - name: PEDIDO_ID
+        description: 
+          "Identificador único do pedido ao qual o item pertence."
+
+      - name: CLIENTE_ID
+        description: 
+          "Identificador do cliente responsável pela compra."
+
+      - name: DATA
+        description: 
+          "Data em que o pedido foi realizado."
+
+      - name: QUANTIDADE
+        description: 
+          "Quantidade de unidades vendidas do produto no item do pedido."
+
+      - name: VALOR_UNITARIO
+        description: 
+          "Valor unitário do produto no momento da venda."
+
+      - name: SUBTOTAL
+        description: 
+          "Valor total do item do pedido (quantidade × valor unitário)."
+
+      - name: FORMA_PAGAMENTO
+        description: 
+          "Forma de pagamento utilizada no pedido."
+
+      - name: STATUS
+        description: 
+          "Status final do pedido."
+
+      - name: CANAL
+        description: 
+          "Canal pelo qual a venda foi realizada."
+
+      - name: ORIGEM
+        description: 
+          "Origem do pedido, indicando de onde a compra foi iniciada."
+
+      - name: TRANSPORTADORA
+        description: 
+          "Transportadora responsável pela entrega do pedido."

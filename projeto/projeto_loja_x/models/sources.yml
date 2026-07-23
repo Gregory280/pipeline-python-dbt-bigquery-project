@@ -1,0 +1,12 @@
+version: 1
+
+sources:
+  - name: raw
+    database: projeto-loja-x
+    schema: raw
+
+    tables:
+      - name: raw_clientes
+      - name: raw_produtos
+      - name: raw_pedidos
+      - name: raw_itens_pedido

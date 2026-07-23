@@ -1,0 +1,197 @@
+version: 1
+
+models:
+  - name: stg_clientes
+    description: "Tabela de Clientes padronizada."
+    columns:
+
+      - name: CLIENTE_ID
+        description: 
+          "Identificador único do cliente."
+        tests:
+          - unique
+          - not_null
+
+      - name: NOME
+        description: 
+          "Nome completo do cliente."
+        tests:
+          - not_null
+          
+      - name: EMAIL
+        description: 
+          "Endereço de e-mail do cliente."
+        tests:
+          - not_null
+
+      - name: CIDADE
+        description: 
+          "Cidade do endereço de entrega."
+        tests:
+          - not_null
+      
+      - name: CEP
+        description: 
+          "Endereço postal do cliente."
+        tests:
+          - not_null
+
+  - name: stg_produtos
+    description: 
+      "Tabela de Produtos padronizada."
+    columns:
+
+      - name: PRODUTO_ID
+        description: 
+          "Identificador único do produto."
+        tests:
+          - unique
+          - not_null
+
+      - name: PRODUTO
+        description: 
+          "Nome do produto."
+        tests:
+          - not_null
+
+      - name: CATEGORIA
+        description: 
+          "Categoria do produto."
+        tests:
+          - not_null
+
+      - name: MARCA
+        description: 
+          "Marca do produto."
+        tests:
+          - not_null
+
+      - name: PRECO
+        description: 
+          "Preço do produto."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "> 0"
+
+  - name: stg_pedidos
+    description: 
+      "Tabela de Pedidos padronizada."
+    columns:
+
+      - name: PEDIDO_ID
+        description: 
+          "Identificador único do pedido."
+        tests:
+          - unique
+          - not_null
+
+      - name: CLIENTE_ID
+        description: 
+          "Identificador do cliente que realizou o pedido."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_clientes')
+              field: CLIENTE_ID
+
+      - name: DATA_PEDIDO
+        description: 
+          "Data em que o pedido foi realizado."
+        tests:
+          - not_null
+
+      - name: FORMA_PAGAMENTO
+        description: 
+          "Forma de pagamento utilizada no pedido."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'Cartão de Crédito'
+                - 'Cartão de Débito'
+                - 'PIX'
+      
+      - name: STATUS
+        description: 
+          "Status atual do pedido."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'Entregue'
+                - 'Cancelado'
+      
+      - name: CANAL
+        description: 
+          "Canal de venda do pedido."
+        tests:
+          - not_null
+        
+      - name: ORIGEM
+        description: 
+          "Origem do pedido."
+        tests:
+          - not_null
+
+      - name: VALOR_TOTAL
+        description: 
+          "Valor total do pedido."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "> 0"
+  
+  - name: stg_itens_pedido
+    description: 
+      "Tabela de Itens dos pedidos padronizada."
+    columns:
+
+      - name: ITEM_ID
+        description: 
+          "Identificador único do item do pedido."
+        tests:
+          - unique
+          - not_null
+
+      - name: PEDIDO_ID
+        description: 
+          "Identificador do pedido ao qual o item pertence."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_pedidos')
+              field: PEDIDO_ID
+
+      - name: PRODUTO_ID
+        description: 
+          "Identificador do produto que foi pedido."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_produtos')
+              field: PRODUTO_ID
+
+      - name: QUANTIDADE
+        description: 
+          "Quantidade do produto no pedido."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "> 0"
+
+      - name: VALOR_UNITARIO
+        description: 
+          "Preço unitário do produto no momento do pedido."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "> 0"
+      
+      - name: SUBTOTAL
+        description: 
+          "Subtotal do item do pedido (quantidade * preço unitário)."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "> 0"

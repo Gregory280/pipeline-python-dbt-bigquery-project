@@ -1,0 +1,833 @@
+﻿pedido_id,cliente_id,data_pedido,forma_pagamento,pix_qr_code,status,canal,origem,transportadora,codigo_rastreio,prazo_entrega_dias,valor_total
+4f363394-66f6-46f0-b487-1ed2a8dd9983,80d5bdea-d92d-4466-a637-d83b9e72ce6e,2026-07-10 07:18:41,PIX,14615452-6351-4c5b-a162-aacce4da8fb2,Entregue,Site,E-mail Marketing,Jadlog,BR3465149920,6.0,1079.5
+38a0b829-3c0c-44b4-8d66-2d12b7352507,315b4fa2-6ee4-4a17-ae8a-1cf1ccc53f51,2024-11-20 05:24:34,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,159.8
+0a73156c-b61f-4b8c-a99b-539023b32e6c,3cdb91a8-758c-4535-bffc-7773d97317af,2022-08-08 16:09:13,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR5461884538,6.0,719.6
+0fb2dad4-8132-41eb-906c-5ded2a27f749,fbfaa4d8-8d98-4d95-9275-e81b8f352665,2026-05-20 02:48:22,PIX,6bc82971-639e-4b5e-b671-69b88637ffc6,Entregue,Site,Orgânico,Loggi,BR6164578412,5.0,1179.6
+7a9e8794-82f3-4fc0-ba0d-283de59253a7,de488e9c-2d90-4f18-8594-cd71646d52e6,2022-09-17 05:19:48,PIX,e77adfdb-633e-4600-9ab2-7132674b8c11,Cancelado,Aplicativo,Google Ads,,,,779.8
+c71283a1-fb76-4ac3-b582-a4ae4e8bde37,6ae66481-ab12-4f73-ab3e-0e96fc74870b,2022-07-23 19:35:44,Cartão de Crédito,,Entregue,Site,Instagram,Total Express,BR5049794114,8.0,389.7
+ec61b80e-a00c-4cc3-ba73-6779ba3ff869,1b213a15-0996-4fa2-828b-0d43c4a08521,2024-06-18 03:20:31,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR6534898239,9.0,1019.6
+ac26698c-ffed-470b-aa83-aa93c8d6ac79,7c5b4df2-4f76-4100-a25e-e51cc357aba6,2022-11-01 15:22:45,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Jadlog,BR9346051979,10.0,559.7
+ed4c14dc-e0ae-4dfb-83be-e590fb0501c9,b4b4afd8-f2c4-4d0c-9080-17afeef22ffc,2023-02-11 17:22:59,PIX,058d085b-81a4-4a85-96f4-b6a96a172701,Entregue,Aplicativo,Orgânico,Correios,BR3701084738,5.0,819.6
+dcbcad91-28b7-4337-81e5-ff5ffd6fb1e4,958ca825-1406-404e-93a4-7374e2c5038c,2024-03-13 05:30:26,Cartão de Débito,,Entregue,Marketplace,Facebook,Loggi,BR8101417803,6.0,219.9
+73c28e41-44f5-4fb3-a67b-20d5abaf84db,8962398d-7c58-4bf6-b9bc-3be06e1289eb,2025-09-23 07:34:37,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR4829686422,3.0,499.6
+528b3068-a695-41c9-a178-b062b6ae30d0,56521ec2-c3a0-4959-bdd0-4970bc13aea5,2026-01-19 16:04:30,Cartão de Débito,,Entregue,Site,Google Ads,Loggi,BR6766460981,3.0,849.5
+f9389590-5173-413d-b8d7-20765748a628,cd88d7ed-b57d-4338-bc9d-7f714b77c4c1,2023-06-21 03:31:08,Cartão de Crédito,,Entregue,Marketplace,Facebook,Jadlog,BR4482344689,5.0,519.8
+cf9b84e5-1c1c-4798-bd48-b4816d244024,5a246639-323d-4786-86c0-0ccf2976d20a,2026-04-16 16:39:11,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR2744752933,6.0,939.5
+907adf70-693c-47da-b65b-2c97f0fab52e,1eb7fc24-1ff9-45ed-8c14-ec5ad66ec58f,2024-09-25 20:31:23,Cartão de Crédito,,Cancelado,Aplicativo,Orgânico,,,,1079.6
+88cfcc68-6634-46ea-b878-80f80a00c0c3,dc5a9a19-eb3c-4dbd-8dc0-0ce288e54740,2026-04-25 17:41:04,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR0725739264,10.0,579.6
+b5bfd1dc-5713-4644-b59d-84d05fdc0796,440edfdf-b2f1-4148-bfb5-3650557e3a1e,2023-09-06 21:38:15,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR8878246478,2.0,1069.6
+03f74246-035d-4c44-9adc-0b1cddf44cea,bb753083-c894-4793-9154-1254a7ff98fd,2025-04-09 10:59:22,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR8096396396,4.0,759.6
+46d986fc-99f8-49b3-a8bb-6f76528f6239,b4ab577f-4827-4b08-8516-c62ead705b43,2025-12-11 12:33:48,PIX,892ea2d9-ed4c-49f6-9a35-2eebc4deb1b1,Entregue,Marketplace,Facebook,Jadlog,BR7057808107,2.0,609.7
+f0a825ce-6e1a-49f3-ae8f-1eb1175ef5d8,4366e5a8-8fdb-4c43-be6e-b8773d5cae49,2025-01-09 01:40:16,PIX,2ae69efd-e39f-4588-a2a6-bdf9c46d76f3,Entregue,Site,Orgânico,Loggi,BR8814077736,5.0,879.5
+ceff6bce-a635-458a-94e9-8bd815375bfe,9d536358-4097-475b-ba77-b4c8c9252505,2024-07-10 04:45:54,PIX,ad0953c9-5043-4473-91fa-9c9bb56c4ddd,Entregue,Aplicativo,Orgânico,Correios,BR6825523028,10.0,399.8
+8d789bc2-5be2-4555-a40a-d3ac1bcf6685,e168a805-79bd-4c9c-9db1-3d50ff7927d4,2024-10-09 07:40:33,PIX,5f97ba25-2633-4f57-8915-eae6e8620448,Entregue,Site,Google Ads,Jadlog,BR0389837100,6.0,519.7
+7ee28dc8-f43d-4d25-94bb-151b5bd4c1b9,f5d1b2b0-619f-425c-a1c2-b9559ff6f2ab,2023-06-01 01:57:14,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Loggi,BR6041931451,4.0,1399.6
+6e2afe35-8c56-4f29-b20f-7b707196bf9b,19978e80-f517-444d-9642-afba85d19d92,2024-12-26 04:58:00,Cartão de Débito,,Cancelado,Aplicativo,Google Ads,,,,119.9
+11fa6b26-e0c7-4109-9c43-3c5a4405b281,c9fd233c-d1c6-45f0-8a2e-d8fdc4b3b508,2024-05-12 17:34:23,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR0946657871,9.0,879.6
+dd5c5a74-3b70-47d1-a014-595fdabbe02a,5d6dce98-7324-4cee-bb80-570104511aa4,2023-01-13 00:24:15,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR7176816322,6.0,829.6
+f72fba3a-c451-41c0-9bb4-f917a4a1eb0a,0af33b34-ab26-4ce0-a5e0-c08824ce244d,2025-04-04 21:09:06,PIX,6bad7c77-a71e-436b-9f5b-c82cadb649e5,Entregue,Aplicativo,Google Ads,Loggi,BR9507646470,9.0,1039.6
+b2dcf152-6bfd-49cb-8832-9bacd56c1559,d03977a8-6c16-4d5f-8e63-579de18cfccf,2025-12-31 04:36:12,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR6797103312,10.0,709.6
+9c2951e0-b2c7-449f-8678-734f58deaf0a,666e7ddb-9472-47b1-a200-4cd868cbf766,2022-10-28 12:49:23,PIX,dcfbedbb-7653-4267-95b7-aa809cacccd2,Entregue,Aplicativo,Google Ads,Total Express,BR1044560314,3.0,479.8
+b8463f7e-b18b-4dc5-a057-5a7e84c912c1,4be952f2-d34a-49f5-b8fb-1093050c2074,2023-11-03 04:31:26,PIX,078820c5-4297-460b-8315-4d9465e949e4,Entregue,Site,Orgânico,Total Express,BR4820944917,7.0,1059.6
+721b80f4-c055-4fad-8367-3d9bc3c29848,8f5ab00a-78b3-4c0d-9437-dfb2392199e9,2025-11-02 11:06:23,PIX,bee8d1bb-857d-44cf-b1ee-e487d63a3c70,Cancelado,Site,Orgânico,,,,719.8
+a8561053-7693-498c-9729-66bf50126d22,08d66c79-97a8-46ff-ab78-84fa11385563,2023-12-03 22:19:06,PIX,98b4ec66-0643-40a7-90c7-4c69d1aa3c51,Entregue,Aplicativo,Orgânico,Jadlog,BR2812593211,2.0,89.9
+62e94edb-66f7-4891-959e-59ad9edd5777,76261042-1d88-457d-92a4-70439960db31,2023-08-16 05:00:53,PIX,d6154219-afff-4601-ac2d-b177f284d216,Entregue,Aplicativo,Facebook,Total Express,BR2987660284,9.0,1399.6
+c2b03526-10e0-40a0-af4f-5ee587c47fa6,2eaa9244-bb97-42bd-abbb-cfd70d466f85,2024-11-19 22:15:17,PIX,7be35a36-ffa3-4950-bac8-d59dc00101a8,Entregue,Marketplace,Orgânico,Jadlog,BR0443646373,8.0,459.7
+6316370d-cffa-4d09-899c-898354af56f2,7d235ec0-e3a4-468f-9b70-de012b7afc58,2025-11-09 03:03:51,PIX,32ddd6d6-4411-4d2f-ac81-62dd026606ab,Entregue,Site,Google Ads,Total Express,BR0352356618,6.0,509.7
+a1753827-ed3d-414e-9548-bd99471dd59e,3cf69b05-c01c-43fc-90d9-3cbc4c3f931b,2026-05-27 01:02:18,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR1539079645,8.0,259.8
+a4a836f7-59e3-42e0-bc5b-1dd3103078fc,f91ed125-a7cc-4dfd-935b-26dd3f057ed5,2025-12-12 22:12:48,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Jadlog,BR5318981638,4.0,159.8
+3224abe0-e341-4170-a6e8-c73f84cb3d9e,ef3ef93c-caf0-4e5f-898b-3f5086c4320c,2022-10-31 16:48:02,PIX,859ff1b6-07ee-4de8-9c54-25b257cf030d,Entregue,Site,E-mail Marketing,Correios,BR5066986515,4.0,219.9
+52cb67e7-df81-43db-834e-496cdeb03500,f1bd70f2-f693-4a1a-a218-92ac6c05ed82,2024-10-16 13:37:53,PIX,4342b856-e971-4756-92f7-bdab200cb7b0,Entregue,Site,Orgânico,Total Express,BR6731596957,9.0,1559.6
+2b0efab8-68dd-4486-8c92-afe8e1749196,e4376c91-1dde-47a9-bfea-8263e6cffb69,2023-03-22 03:15:16,Cartão de Crédito,,Entregue,Site,Google Ads,Jadlog,BR8956688466,5.0,939.5
+0febe80c-77d1-4372-9934-56bb47585794,63f94a60-c987-41c5-829e-806ea30c20cf,2026-01-16 11:59:25,Cartão de Débito,,Entregue,Site,Google Ads,Loggi,BR5851085575,7.0,419.7
+29b300a2-5d9a-4545-ab8f-16f12326629c,bf1f569c-8d63-474e-8597-d00ece41ebe7,2023-08-14 00:28:25,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR0524975362,6.0,359.8
+029832ac-2599-438f-9c29-2b4c5586a541,2d4953c7-6a4d-4c49-a5a9-6d122c98400c,2025-10-07 09:59:01,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR7426502103,6.0,159.9
+3de750f5-7834-4578-a147-b973c2eafd18,f1bd70f2-f693-4a1a-a218-92ac6c05ed82,2026-04-22 14:24:42,Cartão de Débito,,Entregue,Site,Google Ads,Correios,BR7291137890,10.0,439.8
+ca8240b3-3762-48e2-b6dd-8840fd3d3f7a,7d1ec55d-61dd-43f0-b902-160f58de53c2,2025-04-19 00:41:36,Cartão de Crédito,,Entregue,Site,Facebook,Loggi,BR3844349425,3.0,679.6
+7ce699b1-aa18-47f4-8a6b-a8425bbc234c,a2c499ae-8bf1-428a-add4-fc4a5b1db576,2025-07-28 05:04:26,Cartão de Débito,,Entregue,Marketplace,Orgânico,Correios,BR1628298158,4.0,659.6
+ae4987f9-6314-4711-8fc9-aad76612ab13,a9c0c471-80e0-44cf-84ba-20345f561ed2,2022-11-16 20:43:09,Cartão de Crédito,,Entregue,Marketplace,Facebook,Jadlog,BR1008029809,8.0,839.8
+bedbc6ce-7182-4149-941b-0048c29011f4,70babf20-3911-44bd-a554-bae0e4aeb875,2023-05-24 05:38:41,PIX,19cd4dba-d334-4847-8fab-398a18ba6970,Entregue,Site,Instagram,Jadlog,BR4630698241,8.0,1309.6
+fc12257e-e411-42f5-9900-14ed8cc6313d,8e4e7657-78fb-4394-bef3-35d02f8a1482,2025-09-30 16:53:39,Cartão de Débito,,Entregue,Site,Google Ads,Jadlog,BR8453019256,3.0,289.8
+733de3b0-ea59-4015-a647-d97d31dd5a3f,4d23ec59-3172-481b-b858-b7a0d111b793,2024-11-13 20:38:21,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Total Express,BR7282378212,5.0,319.7
+42c749b8-29ce-41e8-b46e-4a75698d0900,ed74e447-5a63-41ce-b5b9-01548df059f5,2023-08-03 08:23:15,PIX,7863ad7e-3dfe-40a5-84ec-9af36ad4511d,Entregue,Aplicativo,Instagram,Loggi,BR5393991794,7.0,709.6
+b27ffa96-7a7f-45db-8674-0063acdda0c9,22d58c64-8711-4c1e-9619-5f0285ba8e83,2024-08-01 14:59:08,PIX,23c0e295-f199-4681-8b7b-56f6eaf74ade,Entregue,Site,Orgânico,Correios,BR5402658336,7.0,719.6
+da33f700-b823-4849-866e-2f560670e529,2add8722-7133-4996-b64a-11700ec18d54,2022-10-14 22:11:58,PIX,a5c7f334-3ab3-4042-825c-ba0a10f12fad,Entregue,Aplicativo,Orgânico,Jadlog,BR3966136661,7.0,479.8
+ef5af339-389e-4b4a-b3fb-810e37e8a632,3e456f53-f83c-4f8a-8749-4b20915c8f70,2024-06-10 02:40:46,PIX,7f0933a1-cff4-4743-aae7-d48832f63e40,Cancelado,Site,Instagram,,,,219.8
+72656c85-85e5-43fe-85eb-b6a17d7d6b7b,330380ad-134f-4303-801e-58a50d66e7b0,2022-07-27 11:09:00,Cartão de Débito,,Entregue,Site,Facebook,Jadlog,BR0504862599,2.0,439.8
+3830a808-9b9f-426a-86ef-ffefb44ba366,383d523d-05f4-4652-a609-9f052d7a076a,2024-05-25 02:07:40,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,199.9
+6be60ae2-ffc9-4a52-b0ed-b954c22c6019,c048b873-d8e7-4244-89f1-9bd977de3c36,2023-01-11 01:35:14,PIX,cb392de5-3739-4fce-bacf-1aeb59553721,Entregue,Site,Google Ads,Correios,BR7430162558,2.0,959.5
+b96b018a-3b3f-4c8c-b9fd-b99e1dd22dfa,b23cf705-65fa-4bf3-8be6-1afb4f23d84b,2024-08-15 14:36:57,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR4631977073,4.0,389.9
+9499b660-0113-47a4-9f35-fa78a24d08ca,4399a79c-594a-4794-9e25-14a2ce2dc2d9,2024-11-24 02:26:43,PIX,a8099a99-feb5-4aa1-9ef7-01c3bc7ffa77,Entregue,Aplicativo,E-mail Marketing,Correios,BR5561334781,8.0,329.9
+51c2d247-c610-4ca2-95ee-4f767a8b1c5c,f72b0e52-bb3e-4bc5-8b75-e385b9f61d2d,2024-12-02 07:04:29,PIX,6a55ff3d-60cd-4b54-890b-234ec900fecf,Entregue,Site,Google Ads,Loggi,BR5643703901,10.0,729.6
+2a0dee81-7b7b-427f-969e-28b0c4a318b0,728d2bac-746c-4674-b75c-daa9214aa425,2024-01-21 20:27:58,PIX,c9c2076b-6671-440c-aa75-336148d1000e,Entregue,Site,Orgânico,Correios,BR8558539308,6.0,1279.5
+c45b2853-09f1-43e2-a7d2-ddc143d96b73,616e0e1b-dcad-4c70-a56d-6bd2371c59da,2025-04-26 21:14:58,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR3749755264,9.0,699.6
+b4a67c23-e54e-4eb7-9110-ac3d0a6a575f,db74bc16-ff58-439c-8ebe-7ec270ba259a,2022-12-24 06:34:42,Cartão de Crédito,,Entregue,Site,Google Ads,Jadlog,BR3847078691,7.0,889.7
+1424894e-f08f-40ef-94c5-d7d543530d3c,72f5a40d-d462-4114-ab58-5ea7434b7232,2026-06-19 09:44:30,PIX,38fac29f-ef7c-49c3-a10c-0c6c6d4d5405,Entregue,Site,Google Ads,Correios,BR5919118402,9.0,929.7
+72b4955b-e4a5-4a38-892f-2d19ac882def,2436d98b-6d82-4b0a-aaa7-ca4934011a13,2024-06-03 04:58:56,PIX,147cbb37-7c69-40bd-afd8-94849d9c91df,Entregue,Site,Orgânico,Loggi,BR7461094855,5.0,559.5
+e52ed18f-d925-46d0-9ff2-82b47ae4732b,d6dca17a-bbaf-447d-b6b9-287768137429,2024-08-30 11:49:55,Cartão de Crédito,,Entregue,Marketplace,Facebook,Total Express,BR9691080844,4.0,779.5
+3e9d21a7-3f9e-4dcb-a37f-51ea7f34a5aa,0dcb3501-3199-42f8-8583-7cc13fcb077b,2025-03-15 20:01:35,PIX,a13a8575-810a-4cea-b71d-9a7ca8f7601a,Entregue,Site,Facebook,Jadlog,BR7361686552,4.0,599.7
+08902b86-2d07-473d-9877-dfc61049d261,8e649b13-7537-49d8-9e9e-9dde5a490975,2025-09-03 08:55:35,Cartão de Débito,,Entregue,Aplicativo,Instagram,Total Express,BR1149980289,2.0,389.9
+6ff14758-2855-465d-853a-4ef96c13ae02,3fa16f5b-f5b8-4c9d-a107-8da646310218,2025-11-07 05:23:48,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR3343283804,2.0,729.7
+ab340eb6-9daf-40ff-a837-4f75f81b6639,8aa5476e-0935-45c3-93df-4cd566eee150,2025-07-01 04:50:11,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR7584867887,7.0,1599.5
+22000372-51bb-4a2b-8254-c6e8a8c980d0,34dfbb24-9421-4b00-98d0-923c2eb63139,2025-09-03 18:24:28,Cartão de Débito,,Cancelado,Site,Facebook,,,,639.6
+53a360e6-2c07-4cb3-87f0-cd5395c1895c,df705806-7f8f-406a-9a95-15013adc4e07,2023-10-31 08:07:39,PIX,31e180e6-224b-409a-886d-3e0c3516c4e1,Entregue,Marketplace,Orgânico,Loggi,BR8337316226,9.0,109.9
+6c257456-8a54-4f1e-a744-fd224be44c3f,f3fac21f-b126-45c1-ae8a-6f94083c5867,2025-07-17 22:58:53,PIX,6f3bb87c-e74e-4acc-8ef8-a3a9c98c514d,Entregue,Aplicativo,Facebook,Total Express,BR5261327606,10.0,699.4
+fe6a7f51-89f8-48cc-a7a2-3dc88a910926,432f97c5-031f-4d85-a330-8e5742cbe8cd,2023-12-27 22:03:01,PIX,fa836be4-511a-454e-a829-056e6abbb305,Entregue,Aplicativo,Orgânico,Loggi,BR8021836841,3.0,839.6
+2b91ad7c-5673-4e86-bc4c-6753a031e652,ef3ef93c-caf0-4e5f-898b-3f5086c4320c,2025-02-08 02:12:45,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Loggi,BR4132374014,8.0,399.8
+cd77cea5-af4f-45e3-95e7-2b77faff76fc,a9c0c471-80e0-44cf-84ba-20345f561ed2,2024-04-22 02:53:53,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Jadlog,BR0951929126,6.0,179.9
+79e1840a-1358-470c-a1d7-adc37a09c2ac,9d62b556-b59a-436f-988e-9d79947e7aab,2023-09-27 10:55:50,PIX,1b352a80-42cc-4862-a920-ac87c75dd3f3,Entregue,Marketplace,Facebook,Total Express,BR6817515589,10.0,759.7
+5739e21d-2916-4eac-9fca-d3a5b22105c9,b31fbd06-daa5-4057-bc1d-df394f654c36,2022-12-24 16:15:05,Cartão de Crédito,,Entregue,Site,Instagram,Loggi,BR2063430503,6.0,439.8
+c57920a3-39d5-4ed8-be20-a796961b2d0a,6650d46d-19ec-4f64-9941-ef7643d46319,2026-06-19 22:23:04,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR8266798373,2.0,839.6
+9648260c-7fcb-4b71-828a-ea0e8ffd2230,8c469081-6a36-44aa-abba-ba5bb18ca425,2024-01-27 06:56:47,PIX,f3d47cec-cbb0-4ddd-afea-630e5597b4ce,Entregue,Site,Orgânico,Loggi,BR6295790123,3.0,299.8
+75bae26d-fa74-4bf9-a7a3-05ef7b9561f8,75882083-3355-4b5d-8a36-2bb6c5d8e564,2023-11-16 16:58:37,Cartão de Débito,,Cancelado,Site,Orgânico,,,,479.8
+cf66113e-bf72-4457-b29d-8f1728becac6,6ae66481-ab12-4f73-ab3e-0e96fc74870b,2024-11-14 10:52:03,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Loggi,BR3116400646,2.0,859.7
+a9aa4c05-f920-4f65-9a01-8a1bbfedbead,48b9a534-40c0-4f27-929a-98f713763e00,2026-06-08 00:10:07,PIX,d44f17dc-3c4e-4ef5-b177-02ad3038fb21,Entregue,Aplicativo,Orgânico,Jadlog,BR1986947945,6.0,469.5
+2d5a8878-b15a-4d50-a9b2-3f4178a603e4,80426826-3676-46fa-9e02-abb4b4c507a7,2025-08-23 12:12:32,PIX,c9b9b159-ddb3-4df6-9431-04e880445b96,Entregue,Aplicativo,Orgânico,Total Express,BR4904464494,2.0,519.7
+684ee545-df84-475c-8548-f902f88818c6,1d5f2e00-806a-4704-9a76-33d6b9d0ff80,2023-05-28 05:41:31,PIX,3aa559a2-8153-4069-b971-4f0006ccdb9e,Entregue,Site,Google Ads,Correios,BR0353829090,2.0,419.9
+ee417502-4e95-4684-adbd-fc65de99431c,c59c59c2-5c5c-4a41-a80d-fc61ac65e48d,2025-06-05 05:13:22,PIX,a331b121-844a-4b3d-8c21-28fc0fa918a6,Entregue,Site,Facebook,Jadlog,BR7566829698,4.0,319.7
+49afa088-265d-45e9-b24d-b5b9b887a213,9aed6355-e724-4403-af0f-e098bbdb3159,2022-09-15 01:37:36,PIX,112bb3ab-cbe7-417f-ada9-c19ea4ff9d49,Entregue,Aplicativo,Google Ads,Correios,BR9283907609,8.0,1119.6
+f74493bd-a8b1-4409-be2a-df499947afb1,958ca825-1406-404e-93a4-7374e2c5038c,2023-06-21 06:15:28,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR4982849568,3.0,869.6
+a05084b4-c0bd-4fa6-ab59-b629f247a179,bd53f7b1-7c15-4b86-8235-df95b3fad006,2025-03-12 20:08:29,PIX,2dcf4e1c-6284-429f-b9fe-ea42a4e79529,Entregue,Site,Orgânico,Jadlog,BR4971361566,8.0,239.9
+29c24db2-8536-4493-8457-f1b19ac0c4b4,b3a8b097-290a-4565-849f-70410f256f8d,2025-03-29 18:31:37,Cartão de Débito,,Entregue,Site,Google Ads,Total Express,BR5907627859,4.0,1489.5
+7401315e-5a28-4902-8ff9-6ce51c6e3eb0,0dedf90d-c043-4747-bb3f-76a5f5d0be0e,2025-11-04 22:59:30,Cartão de Crédito,,Cancelado,Site,Instagram,,,,1159.5
+cc490617-5cf0-46ee-b557-e64f8f9759b7,f00b5e18-fc08-41a3-837a-0b942ee77f7a,2022-11-09 11:13:02,Cartão de Crédito,,Entregue,Site,Instagram,Loggi,BR8834265244,3.0,989.5
+5ae9ca66-c326-424b-a55f-dd158af3ad11,3bb3a09d-612a-40dd-860d-ab33795d8fe6,2026-03-18 06:07:56,PIX,e1a4b564-45e0-4c90-90af-78304b500d87,Entregue,Aplicativo,Instagram,Total Express,BR7193946864,4.0,159.9
+456db99b-ec84-4b40-a59b-3cdac403b883,958ca825-1406-404e-93a4-7374e2c5038c,2026-02-07 05:51:31,PIX,b1d15e7b-624a-4032-95bd-764b1e44a9ac,Entregue,Site,Instagram,Jadlog,BR3271934676,10.0,549.7
+28c8995e-5aa7-4a2d-87bc-e47895adb792,e49e84bd-ca92-4c6d-a6cf-ff8d6fe8f78b,2025-06-17 03:32:30,Cartão de Crédito,,Entregue,Site,Instagram,Jadlog,BR8584797125,4.0,239.8
+f7c049b8-e736-4e4a-864b-89ea2e75da32,53860d9b-b409-4219-b1d9-c06bf0452b0e,2022-10-10 06:54:13,Cartão de Débito,,Entregue,Site,Instagram,Loggi,BR6944908646,10.0,179.8
+fc113065-c7f9-4677-8b76-27f580e575f1,db16cbf8-796f-43c3-8968-f3c6fa130632,2024-10-29 14:09:40,Cartão de Crédito,,Entregue,Marketplace,Facebook,Total Express,BR8135709140,6.0,119.9
+b2a969b8-03b0-41d2-9621-fef41450ce64,1964eedc-0583-4721-a42c-6d5cb97ff9a9,2025-07-01 17:39:04,Cartão de Débito,,Entregue,Site,Orgânico,Correios,BR3821018136,5.0,389.9
+bd7a0c77-97ed-4bfc-9865-a4f0ecaaa241,64682676-3fc8-4a02-803d-f76043751a8f,2023-01-14 18:19:45,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Jadlog,BR1722847797,9.0,1219.4
+4641e651-c76a-4b6a-a3d3-007728b1f22e,8ba2519d-890b-4c6f-81e9-11f61bf873ef,2022-08-22 08:34:31,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR1248377328,4.0,119.9
+9aee33fb-13cb-4c00-aa8c-1d7442a1f94d,078f6801-7ed3-448b-a2c0-43a77e3f62b1,2024-09-08 05:43:16,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR1426121052,3.0,279.7
+44912895-679e-4cb5-9601-5634e9957cd7,85635836-efc8-4f76-9886-c2263f4e459e,2024-09-10 11:21:30,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR2791435919,10.0,359.8
+19510045-186e-4215-8d15-92ccbaae4be2,4399a79c-594a-4794-9e25-14a2ce2dc2d9,2024-12-07 14:20:34,PIX,6d1f481f-f56a-4b5b-b905-22a7b2f8f0d4,Cancelado,Aplicativo,Facebook,,,,959.7
+89b93177-998b-4b58-8303-8dbac99b6627,1f084ac1-2c71-4bf5-a2f9-b87d71c080cd,2025-11-07 20:45:28,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR4074211607,7.0,889.6
+e976be36-d754-44a1-a7c7-04c8d4103bf8,d6dca17a-bbaf-447d-b6b9-287768137429,2024-05-03 17:06:06,PIX,cd022590-33de-4012-a4b7-1c22dd171433,Entregue,Site,E-mail Marketing,Jadlog,BR2212878175,3.0,999.6
+2c789903-deab-4a83-a5e8-479b3ed3e0da,fa597a38-df37-4982-8795-20418bc6048d,2025-07-20 16:03:34,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR0832680134,5.0,1419.5
+86d228b3-b5ef-4b2d-b7a0-a28b8e048d99,2699f031-7626-4b5c-94c1-c9aeb2f9333c,2024-02-02 23:32:59,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR7724412141,9.0,99.9
+295a750f-c085-441d-b7b4-6ad3d4247dda,9d62b556-b59a-436f-988e-9d79947e7aab,2022-10-26 23:03:14,PIX,4df15c44-69d0-446b-bdd7-08b50892fa86,Entregue,Site,Orgânico,Loggi,BR2009517276,9.0,1659.5
+d63b3324-b24f-4361-85bb-84edc6fd6e92,c7654e50-ff68-4db0-b686-08f07fdd838b,2024-11-20 06:50:53,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR5283170672,9.0,119.9
+8ff44e6a-ab1a-436a-8dbb-0ee22ad149c6,6c78ccbd-8157-4977-b415-e6622284cc7f,2025-12-11 06:33:53,Cartão de Débito,,Entregue,Site,Instagram,Correios,BR8051516833,3.0,179.9
+6fec8d65-0e1a-48b4-b069-eb14c25063fa,9b28a7a6-2c04-4576-bc76-c5e19cd58971,2024-12-02 12:40:31,PIX,a2c6da01-54f9-4b43-a359-f4356deb5b5d,Entregue,Marketplace,Facebook,Correios,BR7776004325,5.0,79.9
+48351d1d-7a9c-4ee6-ac56-7dbfa7a07a17,eaf8bd98-49e3-4970-bfe0-09ae806b4eed,2024-03-31 04:41:33,Cartão de Crédito,,Entregue,Site,Instagram,Loggi,BR9755931218,4.0,819.6
+7f93e060-cd07-4d20-af8a-490183a1ec57,c49d8c06-e054-47bc-944b-c01f154cc80a,2026-05-03 20:40:33,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR9649448555,7.0,739.6
+d11fddcc-4cd3-4e00-b110-64dab692c714,c3f76406-e966-44fe-a6e9-31d3e3688c58,2024-09-21 20:47:52,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR0349774926,2.0,499.7
+c74e066c-ca96-4f96-82df-244eb6181dd9,bfef7b92-fa5e-418c-ac7c-77571947fbd8,2025-11-11 02:43:51,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR5973681109,3.0,779.7
+c5e983b6-07c6-4407-bc7d-4e9fb54b2267,9b28a7a6-2c04-4576-bc76-c5e19cd58971,2024-05-23 12:10:40,PIX,5a4b3cd0-2a34-4944-a235-d8c6db04fc35,Entregue,Site,Google Ads,Loggi,BR8671423352,8.0,1479.5
+14bc98aa-5d4d-4f0d-a35f-5692ce5a8a32,1207c9d5-7e74-48e3-b2bf-991ac5d85f3a,2025-01-29 17:17:15,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Jadlog,BR8877685047,6.0,1099.5
+3b0739e2-6032-4ab8-883c-0b930c33367c,c9fd233c-d1c6-45f0-8a2e-d8fdc4b3b508,2026-03-13 04:29:11,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Correios,BR4562958402,5.0,639.7
+1074ec4e-8955-43ce-b038-c1d951351b1d,5eb0bd7d-cd96-49c4-8e9c-53b1d89c891f,2024-11-17 19:45:25,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR7948430841,5.0,599.6
+24057f62-a7f6-4b1d-bfc9-fea0a5ec089a,811dac1f-54f1-4f2d-820f-78fb8f6b5873,2023-01-18 20:50:30,PIX,c45b3787-9cdc-4cf9-8925-3e08755b2934,Entregue,Site,Google Ads,Correios,BR3394564341,4.0,1139.7
+cc009e58-6a50-487c-a557-aff064b60065,20a938ad-2b15-45f3-96f5-4e180ac70567,2023-11-02 18:38:10,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR1203334981,2.0,199.9
+3a7f1c5b-ddf8-4166-a7f6-f614da84cfb1,471b35f2-5dcf-41a4-8b19-fb7ab59b4321,2026-02-22 15:08:42,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR0162339690,4.0,559.7
+c908693f-758a-4a4e-a800-7dfd00b3171a,c765dd7e-4b4b-4cad-ad6e-bf9ae5ef0f10,2024-05-09 11:46:16,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR6928583459,4.0,1159.6
+0612a817-3e47-4771-9a49-a20d5b9fda08,dffde7c0-6f21-4b34-89d1-d897f3f94e8e,2026-03-12 12:49:50,Cartão de Crédito,,Cancelado,Site,Instagram,,,,1279.6
+c8829667-f100-4c51-8f3c-226ee4928ba7,9d536358-4097-475b-ba77-b4c8c9252505,2023-04-10 00:42:54,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Total Express,BR7645488388,3.0,599.7
+509b57a0-3531-466e-9ecf-9f21b15c761b,2ecd45be-1047-4daf-8a6a-1640c0914ab1,2024-06-20 07:15:44,PIX,3161b8cc-c81d-4901-9d75-4fbd025efba2,Entregue,Site,Google Ads,Correios,BR0421310286,9.0,839.8
+0d50d505-15d1-45bb-8190-dbd05f12628a,cd88d7ed-b57d-4338-bc9d-7f714b77c4c1,2023-06-16 09:49:34,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR2089539956,5.0,379.7
+7ccaa010-b625-4731-ac7b-8374e455de5c,62a4885b-5ff6-4a3d-bb1c-960782099984,2025-02-11 06:35:14,PIX,2259795c-2781-4b82-b11e-6b356dec950a,Entregue,Aplicativo,Google Ads,Total Express,BR6162869813,6.0,869.6
+983b8f51-0500-4907-af52-c29c181e6943,a98b0e6a-50fb-4146-861f-54cc7514297e,2023-02-06 05:28:19,PIX,41fefbf5-f9c4-4b1c-98b9-97540f872419,Entregue,Site,Orgânico,Loggi,BR9544780703,7.0,419.9
+450f2611-0bc9-4977-9e4a-8561d0df8e51,c5a7dc49-8162-4361-90ab-906d4984757e,2024-12-20 01:41:24,Cartão de Débito,,Entregue,Marketplace,Instagram,Jadlog,BR3339528932,4.0,229.8
+13ef38e7-acca-471a-b852-1e2b769efef3,0558e71e-2ee9-48d8-a8b8-cec297626d46,2025-09-20 18:40:59,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR9983763766,10.0,1099.6
+b76fdfb0-e8de-4e2d-b1c9-515cdd04d771,75b1643d-e34f-4ed4-ad44-6481b2ecb182,2024-04-02 09:26:12,PIX,9267feae-851a-48cb-91c9-d1e57294f908,Entregue,Site,Orgânico,Jadlog,BR6466242896,2.0,449.7
+05ba6bb1-1eac-41f2-a4ed-ceb0fce0def3,393007ed-8b72-4ceb-84f8-4982f09116cf,2023-10-22 11:40:36,PIX,21b5585b-dbc1-4678-bd2b-7d5a541e2093,Entregue,Aplicativo,Google Ads,Correios,BR8257710122,8.0,729.6
+2f2371b0-638e-4000-879f-3abe225c43fc,138dc354-98a1-4f14-911c-054e1663642c,2024-07-31 23:11:03,PIX,bc74100b-078e-4929-8031-334737acf8a9,Entregue,Site,Orgânico,Jadlog,BR7851557658,5.0,779.8
+ace1d0a4-adaf-482c-8fe7-51dd41a7afe2,0dcec9ad-0566-49ca-aaf5-7dcef21a507a,2023-12-12 01:01:49,PIX,5003c19b-30e0-44d9-9cb4-acae4d25e6bc,Entregue,Site,Facebook,Total Express,BR6504335761,2.0,179.9
+80b03085-a115-4c01-9388-20e04259684b,1e54afc2-96fa-4d10-8eec-1264a8a1d17b,2025-08-29 13:47:01,PIX,9dfcb7b5-b6d6-4be8-a3e8-f7a27a7d824d,Entregue,Site,Google Ads,Jadlog,BR9435619623,3.0,419.9
+7d334b9e-c180-4f4f-927b-4fe3b3759679,11c45260-72b9-4466-ba1a-94fb6a90ed0f,2026-04-11 20:51:16,PIX,ad083790-a3ca-4f94-9d01-a9d7841c2786,Entregue,Aplicativo,Instagram,Total Express,BR1969009928,8.0,739.4
+bb7ab5fc-a036-4132-84cd-7d2f7fa057aa,8ec3d80f-b8b6-4756-b60d-6995207158fe,2023-05-06 06:01:25,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Correios,BR9920277611,2.0,829.7
+cb5f22c8-624e-4720-9765-9035c0984064,0b2f4c3d-2870-4bb6-8856-af4e9cb86365,2023-08-17 08:50:43,Cartão de Débito,,Entregue,Marketplace,Google Ads,Loggi,BR1097054560,10.0,219.9
+99e7b063-f7de-4cc2-9a5f-accdfc7cf64e,db74bc16-ff58-439c-8ebe-7ec270ba259a,2025-06-21 00:22:22,Cartão de Crédito,,Entregue,Site,Instagram,Total Express,BR8205563088,8.0,179.9
+284a04da-99e2-4dad-a37b-b56b797bc240,f7b35242-f07f-417c-a67a-d96093e864a0,2023-07-12 02:32:50,Cartão de Débito,,Entregue,Site,Facebook,Correios,BR9751405915,10.0,779.8
+454c7c22-10c0-44c8-b2de-32552ee73312,9ff54405-f262-4d58-94ce-6342bac714ef,2025-10-01 05:45:33,PIX,aa1bb81d-6198-4b3e-8a52-96c523016ead,Entregue,Site,Facebook,Loggi,BR0182039572,5.0,109.9
+304deafc-9694-4d0b-8078-f757dd7807a9,df66485b-63db-4c3f-8257-6b040fdb29f8,2023-07-24 04:10:59,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR5069218170,8.0,329.9
+d0e33daa-a0c0-4abc-89c9-230dcc1ff9ec,8815226d-8da4-47b8-88af-563a91ce0d9c,2023-08-24 08:43:03,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Loggi,BR1185541468,9.0,1139.5
+b3522519-89b8-42d2-8e93-1da5f79b8089,b6b3b338-fadd-47e1-8ac3-fa86804087b1,2024-12-19 17:37:21,PIX,2afa00fb-b89d-4645-9c5a-da57c7e05d3f,Entregue,Aplicativo,Orgânico,Loggi,BR1913990986,9.0,389.9
+4f4796b6-5b18-4970-af01-9261fe574893,02b20470-f62f-41b2-9197-a8a66cf1e41c,2023-11-07 03:24:48,PIX,c90c0916-17e7-4aea-aa3b-7bb56103d109,Entregue,Site,Facebook,Correios,BR9471901486,9.0,319.8
+a8d446eb-27c2-4d2d-9abf-34d6b09b94ba,7431fc2d-5bd3-47a9-b9ed-781306dba499,2023-06-11 00:27:46,PIX,090c02cf-9a54-4f0c-8869-441b663c5fe6,Entregue,Site,Orgânico,Jadlog,BR3894376147,8.0,189.8
+1c4fac1c-9e99-4c2b-be6a-5a942205e3a8,8e4e7657-78fb-4394-bef3-35d02f8a1482,2025-09-11 06:07:24,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR2933714841,6.0,1299.4
+290d8a66-d8f7-454b-9b19-c57e7d00f329,d1ef2cf5-8b2f-4116-bf6e-8e592e33b603,2022-12-03 09:16:15,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR6774663297,9.0,869.7
+5b428c8d-5801-434b-90ab-5a4099a8f54e,c003a17c-f279-4786-a354-9cacd1c76c9c,2024-02-04 08:59:14,PIX,629c4480-2ebb-4373-b840-197455c401c7,Entregue,Site,Facebook,Loggi,BR2412631435,2.0,1079.6
+0fd921e7-3234-4178-8ec5-aca5fbdb3977,f88b5a1c-a652-4cc2-958c-331d31f39789,2023-11-11 19:16:25,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR0998364397,9.0,639.6
+cccc61a6-a2c9-4be7-9a3e-dade7025cccb,0ed11080-c375-4456-b97f-5e3fdc2dad64,2025-09-08 12:02:15,PIX,d33247ab-e964-4493-a04c-b593acd34fcf,Entregue,Aplicativo,Orgânico,Loggi,BR2471349877,6.0,439.8
+32dfbfcc-fd2d-49b8-b507-29ad19d831ef,70babf20-3911-44bd-a554-bae0e4aeb875,2023-12-22 10:24:19,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Total Express,BR9921343368,8.0,659.8
+6a42fb49-df68-487a-abf5-7f814b0f4095,f00b5e18-fc08-41a3-837a-0b942ee77f7a,2022-07-30 21:06:17,Cartão de Crédito,,Entregue,Site,Instagram,Jadlog,BR8559452831,3.0,1279.5
+0b141bd5-73b7-40de-8318-0bac6cf4d8ec,153bc2ec-7252-4f4d-bddb-784781a05c17,2023-07-03 22:22:32,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR7433851756,10.0,599.7
+4b53b3cc-35d1-48d2-8aff-5e697043ec9f,ab75f71d-653a-4a21-ad43-2c48ef7090bf,2025-04-09 23:05:14,PIX,d0d8da44-17dd-4d85-a7f1-5375c373bce1,Entregue,Aplicativo,Google Ads,Total Express,BR7665236756,9.0,619.6
+8d6d2e89-98bf-48b3-a6ec-31ecd5120368,0e97a0be-e947-4395-80ed-f1fb3972e1f0,2026-04-25 03:12:31,Cartão de Débito,,Entregue,Site,Orgânico,Total Express,BR7907811708,6.0,109.9
+d6bdba0a-6990-4dbc-9563-01846c0e55bb,8ff71c26-1c16-48b3-8091-791855430313,2025-05-04 16:55:38,PIX,2d0381f4-1996-4967-9f62-ee93814e5c6c,Entregue,Site,Orgânico,Correios,BR2680613401,7.0,1819.5
+95d30842-cd82-404b-a936-f7f11dd61b06,a23c2340-c974-4eab-88df-aa1120aeafe3,2025-12-25 07:59:19,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR4112924257,9.0,519.7
+eafde2c5-1392-4894-9594-096ba7c53534,ed74e447-5a63-41ce-b5b9-01548df059f5,2023-02-11 13:36:09,PIX,187b6347-3c77-4b90-8f21-75cabfd3628c,Entregue,Site,Facebook,Jadlog,BR5293525659,9.0,429.7
+e8c5b590-5c3a-444b-a109-a217fa3dde72,a98b0e6a-50fb-4146-861f-54cc7514297e,2024-10-14 23:26:50,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR8052084937,5.0,319.8
+29428aa3-0e75-4b0c-921a-cb46fdbff8bc,3e456f53-f83c-4f8a-8749-4b20915c8f70,2024-01-02 06:39:20,PIX,05e97166-4d87-4dcc-85f3-1c508cb33a96,Entregue,Aplicativo,Orgânico,Total Express,BR2164335077,5.0,1039.6
+58c8272a-aa64-4ea3-80ef-f5f2263fcac9,dd6b272b-7886-4b8a-9709-221f43a1e7ea,2024-10-09 23:09:23,PIX,2dcce50b-9aaf-4e11-bd09-1b5f01158da0,Entregue,Marketplace,Facebook,Jadlog,BR4793628791,5.0,759.5
+5ecb5a4f-522d-4548-968a-cbe15399d2ef,d08dbeaf-e024-491d-9857-f5daf4c8f70b,2023-06-22 16:50:34,PIX,00a3bf16-9005-4744-a414-d1efcffaddd7,Entregue,Aplicativo,Orgânico,Correios,BR0669418792,6.0,549.7
+038f881a-0eee-47ce-9abb-157d1031deeb,3bd23f90-ae8b-4874-baf6-deb207f423d1,2023-08-16 10:39:20,PIX,efbcacf3-dc25-45ed-8b7f-804c2ff6fd74,Entregue,Site,E-mail Marketing,Loggi,BR1343570451,3.0,659.8
+7ad06375-2a29-4ffd-9df9-48e4222df3ee,2b025764-b0a9-40ce-8d5d-078fbaaad88e,2026-02-05 00:42:33,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR4949931945,2.0,899.6
+af0cabaf-1a62-4af4-8eae-711f26beb2b4,d1ef2cf5-8b2f-4116-bf6e-8e592e33b603,2022-07-28 05:37:49,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR6346539724,9.0,839.6
+2eb6dfb9-56a3-46da-b72f-4438ffe48bb8,308b5609-03bc-49f4-b33a-5abf6ed8c6f4,2022-12-27 18:53:27,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR3892715874,5.0,319.8
+98e37ebe-310a-461e-804c-de3a905b3ad0,1d754b34-5ca0-4ec3-93d3-670fcdde549a,2025-05-17 09:10:14,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Loggi,BR4333276721,4.0,759.6
+67f035dd-3c0a-485b-b567-34712b97de37,76261042-1d88-457d-92a4-70439960db31,2022-11-14 02:03:29,Cartão de Crédito,,Cancelado,Aplicativo,Facebook,,,,599.5
+b24ac29d-25ea-4d00-b696-a8fbfc95775d,9767e7a0-64b2-4f97-acc6-9b77b4e20ed0,2024-12-10 16:55:38,Cartão de Débito,,Cancelado,Site,E-mail Marketing,,,,1089.5
+f346997b-a5d2-4f71-9d2c-edcab0eca1b4,3bd23f90-ae8b-4874-baf6-deb207f423d1,2026-02-26 19:27:00,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR0908861990,10.0,939.6
+f6bf48ba-cc35-49f5-a608-dc42cc0f249a,0159bae1-6134-4e16-80f2-867096d95210,2023-02-22 11:12:48,PIX,562bd814-feb6-488c-b28a-93c319cb5a9f,Entregue,Site,Orgânico,Total Express,BR9544634776,9.0,1039.7
+d95c7b77-8db9-4f50-a49a-35ecf9db1f15,72fc7ac0-3003-4cbb-9085-c6fd6f4d60f9,2025-09-17 17:53:51,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Jadlog,BR9563012966,9.0,399.8
+b4e60138-7a7f-4a21-a8c4-ed36a810bdc5,b6f92a99-9a58-45c3-903a-50d1b18d566e,2022-10-26 13:23:59,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Total Express,BR4315811070,6.0,219.9
+574cb4c7-baf4-488e-9c19-b3b5d6946fc2,d4b6a5d3-7eb7-4dce-8ddb-0f5d7b612c5e,2024-07-26 07:34:56,Cartão de Débito,,Entregue,Aplicativo,Instagram,Correios,BR5791250843,6.0,839.6
+1f35f63c-6375-43ce-b2c5-74ab92066245,2cb623c9-39ed-47c9-a43e-0fc07288254c,2024-07-02 03:51:01,PIX,77716e92-dae3-4ea1-8c2e-26d64b810caa,Entregue,Marketplace,Facebook,Jadlog,BR9935327623,8.0,269.8
+89a1ffca-e921-405b-a6ff-36ffac13433d,7cb56e25-b9d5-4f6c-81ad-61c890ab32b6,2024-04-07 18:52:05,Cartão de Débito,,Entregue,Marketplace,Orgânico,Jadlog,BR3217420802,10.0,899.7
+bf8be4c4-356d-4d11-9f65-0851485e6428,a7923242-f219-4f3d-90e8-5c4e8d55c214,2024-06-14 12:21:05,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Total Express,BR0185309350,2.0,1179.6
+698e53e1-7cfe-4f4e-8b61-acc41635b934,3545982e-8c36-418c-9dfb-b9dfefb58a31,2023-08-12 14:48:42,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Loggi,BR7556031359,10.0,779.8
+cc856730-b529-49ad-be70-7eaea46ac23a,a03e361c-ce5b-4ea0-abec-fe0bae874116,2026-05-22 20:53:13,PIX,394394eb-7c20-4185-aeb9-9b9146ac0bb8,Entregue,Site,Google Ads,Loggi,BR2356847289,9.0,1219.6
+f07d1883-5852-49ba-9924-a38704123e0a,5ab976b8-dd62-48d0-9957-589e9f838a5a,2022-11-28 18:52:46,PIX,6072a591-234d-4045-a348-023430e753b1,Entregue,Site,Orgânico,Loggi,BR9428061724,4.0,699.6
+a19018ef-72b2-4583-a44d-b96c88eac5ca,db74bc16-ff58-439c-8ebe-7ec270ba259a,2023-09-18 11:37:04,PIX,c9f7f9f5-7a91-4381-a2ca-39d951f2593b,Entregue,Site,Facebook,Jadlog,BR8932984693,6.0,109.9
+6e1f8789-0d6b-44ac-b50d-00b557071773,0e97a0be-e947-4395-80ed-f1fb3972e1f0,2025-07-19 19:14:23,PIX,b211feba-bc66-4ed6-b2bc-364f5aee6e15,Entregue,Aplicativo,E-mail Marketing,Jadlog,BR1202876050,5.0,329.9
+6aa1c307-0bd3-43bb-a1f2-8397beea7668,c35f0153-41d2-40c9-8630-2efa828cba5a,2022-10-11 17:42:39,PIX,42ac6cb4-9b18-48fd-b065-e4c578ca43fa,Entregue,Aplicativo,Orgânico,Loggi,BR8759171572,2.0,239.9
+f87ecde2-f640-41b5-ba33-cb2f583ba6c3,6006576b-90a2-40c2-8b37-74b4d5045c7f,2025-11-29 16:58:32,Cartão de Crédito,,Entregue,Site,Facebook,Loggi,BR7133209850,3.0,259.8
+bea98530-a5da-4103-8eca-2825d723555d,70a7bab1-afc4-4430-a6d1-992fdd1224a5,2024-12-01 12:57:53,PIX,f635880d-9275-4d83-bc1a-b63ba4b0f4b4,Entregue,Site,Orgânico,Jadlog,BR1658548466,5.0,1299.5
+6eab6060-a422-4e94-bb9c-ad020ad75dbb,1e97ec6c-5e4d-417c-a735-8be4d5cfe531,2024-03-16 02:18:47,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR6522493300,9.0,339.8
+ddde97ae-3f6d-43f1-a354-984d54570b1a,a52b3058-71c0-494b-85e4-f02984a2f1bc,2024-12-07 19:46:43,Cartão de Crédito,,Cancelado,Site,Facebook,,,,1819.5
+2651804c-e556-4cab-9e22-1e6c304efe10,4ba296ea-a6a5-4bc0-bf0a-da0b3f8d6ab2,2024-03-13 00:50:54,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Loggi,BR4500683920,2.0,1639.5
+b36170d1-6634-4aa8-9995-cbda3bafc6cf,393110ef-e981-43ee-89f8-24be284cbaff,2025-11-19 12:15:15,Cartão de Débito,,Entregue,Site,Instagram,Loggi,BR6747391947,9.0,1299.4
+457d5a11-8baf-4d3b-984e-687983dcc96a,09e26fc2-b77f-4832-ad8d-492bb1cf7402,2023-06-15 17:21:24,Cartão de Débito,,Entregue,Site,Facebook,Total Express,BR1706627257,10.0,159.8
+139c2732-f712-409d-81dd-8dcb9d08cbc7,1b213a15-0996-4fa2-828b-0d43c4a08521,2023-10-29 10:23:54,Cartão de Débito,,Entregue,Aplicativo,Facebook,Loggi,BR8394253289,2.0,1279.6
+fc8437b8-2402-4604-ace0-c26f013f7a43,86c400b5-8725-42cd-9d53-4d67f33cbcb8,2023-01-10 16:41:35,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Jadlog,BR2515024420,9.0,479.8
+316ec4eb-df01-4f65-ac1b-e79042b0bca8,51bc0d99-9d9c-44bb-850a-3d97b59ffb47,2026-01-17 20:33:56,Cartão de Crédito,,Entregue,Marketplace,Facebook,Jadlog,BR2676654911,3.0,329.9
+124f6d6a-bc5d-487f-ba38-db88adffab73,7d1ec55d-61dd-43f0-b902-160f58de53c2,2024-03-25 12:36:46,PIX,65e1fd6b-ac68-49a0-9d38-e7dc54c9c654,Entregue,Marketplace,Google Ads,Loggi,BR4266494427,6.0,429.7
+62d3745b-6990-4d53-8888-a0926d5c43a7,607546ac-ddec-4b63-801f-c63099e818a3,2024-04-20 11:18:47,Cartão de Débito,,Entregue,Site,Orgânico,Total Express,BR5435700146,5.0,1059.6
+4c00c26d-889e-412e-b936-98aba8c294ad,a08f6899-8cdc-48a8-8aff-22959fd22ed8,2026-07-01 05:21:07,PIX,c4c98ae1-48ab-4bf7-8b88-b0dfceb77dbe,Entregue,Aplicativo,Orgânico,Jadlog,BR6398672041,2.0,869.5
+7b9000ee-78c8-422d-ab6e-848c465d251d,52fd7236-1f51-44cd-bba0-48c9fee76811,2025-01-18 00:56:27,Cartão de Crédito,,Cancelado,Site,Instagram,,,,559.5
+280cb9c6-9405-4244-8016-199b7b95b2eb,d7589d9c-ec57-406f-aef2-01e6a8a5aefd,2023-11-03 00:33:27,PIX,98a5a61e-094b-482a-a6b1-01c0d96c8b73,Entregue,Aplicativo,Orgânico,Jadlog,BR4309935293,7.0,259.9
+f6c6ea31-c9b8-4b13-b94e-921d0096a36b,0e54eba8-0716-4721-b619-d5f5746cf9be,2023-03-08 00:11:47,PIX,5f904904-46dd-43bd-93eb-417c2d5ccb2a,Cancelado,Site,Orgânico,,,,849.7
+9e37b845-6ab9-4ecb-9236-30bc7f4d3ca0,522ee50c-edf1-4d09-b96e-8d2bc8a2be26,2023-05-14 22:07:58,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Jadlog,BR8152934216,3.0,719.6
+3491fb24-37f6-465b-894c-97ffb82e94ea,e601b79f-9c4c-4ed7-9025-c2adef931910,2025-01-27 00:16:40,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR5947163842,10.0,959.6
+77564516-94ad-47e5-9ed2-549f300cb2e2,0474d36a-7010-4ba5-b925-bbdfe3bf98e3,2025-09-22 16:05:03,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR6186016728,3.0,1079.6
+a73a755a-56bc-48d1-baf5-fc05135ec59a,2bb2a08f-0170-48ee-8305-1a6c730135d7,2025-07-15 14:58:24,PIX,8aa1877a-6652-4e47-b202-f957662105a3,Entregue,Aplicativo,Instagram,Total Express,BR4580428555,7.0,799.6
+b821e53d-7303-45b9-b211-e5e0036a3f31,14146f1b-96c3-4d6e-ac37-6d2bd2a86f39,2026-03-22 14:49:39,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR2194545237,8.0,829.7
+fe9403b9-f7ff-4e83-91b1-ebb863165a6b,85476225-e10c-45d4-8a3e-0d1904d0d15a,2023-02-27 03:40:35,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR6184156976,9.0,359.8
+93c414cd-9d77-488a-88de-ce329df00116,c300195a-7730-43ea-8904-a315240032e4,2024-07-17 16:39:58,PIX,5d988ded-67f0-4471-8587-cae611bb7c00,Entregue,Site,Instagram,Jadlog,BR7739828660,5.0,439.6
+83e24a49-7ab2-484e-8ed9-16e214cd9300,ae5ec518-3956-4b90-9fc9-ed2b232ce7c4,2024-01-18 08:33:21,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Total Express,BR1508052544,6.0,299.9
+c31f0536-b54a-4476-8838-463361150253,b31fbd06-daa5-4057-bc1d-df394f654c36,2023-12-16 19:10:37,PIX,3c9d1ec7-f6a6-49cc-be31-85bdfaadc87d,Entregue,Site,Orgânico,Jadlog,BR8642477740,3.0,659.6
+71af76c4-cc43-4b44-8a41-3e6a66f32fbc,8506e115-1e29-4994-9bc9-007e7e6b12d3,2023-05-30 04:24:45,PIX,f9aa54b4-3ff7-4f43-97aa-748cfe8c6424,Entregue,Marketplace,Orgânico,Correios,BR8698842572,10.0,439.8
+637b9bc3-51f2-428b-82c6-10fbfd51fe73,780c77aa-35e6-41a7-852b-fcc41d23e9e6,2024-12-03 06:14:34,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR5448333678,7.0,419.9
+ee94f66e-083a-436e-a21b-eafa997e396e,8aa0dda9-d529-4ed7-87ef-fdfaf44af0d5,2024-11-17 18:09:55,Cartão de Débito,,Entregue,Site,Google Ads,Jadlog,BR3980995985,6.0,159.9
+0a1aa8b7-05bd-4bc3-942e-242930659328,4ba296ea-a6a5-4bc0-bf0a-da0b3f8d6ab2,2023-09-05 23:07:06,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR5237366661,7.0,259.9
+14f209a8-012e-44b5-b012-36fb108f010c,bfef7b92-fa5e-418c-ac7c-77571947fbd8,2023-07-04 04:00:38,PIX,1fce8906-df27-4433-9ec9-77c1a4d90707,Entregue,Site,Orgânico,Loggi,BR5375631324,2.0,679.6
+ccb680d7-d988-453a-b55f-f34bbd2eff7e,62848f56-09ca-4297-9c7f-2b4dc7fd8d6b,2024-05-14 23:29:55,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR3625424890,6.0,519.7
+9213e3a4-9ddc-46b2-aafe-8ee62ced2e74,fbd12169-a791-4216-9536-c1bf473d94c9,2024-01-17 16:59:27,PIX,bbcff8af-8ecf-4394-ba6b-ed00c2c5166b,Entregue,Site,Orgânico,Total Express,BR3817234672,6.0,759.7
+b1b82b0b-ee66-499b-aca3-267ddeecfa06,fbfaa4d8-8d98-4d95-9275-e81b8f352665,2024-11-27 03:06:47,PIX,72db8ce3-e0ec-4710-a223-f26fc289d873,Entregue,Marketplace,Facebook,Loggi,BR8243279517,8.0,389.9
+23919b15-49a9-479c-9b06-fae5c104c2ef,c5a900a8-448e-4cf1-99bb-1f8659755e37,2025-11-07 15:49:24,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR8120341613,3.0,1119.4
+009b6e78-8d65-4bf2-90ef-ea98995e024a,bf1f569c-8d63-474e-8597-d00ece41ebe7,2024-09-18 08:17:54,PIX,54b288ec-c3da-4f6a-868b-5c667975b440,Entregue,Site,Orgânico,Total Express,BR3390198572,2.0,479.8
+d57392a7-9177-4910-8605-dc97248e378d,0e97a0be-e947-4395-80ed-f1fb3972e1f0,2025-10-08 05:13:16,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR8390709499,3.0,439.8
+082cddae-2d28-483c-9a4c-ee02b27b821a,afd63938-6bf1-4cfc-a118-56877747d38d,2023-08-05 04:59:45,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Total Express,BR0438013393,5.0,619.7
+767d46d6-cd0e-41e9-a2ac-676ed4ca72e7,247dd6f8-dfd3-4cd9-bd02-e9d0809bde90,2026-04-19 20:57:51,PIX,eaf783eb-4bc7-4bed-bc9f-8fe82f1b5831,Entregue,Aplicativo,Orgânico,Jadlog,BR1144784541,2.0,339.8
+24e48fa5-dbc7-4aaa-b237-7cd19a86c710,e74dde74-acc4-49b4-827d-c00fbba365ef,2025-05-31 06:50:34,PIX,e047d75d-a859-4acf-aac1-1ddbf2d08904,Entregue,Aplicativo,E-mail Marketing,Correios,BR2052486220,3.0,159.8
+c50abdbd-ddbb-4959-88e1-3077f9d2321f,41a7a87e-90d5-4e11-b99d-f3802a1ddfa3,2025-10-31 08:20:20,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Total Express,BR4530550499,7.0,399.8
+21de5e4a-6fd6-4df0-bf30-e59486b9f6c5,247dd6f8-dfd3-4cd9-bd02-e9d0809bde90,2025-02-16 11:20:51,PIX,c45e8752-a3a5-47a9-895b-e3a6312bc0bf,Entregue,Marketplace,Instagram,Correios,BR1343020677,6.0,319.8
+e1571caa-4fc5-4ba2-ba73-36859e64726f,078f6801-7ed3-448b-a2c0-43a77e3f62b1,2022-09-07 07:17:33,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR2959070755,7.0,179.9
+1d573447-0fca-4285-b32c-9d2877b9a04e,f8ca863d-0404-4b02-a3b0-eb25e0d6c12f,2025-05-06 14:20:24,Cartão de Crédito,,Entregue,Marketplace,Facebook,Total Express,BR4869587746,6.0,389.9
+a1a6dae0-7416-4deb-9efc-91e6d354136c,72190dfe-1635-4e14-a2d8-baeab3337c3e,2023-11-15 12:41:23,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR1955996122,9.0,729.5
+dbd15e3f-f4d7-4382-a161-aaa9d0ad5c36,8815226d-8da4-47b8-88af-563a91ce0d9c,2025-09-06 21:35:18,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR7415260718,6.0,419.9
+9f133211-10db-424b-a04c-de07badb7ecd,3cf69b05-c01c-43fc-90d9-3cbc4c3f931b,2024-12-05 02:15:01,PIX,3ede089a-21c9-49e1-93ce-b95e5552fd7a,Cancelado,Marketplace,Orgânico,,,,959.5
+782fcec9-f37a-45d7-af0e-2613497e9bf7,6c2930ab-6a3c-4912-a9bd-e140e56892da,2023-09-04 22:16:44,PIX,d96b61ad-47a6-40b9-b6d1-1120955aa43c,Cancelado,Site,Google Ads,,,,1229.5
+fa846d00-d5b7-481a-abbc-cd09417afba1,7ad47a79-ef38-49f9-92e9-2b926a6e8b3d,2025-01-15 01:25:17,Cartão de Débito,,Entregue,Marketplace,Facebook,Jadlog,BR5776958534,4.0,559.6
+25cd1d8b-e31c-4b66-8150-39585ccd3ca6,6e9eea82-9d1a-4533-ab75-36c8e5ac0e8d,2023-07-08 05:18:27,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR6302553686,9.0,359.8
+c930b61a-7acb-4b55-8813-60e620176957,16c62232-451a-4a87-a338-3d764c78e4b7,2023-02-17 09:52:33,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR3256238400,5.0,399.8
+99eb4aa7-7052-4ede-8724-7a8647c39635,2f6e430a-e447-402e-a7ff-33ffd2110667,2023-05-28 13:07:40,Cartão de Crédito,,Entregue,Site,Facebook,Total Express,BR0267166332,6.0,439.8
+9565a97f-b588-48ce-971b-f5dc93139dca,3cdb91a8-758c-4535-bffc-7773d97317af,2026-03-17 18:47:52,PIX,5172c4e0-a5c7-4b49-9468-b13d222f13af,Entregue,Marketplace,Orgânico,Correios,BR8068079201,4.0,559.7
+d2a08269-3d32-4cba-ba46-ddaffd3ddbcf,80426826-3676-46fa-9e02-abb4b4c507a7,2026-05-25 23:51:09,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR9017514694,10.0,599.7
+b7666773-00ca-4cfc-851b-109ea61dd8b8,2754c9d7-ef86-43e7-a168-d65f28a02dd5,2025-08-14 20:50:52,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR9736266377,8.0,219.9
+8f9a7782-21a5-4a13-b1d6-19a9214d85be,14638c0b-e47c-4f73-aefa-d5c36aed00e5,2023-01-11 02:19:54,PIX,36cfed46-88c0-403c-8c55-ff92d5c6394c,Entregue,Aplicativo,Orgânico,Loggi,BR4643785515,7.0,339.8
+6acc95a8-17e2-456a-a6d9-02fadb8fe5cf,5412aeba-1651-453f-9adb-d089f7843fa5,2024-01-22 11:30:19,PIX,a6d2e6cf-5f24-4edc-b1c0-894da5613f67,Entregue,Site,Orgânico,Jadlog,BR9984742188,4.0,389.9
+625bf181-d8d0-4aab-b409-61f479effcde,81d4a94c-39d2-4dba-bc5d-a7b8bf271ff3,2024-11-08 18:53:16,PIX,d72f0d30-136f-499e-b80a-5e65b0549904,Entregue,Site,Orgânico,Correios,BR0381709755,7.0,399.8
+af93788c-612a-4ecb-8ac1-066853556f18,15c89bb3-00a0-4b99-a752-d9938bd9f28b,2022-08-19 07:24:38,PIX,9d4625f3-ebab-4809-b3b0-9f0be0e5fd59,Entregue,Aplicativo,Instagram,Total Express,BR4613500139,9.0,1139.7
+00f60c5b-22ec-4e69-84ec-fd0681c78690,2add8722-7133-4996-b64a-11700ec18d54,2024-12-07 18:34:40,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Loggi,BR7410274484,5.0,669.7
+26fced1b-09d9-4575-9168-c4b748d16c40,86c400b5-8725-42cd-9d53-4d67f33cbcb8,2025-08-27 07:48:39,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR7463758018,3.0,739.6
+67e47d5b-d4f5-4d5e-bd74-7f08e7f88c09,0005bc87-6ae0-46f7-ad83-da5f1ad90c6c,2025-01-31 16:03:01,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR7202957758,6.0,969.6
+f1d1d130-0b13-4d8c-95cf-dfaa55533d9c,76689e53-549c-43c9-b6ac-436b54f90ed8,2025-10-21 18:34:55,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR3661698866,8.0,679.6
+dccaaa89-d674-4814-8163-33b58e5be3d9,b6b3b338-fadd-47e1-8ac3-fa86804087b1,2025-11-02 16:19:40,PIX,0e3b24fc-7b2f-42be-889c-aece44dc7888,Entregue,Aplicativo,Orgânico,Loggi,BR4737444722,2.0,1439.5
+c22e5d79-9e9c-48ae-914d-3d101f02c1e6,aa7dfff1-15d9-4c57-9578-6723eb475ff8,2025-12-21 07:10:57,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR7267404870,9.0,519.7
+39195069-66e1-40a6-9c74-ccaa28e305fe,b6f92a99-9a58-45c3-903a-50d1b18d566e,2023-04-30 17:37:33,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR4025228086,7.0,159.8
+4141698e-10d5-42c7-9587-d78fe790c96a,c9db2910-924b-4dbe-8398-89b09df7240d,2025-12-04 22:37:34,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Loggi,BR0150604963,2.0,419.7
+14185b81-4ab4-41cc-8a89-7cbbcc96ac6b,cc049094-5a23-4f4e-828b-f4cc130a8823,2025-05-11 14:21:29,Cartão de Débito,,Entregue,Marketplace,Orgânico,Jadlog,BR6608572833,10.0,1199.6
+be9fedc3-9198-4e9a-908d-adcd9b5f4fbf,e20b9f0e-becd-4d86-8e0e-5eeefea7540f,2023-10-08 02:25:49,PIX,23fa045a-4cf8-41b8-9be9-181c94e03359,Entregue,Site,Orgânico,Loggi,BR7775426389,4.0,899.7
+ed937d30-f50d-44d5-8a41-5a9a285bb76e,a330f09e-1eed-49bb-97ed-ee9b790455ff,2026-06-09 23:16:44,PIX,9ec15487-59fd-4ade-9e39-3bf43b5cd92c,Entregue,Site,Orgânico,Total Express,BR1103554584,9.0,319.8
+c417db29-ef85-40ac-b699-fce9122e8f13,616e0e1b-dcad-4c70-a56d-6bd2371c59da,2024-03-19 05:04:31,Cartão de Crédito,,Entregue,Site,Facebook,Loggi,BR4977357810,3.0,439.7
+717a544c-3466-4f30-b837-e9e705ddb828,db16cbf8-796f-43c3-8968-f3c6fa130632,2025-07-09 15:30:15,Cartão de Crédito,,Cancelado,Marketplace,Orgânico,,,,1339.4
+5cf5984a-f370-491d-a747-16f0ed2890a7,80bfb508-c5b1-45c4-9775-0883ffca07e1,2024-08-18 03:55:05,PIX,b30fea4c-6eef-404d-80a4-4c6a2d8854a8,Entregue,Site,Instagram,Correios,BR9928309659,10.0,199.9
+417bf183-7eda-49dd-98ed-b0bc6018ff02,fb9c3836-803e-4495-b75e-d8f82ad228fd,2026-05-15 18:04:16,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR6060303013,8.0,599.6
+741d2659-bd4e-46ed-af41-19e48fc51fb5,a03e361c-ce5b-4ea0-abec-fe0bae874116,2023-12-12 23:33:06,PIX,5c1b0027-5e78-4816-bd5d-20d49ad35380,Entregue,Aplicativo,Orgânico,Correios,BR9139050349,7.0,839.8
+6636af41-d31d-47b8-957b-cc392783a29e,9baf1ca3-61a7-4d31-a9ce-d551d2c75ad8,2026-05-07 17:19:00,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR7247559527,5.0,599.8
+5d05e9b3-8240-4d36-8b4b-a519e4ad75d3,a81c10fb-01cf-45eb-a0a1-613adbe09317,2024-10-09 11:53:49,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Total Express,BR9776149328,7.0,399.7
+4cb1617d-bec4-4796-86b1-e693f5db0d58,e1d7831c-cb6c-4d7c-b500-00bb98942ccb,2022-12-20 12:12:05,PIX,96db46a5-9bcd-49c0-8620-c97a1b12673e,Entregue,Aplicativo,Instagram,Loggi,BR5107868044,4.0,779.8
+8a09c777-2d55-4832-ab0e-ce2d7a8a8bf5,471b35f2-5dcf-41a4-8b19-fb7ab59b4321,2023-12-24 17:39:01,PIX,0fee5bb9-688e-44de-b220-9942f4197acb,Entregue,Site,Orgânico,Jadlog,BR8786405899,4.0,499.6
+0134d24f-b2cc-42d6-b793-795db36519f7,11ae5714-ca1b-4424-a3c3-9113aa2975d3,2025-06-13 05:36:09,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR7739650984,10.0,1259.6
+6359dade-a12a-4aa5-ab9c-f5b0e53ccd1d,41a7a87e-90d5-4e11-b99d-f3802a1ddfa3,2022-10-28 11:23:11,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Correios,BR6869879196,4.0,279.8
+0baa7565-17f1-4a6b-865a-6e4c51720e4c,f0dbb94a-716c-488c-84fb-f52076da06b4,2024-08-17 20:07:25,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR6037429615,8.0,759.7
+ac091875-a439-4297-b004-179edf3dd913,79cade4c-ea8d-4577-a2b0-10d9940367e5,2026-05-03 17:44:17,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Jadlog,BR2350595758,6.0,839.6
+b5045686-e201-4c52-9d6d-3062d86042cb,376d14bf-ae33-494f-b966-5bb160cb4406,2025-07-15 16:27:51,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Correios,BR5070599520,5.0,1179.4
+110a66c3-80e5-4c8e-a154-9eb7351adf9a,6abd7b19-1ce5-4c86-ab57-9b992c784507,2024-06-24 07:15:07,Cartão de Débito,,Entregue,Marketplace,Orgânico,Jadlog,BR9957849419,3.0,359.8
+33c94454-3b2d-4045-baa7-b3eda2c842ff,9da91e7e-9c16-4fae-bd9b-58613bb148c5,2024-08-20 02:09:28,PIX,4ad33892-60b3-439d-bb1a-dbf42bf4059e,Entregue,Site,Google Ads,Total Express,BR2493348533,6.0,639.7
+471f857c-ff1d-4d89-9370-a951d2bbb1fa,349549b4-568b-4fc9-ab1c-b0b8058f8339,2025-03-11 03:07:14,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR9411465121,2.0,1019.6
+589f6d38-c0fd-42af-a2f8-4b6a0928eade,d647312e-029e-4589-849b-1c5fd5ae1dbe,2023-09-06 00:20:33,Cartão de Débito,,Entregue,Site,Instagram,Total Express,BR3324362924,6.0,1059.7
+87e92eb3-f6cd-459f-a5cb-cc8a1d20512c,85635836-efc8-4f76-9886-c2263f4e459e,2025-11-27 03:19:22,PIX,f626e199-4752-4df0-8860-98ce649fc5fa,Entregue,Aplicativo,Orgânico,Total Express,BR2663142041,8.0,1029.5
+87d0c3aa-b118-4275-bbbd-e2693aba4dcc,b8078d55-3cbc-4ea6-a5fa-b7a5a8508ece,2023-04-05 20:57:26,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR8155189306,7.0,1119.5
+5ad25245-5f83-4d88-83a6-a066b06e67cc,2b198299-9282-402e-bc74-ccd73efa1e75,2024-02-21 05:56:30,Cartão de Débito,,Entregue,Site,Facebook,Jadlog,BR5850584739,7.0,879.7
+8de20a5a-605c-4f3e-ad0e-531d6f6c4ca5,b821c2a1-3089-43c6-ad9b-bc56fe5d3cfc,2024-10-21 17:03:20,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Jadlog,BR3110959463,4.0,219.9
+916c8f0e-4785-482d-8e0e-d6782ac7551f,06135b51-14ac-4b5a-ac84-aaf2d302d6d8,2026-04-30 14:46:51,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR8600961761,9.0,979.5
+103672f1-8487-4b60-acad-dc4c20105fbf,54d49599-d2dc-46c6-bc36-6af5cfa441ce,2026-06-26 14:47:05,Cartão de Débito,,Cancelado,Site,Orgânico,,,,579.6
+bf8549ba-c60f-438d-8ada-c0516ddb9f87,ca6944f6-ba37-49db-b8f5-6f28b0ee8d57,2023-03-22 12:12:31,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Jadlog,BR7839183524,9.0,959.7
+b9c3b085-1e7d-42d7-92b0-4fb8c3bfc1ab,6c9ec2e7-a3aa-45ef-84a5-c60d74afd836,2025-07-16 03:38:09,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR1000500347,8.0,539.7
+7e5d827b-3432-4941-9f70-6fdc4745a4bb,88ed9c77-1dcf-492c-b2f9-cd490488e1cc,2025-02-16 20:13:00,Cartão de Crédito,,Cancelado,Marketplace,Orgânico,,,,689.8
+a1dd6110-857e-4fab-b6fe-14fa9502bf0e,a814944c-4dee-45be-b435-352b3787f2e1,2023-10-16 22:33:33,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Loggi,BR8672474583,5.0,919.7
+750e9a11-4010-4150-9121-b31b024763f1,3abf0d21-724f-49dc-b135-39e5815c4be6,2025-09-29 00:52:59,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR4795502852,3.0,689.7
+10761d9c-10dc-4813-beaf-beab2fbc6f6c,69cb748d-a1b3-471b-ab17-2739576c6f76,2024-06-22 09:05:32,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR2965802177,3.0,199.9
+953cccce-fd57-49c6-99ad-496a765f4402,b23cf705-65fa-4bf3-8be6-1afb4f23d84b,2026-03-19 08:02:03,PIX,2848dc44-6e9a-4ca4-b016-d8093d735898,Entregue,Marketplace,Google Ads,Total Express,BR6194987807,4.0,779.8
+cab9b5fa-c742-402f-9163-ad293dec2ec8,bd53f7b1-7c15-4b86-8235-df95b3fad006,2023-11-14 20:49:15,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Correios,BR7484371427,4.0,199.9
+c83d87ce-e4a9-4a8d-b9bb-94b82ee19e73,ed74e447-5a63-41ce-b5b9-01548df059f5,2024-05-19 07:59:11,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR3720818498,7.0,1099.5
+b30f9df0-826b-4543-a634-38efedee3da2,f72b0e52-bb3e-4bc5-8b75-e385b9f61d2d,2022-08-21 01:07:03,Cartão de Crédito,,Entregue,Marketplace,Facebook,Jadlog,BR7955272072,2.0,719.8
+98c6fce7-cc46-4cd7-ba46-78cecf6cea39,9d536358-4097-475b-ba77-b4c8c9252505,2023-06-28 14:29:42,Cartão de Débito,,Entregue,Aplicativo,Instagram,Correios,BR3370970632,7.0,179.8
+7a5a0128-ec9c-4530-a193-f0a7b6891440,d03977a8-6c16-4d5f-8e63-579de18cfccf,2026-05-14 16:24:09,PIX,9c8a5be1-2910-44e0-8d2f-850615c3bb62,Cancelado,Marketplace,Google Ads,,,,179.8
+e844a32b-64fb-4662-ad63-4cf67a72110e,72fc7ac0-3003-4cbb-9085-c6fd6f4d60f9,2024-05-06 14:12:32,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,659.7
+7ab4b4f9-bfb7-4dbd-b8c9-b3ddea24f80a,79535420-683b-41c6-8583-5b4b42ae3c8b,2023-06-21 16:46:33,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR5177820315,2.0,1599.4
+a39d09fe-e090-496d-b35b-8839e6242171,4d23ec59-3172-481b-b858-b7a0d111b793,2023-09-17 21:29:55,PIX,f362b494-2b54-482d-9337-93cc0c429e14,Entregue,Aplicativo,Orgânico,Correios,BR7632743620,7.0,119.9
+045357a8-f54e-432f-bd14-781d865991f3,6c2930ab-6a3c-4912-a9bd-e140e56892da,2024-04-17 11:59:13,PIX,c84255f4-9cf9-4e41-9460-3b9b48a521a5,Entregue,Site,Orgânico,Correios,BR5819779606,6.0,819.6
+69f241b6-502a-4a9d-b185-c6e840d4d9bd,514bbb21-a291-4d72-88eb-48752b9e0d4b,2023-01-24 13:02:58,PIX,aba3178b-2e09-4379-a4a3-078e4947e038,Entregue,Site,Instagram,Total Express,BR1390951809,2.0,199.9
+1495eecf-18bd-4e15-b9b2-4612ee07bcea,7f213d98-614b-4c9b-a4e6-9e4c9976acc4,2024-12-23 22:16:25,PIX,115f2994-cec4-4661-9975-9578fec4723f,Entregue,Site,E-mail Marketing,Total Express,BR8179652280,5.0,359.9
+6e3ee28a-5ba4-4724-b0a2-27a76eb0742f,0ed11080-c375-4456-b97f-5e3fdc2dad64,2023-05-14 14:14:22,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Correios,BR9979304590,9.0,1599.5
+facce5a8-8e58-4da4-9847-90c73b7ad83e,a47a1a47-a2fb-4ee9-b5a7-6ddcf3aa65d6,2024-05-19 11:49:59,PIX,f7ff0fe8-948b-451c-9413-39926ab4c225,Entregue,Site,Orgânico,Correios,BR9913603453,6.0,769.7
+da1862b6-014c-4ed3-8a2f-eb5e76f0e9f3,d4b6a5d3-7eb7-4dce-8ddb-0f5d7b612c5e,2023-01-05 15:43:42,Cartão de Débito,,Entregue,Site,Orgânico,Jadlog,BR1773730141,5.0,179.9
+b71f206e-944e-4862-bfbb-e0c09096603c,71f6b9ca-6cc6-473c-a069-5859349e51c3,2026-03-02 23:53:13,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR6753269913,8.0,799.6
+5470fbf6-1676-489b-8f16-2dfe752422e4,63f94a60-c987-41c5-829e-806ea30c20cf,2023-11-28 01:41:45,PIX,5c5a302c-394f-4b4c-93e8-b287f76998d5,Cancelado,Site,Instagram,,,,239.9
+da51a55b-883b-4171-930b-1d49749c478a,d75accb6-7187-44d6-a6e1-7907c92bf45a,2023-09-29 13:30:05,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR6405712270,4.0,549.7
+fac8eb17-da2e-44a7-8104-9e78774e702c,bf0900f1-f229-4d2d-935c-82b715be239a,2023-09-13 11:28:54,PIX,279f1aab-d203-4230-bddd-afbd61a26de6,Entregue,Aplicativo,E-mail Marketing,Loggi,BR9509817709,10.0,519.8
+8c48b487-8d50-4174-94d4-14a6895bea77,e2754d36-7da6-45ee-906e-beb6ca3439d6,2024-06-19 01:51:01,PIX,26f30125-1da2-4a32-9738-d1814ef4a35b,Entregue,Site,Orgânico,Loggi,BR5305357911,5.0,1559.5
+156a16d6-96c1-4ccf-bf5e-3d59202891a3,b8078d55-3cbc-4ea6-a5fa-b7a5a8508ece,2022-08-24 09:13:39,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR8472445424,6.0,599.8
+347a7bc2-adf6-41e1-a129-323f17a5a6a8,222683d3-88f8-401b-ba6c-75603864fb24,2023-04-27 12:43:16,PIX,d3deec6b-a157-4821-a38c-c87a313b7708,Entregue,Aplicativo,Orgânico,Total Express,BR2222702673,5.0,869.6
+e6a0f382-eb9a-424f-9d4d-9ab11e28f59d,55bfee89-4f9a-4595-9724-fa7671db2039,2023-11-02 23:57:26,Cartão de Débito,,Entregue,Site,Google Ads,Jadlog,BR1693885180,10.0,419.7
+39132ebd-787a-4531-a752-1972ca9936fb,383d523d-05f4-4652-a609-9f052d7a076a,2023-03-05 12:39:17,PIX,e6a9e80d-367a-4b52-8dd7-837fb364851c,Cancelado,Aplicativo,Instagram,,,,839.8
+794922c4-eb91-44b5-9c51-7c0ef7f44657,cf989ad3-c50e-473f-999d-9775fa747dea,2026-06-19 19:53:55,PIX,552f9a9f-04ed-48a7-99b2-4ea63ea8d10f,Entregue,Site,Google Ads,Correios,BR1670347513,3.0,479.8
+089b46db-01ad-4996-a73a-4f1fe19e1e12,a2c499ae-8bf1-428a-add4-fc4a5b1db576,2024-03-01 13:42:58,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR8017851888,5.0,199.9
+4c475a00-eff9-40ca-9e42-5d456111ea7c,559a84f5-822f-4d8f-b058-23f1de93c5f3,2026-01-01 06:20:48,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR7106039647,9.0,159.9
+7b114c28-4b9f-445f-b0d3-52decd50ea5b,7d299deb-c935-48b0-ad41-f61737430ac0,2023-06-26 17:21:21,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR5680605962,4.0,299.9
+b0aab1b1-a8e9-47e8-98b3-a6e34da806f7,22d58c64-8711-4c1e-9619-5f0285ba8e83,2026-03-26 20:21:37,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR1742747912,9.0,939.6
+f291266e-e8b8-4ac7-9af6-2ed0f113b019,550ac6b0-107f-4e3a-b7f9-9da5ca6f9c12,2024-05-10 09:33:33,Cartão de Crédito,,Entregue,Marketplace,Facebook,Total Express,BR0074468122,5.0,519.6
+6e9d8bf9-e05d-4c01-81f6-f8b24709cb78,44bde7cd-796b-47a8-8c1f-af643f65c81d,2026-04-03 18:20:06,PIX,03708aa2-a45f-4780-ba72-f178c21ac273,Cancelado,Site,Facebook,,,,739.4
+d24608d2-a3b9-4604-8850-d7e99f3ca7be,ca6944f6-ba37-49db-b8f5-6f28b0ee8d57,2025-01-24 21:19:05,PIX,19d7210e-1983-48df-b872-98a54d0b97cb,Entregue,Site,E-mail Marketing,Loggi,BR9041393219,5.0,199.9
+66e94115-9787-4447-887a-a5de66005fe4,eaf8bd98-49e3-4970-bfe0-09ae806b4eed,2025-09-04 04:27:08,Cartão de Crédito,,Cancelado,Aplicativo,Orgânico,,,,1439.6
+f7938203-cd55-411a-93c9-bbb58fc0a48f,17b5ae6c-37cb-465e-a649-572732041290,2025-04-06 20:38:12,PIX,77dea55f-b5f7-445e-a2f5-76640996d5d9,Entregue,Aplicativo,Orgânico,Correios,BR2423913270,6.0,109.9
+a81a2cd5-d1b8-4842-abfe-39d61d3abec2,8ba2519d-890b-4c6f-81e9-11f61bf873ef,2023-06-04 04:03:01,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR0979840836,2.0,389.9
+d433eb61-7918-4b5e-941b-b8941cd3da17,3c7f3dd8-3ebd-4d0c-b5b5-c0ce4ef567e8,2024-10-12 20:58:57,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR8338554852,3.0,1059.4
+72a0a30a-04ad-4c03-bb8a-0aefb1230404,8e649b13-7537-49d8-9e9e-9dde5a490975,2025-08-30 07:56:03,PIX,b6030929-aba9-48d7-a338-09fee96c25c7,Entregue,Aplicativo,E-mail Marketing,Total Express,BR1325566212,6.0,1179.5
+dbcd6fa6-b8f1-4270-b460-515220baf7a6,1268b80e-6cc2-4b1c-a0c1-69fc6df84e54,2022-08-07 22:05:49,PIX,92e23801-715d-47d8-a44e-433e27390588,Entregue,Marketplace,Orgânico,Total Express,BR2662832754,3.0,649.6
+05c315a4-09ce-4cd0-9aba-c8f956171e10,e7b6b511-81ba-4f69-8c30-c133a610f5a9,2025-04-23 08:59:49,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR3603020029,5.0,599.8
+3420501d-b60b-4c59-968e-bf20d0568401,d8852d7b-319f-4276-9e5c-370a43893b28,2025-03-21 10:15:08,PIX,ed8e0dae-d60c-4e9d-b2d3-78499a99ffd3,Cancelado,Marketplace,Google Ads,,,,749.7
+48088900-0a7c-4fe0-989c-67fb1a4e391b,ccdae916-2d60-4768-ac48-97ed23d1f0ba,2024-08-10 15:33:30,PIX,78371e2f-6a60-4747-82c2-0a4586e46374,Cancelado,Site,Facebook,,,,699.6
+57b2d822-1663-4084-b47c-7813bd8a1641,2fa560e6-7656-482a-a07d-0c5644804621,2023-05-22 06:26:00,PIX,cbec234b-09a3-45ca-b218-31980ae0601e,Entregue,Aplicativo,Instagram,Total Express,BR3204304799,5.0,199.9
+2e488b3d-51fe-441f-b1e9-6ead4c55cd5a,393007ed-8b72-4ceb-84f8-4982f09116cf,2022-09-21 14:55:50,PIX,918951ab-93b9-4f3e-a183-5cdcafb081ab,Cancelado,Aplicativo,Google Ads,,,,559.8
+9090e595-70ef-4b81-ae77-d2783d3c4e1c,fd77eade-d608-4777-8748-9af908722fe4,2023-09-08 13:09:42,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR4102985530,7.0,419.9
+8d5849cd-9c03-45b9-84c7-cc65fc628ed4,0939c8f6-9a55-47c2-8aab-d305db1bfcf0,2024-07-17 08:44:33,PIX,772c563e-e7e4-49b1-b75b-4cdbfaee6b70,Entregue,Aplicativo,Facebook,Correios,BR1357099261,5.0,619.7
+319aac81-f046-4aa7-a8c4-30761511ca91,ccdae916-2d60-4768-ac48-97ed23d1f0ba,2025-04-01 18:57:18,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Loggi,BR5782951960,2.0,659.7
+a1d7dd4a-cdeb-4a57-9356-64767a5c08e5,1f084ac1-2c71-4bf5-a2f9-b87d71c080cd,2024-10-27 06:32:03,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Jadlog,BR4883122085,10.0,1239.6
+41060336-4c2b-4619-9565-cc120d8b2360,889c9bf2-6f18-4f1b-b57b-79413c629db6,2025-04-18 15:47:05,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR3829755082,6.0,439.7
+e18884f1-b358-4990-810d-7f839900dbb0,8dc27582-172d-4155-b3ee-3c1111b85d53,2024-06-03 23:15:05,PIX,98b2b09c-282d-4387-92cf-441d91da7540,Entregue,Site,Instagram,Jadlog,BR4081721293,7.0,629.6
+fb2cc5eb-a9d2-4d8f-9b0b-6802b6c722db,0ba8b1d3-2ff2-46f6-aa3e-129893909e6a,2023-06-15 17:47:23,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR3529865805,9.0,1059.5
+aaa56197-69cf-43e8-bc0c-53bcfe5aaa02,0e97a0be-e947-4395-80ed-f1fb3972e1f0,2023-03-29 23:06:52,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR3448961434,2.0,1239.6
+71d7fccc-6af5-4e81-8282-7eab17a432c1,0939c8f6-9a55-47c2-8aab-d305db1bfcf0,2023-10-17 12:59:07,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR1565557264,2.0,159.9
+9a9f20fb-2211-4906-9e20-6bae61c8211f,b25f3277-6716-46c9-bda4-3561870b96b6,2026-06-26 18:02:27,PIX,1432c73f-7a67-42d2-aafd-158b6174c0e6,Entregue,Marketplace,Instagram,Jadlog,BR9053028911,8.0,499.8
+e2498883-cda3-4e2a-8a61-08bc71ca6d4b,5ab976b8-dd62-48d0-9957-589e9f838a5a,2024-06-18 21:05:27,PIX,69de8a67-5e23-4239-a4d2-17aebe6d6856,Entregue,Aplicativo,Orgânico,Total Express,BR7718538736,2.0,1639.5
+df963f59-5ff8-44a1-a0f2-cb453ddbc089,22da0ff9-464c-48f6-a986-ad49a0c93404,2026-01-11 19:09:54,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Correios,BR0261872888,8.0,689.7
+a351a60a-6a76-48d6-b4d4-021c84bd3a01,80ebbf90-ed32-4dd6-a59a-655a65b8d9de,2025-05-17 14:32:07,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR2103471471,9.0,519.7
+9cb309fb-c1ec-4571-b488-90304ee8e2f2,5a246639-323d-4786-86c0-0ccf2976d20a,2023-11-10 19:09:44,PIX,6f14039a-1904-491f-a15f-4fe354e7661a,Entregue,Site,Orgânico,Loggi,BR6459695037,6.0,199.8
+4ccfd5e3-5523-4314-a8c2-da34572b36f1,441ed48d-7e24-4778-8133-556e7fbb283d,2023-09-22 16:08:10,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR9598026830,8.0,959.7
+382acd09-5dad-4620-9610-40b0e2a12260,c47da24e-d7cf-4f8a-8839-2f6796443ff5,2025-06-05 02:48:36,PIX,be183b86-e0fa-4c7b-95fd-b7f05dc2a09b,Entregue,Marketplace,Orgânico,Loggi,BR6269414979,8.0,599.7
+8a333bc1-ae71-4fdd-adc2-bd5be7260332,6ee3a224-f93f-4ea4-ab38-b504231d96e3,2024-06-18 18:44:09,PIX,b943db20-617e-4146-b425-88a211caa24d,Entregue,Marketplace,E-mail Marketing,Jadlog,BR7578937019,6.0,439.8
+7d7c3129-e179-41ef-a0a2-2693f0cc4e69,4be952f2-d34a-49f5-b8fb-1093050c2074,2023-11-04 02:30:50,PIX,912f018a-6d91-4cb1-99fa-9c67326f7d43,Entregue,Site,Orgânico,Loggi,BR5405080345,8.0,619.8
+f1f0a23a-772f-4404-a2bc-19a6995b21a1,b25f3277-6716-46c9-bda4-3561870b96b6,2024-10-09 11:31:12,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Jadlog,BR7836411254,5.0,1099.5
+76ef2cb5-9a8c-4f49-b1db-e05d0a88c6e2,5aa378cb-be7b-41f0-b36c-2991a2f3487e,2025-02-22 09:06:09,PIX,d3b3ed62-897b-45ec-beca-dfa4cf0f0d24,Entregue,Site,Orgânico,Correios,BR5511525670,7.0,1459.4
+3434a9c7-d6a6-440d-96dc-ca753c8abf5c,e20b9f0e-becd-4d86-8e0e-5eeefea7540f,2024-03-09 10:23:04,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR1643867756,7.0,419.9
+50bc555a-3a7c-429f-bfba-ccbba9c84349,4399a79c-594a-4794-9e25-14a2ce2dc2d9,2023-02-06 01:23:12,PIX,f668c5eb-dd17-4136-bea6-4b4494ce8abd,Entregue,Aplicativo,Google Ads,Total Express,BR7987622868,8.0,519.7
+0283f165-85f7-4694-aaf4-a6e03a27e7f0,f8ca863d-0404-4b02-a3b0-eb25e0d6c12f,2024-04-11 19:12:39,Cartão de Débito,,Entregue,Site,Orgânico,Jadlog,BR7114225552,4.0,679.8
+86c7b90e-2cbc-4378-919f-4fda36878437,d123a146-7502-44f3-ae2c-a755fb70b005,2024-03-25 03:39:48,Cartão de Débito,,Entregue,Site,Instagram,Correios,BR1377148102,2.0,859.6
+71f5626e-50ee-4fbd-aff4-7ba331bad16e,4bbf5f6a-4d71-49df-97b8-baa902d703c7,2026-06-06 23:20:20,Cartão de Débito,,Entregue,Site,Orgânico,Total Express,BR8971026686,6.0,659.6
+342899cf-7af6-4742-a955-bc3309523d29,209dfe29-1b70-465b-879c-0df5b718c5f9,2023-08-08 23:53:46,PIX,d6eadd73-b1b5-414f-b65b-32318a5f7d08,Entregue,Site,Facebook,Jadlog,BR2615597208,6.0,919.6
+e061ea3c-b012-4720-8c4b-273d10c4ee77,6972464d-3a62-4096-8918-a12aba5d77aa,2025-04-24 14:48:29,Cartão de Débito,,Entregue,Site,Facebook,Total Express,BR4538157528,7.0,589.7
+36993514-712b-4c66-97a2-b51b24bd8ab8,3ebcb03c-9ce2-42a0-bcf5-a051c49d9bd3,2025-07-11 20:17:59,PIX,2d9f2ffd-89f5-4520-b21e-1d03f5ea7a6b,Entregue,Site,Orgânico,Jadlog,BR1894502809,3.0,199.9
+de9f739d-1bbf-45df-ad56-a201d2e0767c,0dedf90d-c043-4747-bb3f-76a5f5d0be0e,2025-12-24 23:37:27,PIX,05d405a2-8016-4513-b246-462d358f8882,Entregue,Site,Orgânico,Jadlog,BR3136357264,8.0,299.9
+f5203789-c128-493e-bfdb-0f6ca62b4e2d,b31fbd06-daa5-4057-bc1d-df394f654c36,2023-03-31 13:00:01,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Total Express,BR1537081053,4.0,319.8
+7d2d5c2b-62c6-4b4d-886c-4d14c8b9434f,a412107d-aaee-44ea-a9da-b66f62450123,2025-04-12 21:54:24,Cartão de Débito,,Entregue,Marketplace,Orgânico,Loggi,BR6326496926,8.0,299.8
+87a7a276-0ae0-439a-a7f3-31a5f279001f,97fc796a-2316-4572-b12e-063a70094138,2026-03-30 08:38:22,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR1652906575,6.0,649.7
+b63376d3-4282-4174-91ca-ef0ecefbd392,dd6b272b-7886-4b8a-9709-221f43a1e7ea,2026-05-03 00:01:58,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Correios,BR7061463338,6.0,809.5
+c700fde6-6ac9-4789-af8e-6cedb5996e83,79580480-ef90-4347-bc0e-3906e62ed8de,2023-09-11 21:03:21,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR4581336213,5.0,829.6
+c4478a1f-0fdb-4cf9-96eb-5c3304f338ba,a08f6899-8cdc-48a8-8aff-22959fd22ed8,2022-11-02 08:43:07,PIX,0b7e1d7b-7221-4ef0-a944-c1f9f89de1bf,Entregue,Aplicativo,Google Ads,Loggi,BR2574876545,4.0,899.5
+9925a1ec-3419-45dc-bdf7-2c0b49a0e14b,8330b191-05b6-43fd-ae86-649d9318895e,2025-10-16 19:21:48,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Jadlog,BR4895609611,6.0,249.8
+a3fd7050-5a2d-4693-8406-3171119e5c8f,c0211c74-0ca5-4998-9b18-e70e7878642e,2023-02-03 23:47:09,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR5785903053,10.0,109.9
+672b02b5-967e-434d-841e-efef61bddf77,cf07d8c6-883b-4b47-92d2-dad56b74701d,2024-01-13 12:59:48,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Jadlog,BR5605101442,8.0,79.9
+f22bac36-f3bd-43b0-a0c1-9c1ef3f16dba,780c77aa-35e6-41a7-852b-fcc41d23e9e6,2026-04-20 23:19:21,PIX,c1df347b-c804-4bfc-aac0-8881155e83c2,Cancelado,Site,Orgânico,,,,859.7
+588abdb5-d5c6-4272-b19e-387c2dfc227d,df9ff50e-cb71-4f30-b5b5-8dff90792f40,2024-10-25 09:12:27,Cartão de Débito,,Entregue,Marketplace,Orgânico,Jadlog,BR6213034136,7.0,439.8
+0a9263c7-a15b-4750-bd0e-f0db77538a8f,60cc4010-e5bb-4e36-b24f-5320d56d1f50,2025-07-19 03:56:41,PIX,8da1bca4-77af-40ec-b69c-80372b6373d9,Entregue,Site,Facebook,Loggi,BR4978370058,4.0,699.7
+e21bdb03-44dc-4810-abfb-aa63eee740a5,8511163b-e35d-47e5-828d-bff9693b2a6f,2022-12-23 06:58:02,PIX,68ed36c9-cd9a-488f-9b4d-97258e713ab1,Entregue,Marketplace,Orgânico,Loggi,BR0698670389,5.0,869.7
+bd143f6b-6992-48b2-9bfa-96ae4408eeac,153bc2ec-7252-4f4d-bddb-784781a05c17,2023-06-06 02:15:45,PIX,9ec2ad6a-2bb8-4d97-9dcc-b775231d5a1a,Entregue,Marketplace,Google Ads,Correios,BR6756492938,8.0,599.7
+2a7dd36b-78f6-41eb-80f7-f56f9765408f,29d76d30-8930-4f06-a749-308107c85099,2026-03-16 13:18:38,Cartão de Crédito,,Cancelado,Marketplace,Facebook,,,,219.9
+d42abb66-71bf-4e3b-ad8f-235cf23e37fe,755201fc-703d-4318-a534-4f1c1497ba60,2023-09-10 14:43:43,PIX,5ceee762-4f53-4a43-a82b-1c57d46df690,Entregue,Site,Google Ads,Total Express,BR0491166281,8.0,239.9
+364412a3-d523-4a56-b14d-b2caa8b713c8,184d1ab9-5ab9-4ba0-a333-7f23bd48fd3a,2026-04-19 12:02:01,PIX,52ca4f9d-01d7-4799-b2b7-49edde04ede7,Entregue,Site,Orgânico,Correios,BR5489215520,9.0,839.8
+ca5e362a-d6cf-4d7c-8e0c-3f647288146a,88284bed-e9d5-45d0-9c8c-14ac1c0a41ff,2025-01-12 13:32:48,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR4988697868,5.0,279.8
+73906c0f-9835-48ff-98be-6210e3dea6e4,514bbb21-a291-4d72-88eb-48752b9e0d4b,2025-01-23 10:59:07,Cartão de Crédito,,Cancelado,Site,E-mail Marketing,,,,599.7
+d61241c7-8285-437f-aa40-8a1b05cf9cd6,75882083-3355-4b5d-8a36-2bb6c5d8e564,2025-04-13 10:55:34,PIX,9651742b-01fa-4af7-ba26-8c238eebd901,Entregue,Marketplace,Orgânico,Loggi,BR2011832263,5.0,679.6
+45600e07-5de6-410a-a36f-e2511b568147,ef3ef93c-caf0-4e5f-898b-3f5086c4320c,2026-03-02 18:21:47,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR3651458388,4.0,1399.5
+29abc897-bc70-43d9-ba1b-9de0db573fda,561a4f37-69af-4cc1-b344-af1669ab973c,2023-05-15 00:46:22,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR9185150889,5.0,879.7
+d1fa73d3-0aa9-40d2-97ea-04b7823c059a,f8774ad6-43d9-471d-a9d0-c727893b8d9c,2024-04-11 10:17:51,Cartão de Crédito,,Cancelado,Site,Facebook,,,,359.8
+fe707394-5992-48b7-b67d-4ee13344b2a8,5d8db4bd-af10-4831-be2a-5ad07ae6f7cc,2026-07-19 08:46:41,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Jadlog,BR1340905528,8.0,599.7
+1a3473d3-e745-4069-82a9-0916c67852cc,f3d29faa-6905-4402-a1dc-56473a3402c8,2026-05-18 02:53:31,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR0517275860,2.0,239.8
+3cab12d0-e777-4b3c-96ce-c1445c5e7ccb,c300195a-7730-43ea-8904-a315240032e4,2023-02-08 22:52:28,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR5074539362,3.0,219.9
+bf6a033d-07c0-4523-86ef-3698894bb88c,e8a55abe-db41-48ba-9046-eadfe43f3d21,2024-03-22 00:45:31,PIX,d237e1c3-af03-48ab-bcdb-08f3fa978263,Entregue,Aplicativo,Orgânico,Correios,BR3761403845,6.0,1239.6
+08ef0cdf-5d15-4f4e-962e-85d7cc1a2fb3,04dfa391-168e-498f-809e-8b026fda5c45,2026-04-04 10:47:36,Cartão de Débito,,Cancelado,Site,Instagram,,,,879.6
+81161f7b-b2e5-4c25-967f-da30b7797df3,aa309c4b-c45a-4f9e-bf1a-a14ccd598d4e,2025-04-08 15:39:20,Cartão de Crédito,,Cancelado,Aplicativo,Facebook,,,,979.6
+0a047b34-f140-4a94-b320-342fc7929b69,8330b191-05b6-43fd-ae86-649d9318895e,2024-10-03 18:54:40,Cartão de Crédito,,Entregue,Site,Facebook,Total Express,BR3924749004,4.0,419.9
+e0f3fec9-77c8-4a82-ba74-97ae7498f448,bf0900f1-f229-4d2d-935c-82b715be239a,2022-11-25 04:19:15,Cartão de Crédito,,Entregue,Marketplace,Facebook,Loggi,BR2398105002,10.0,559.7
+8264853e-d38d-4933-a234-82cf328368b9,bc76aab8-8128-45c6-ba0c-d942d8e61832,2022-11-18 22:09:44,PIX,df54f468-ca64-405d-8506-d7c9b51faf46,Entregue,Marketplace,Orgânico,Jadlog,BR0142378367,8.0,1139.5
+6b761d5c-54b8-423f-9372-6df1e9230dd0,e48fe8cd-fabc-4079-b62b-e7bf2d90c8b3,2026-02-07 01:06:23,PIX,29308cf3-7286-4042-b9a9-926d22e9d34e,Entregue,Site,Instagram,Correios,BR7966811864,8.0,1539.4
+ec3fa348-3738-4506-befa-507e1d89fe30,1c874404-7acc-42b2-8d20-05f0a62224c8,2025-08-31 05:07:43,PIX,b8ae8273-5eca-40fb-a955-65ee531e00d9,Entregue,Aplicativo,Orgânico,Correios,BR0984466731,10.0,179.9
+ee20e595-e321-4e12-aa2b-a75252db7699,559a84f5-822f-4d8f-b058-23f1de93c5f3,2025-10-01 03:46:18,Cartão de Débito,,Entregue,Site,E-mail Marketing,Loggi,BR3870896518,8.0,319.8
+1ff5ce07-b3d1-44f3-b862-313b01e4467c,d9bfcb0e-e841-436d-8ef4-c2069f979a80,2022-07-28 01:45:15,Cartão de Crédito,,Cancelado,Aplicativo,Google Ads,,,,219.8
+f5f144c0-b93c-4649-ac8b-3e4dc697e5a3,22da0ff9-464c-48f6-a986-ad49a0c93404,2023-09-26 23:17:31,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR0197175925,4.0,1419.5
+88b617b2-7a00-4599-a3eb-adb4c6a9355a,d6dca17a-bbaf-447d-b6b9-287768137429,2024-04-04 01:16:18,PIX,f8c42181-a8c3-4577-8307-2d780db2cc79,Entregue,Site,Facebook,Total Express,BR7694447341,6.0,179.9
+d1ffcb64-f3fb-43ec-9e49-7b2bbcc73ebc,184d1ab9-5ab9-4ba0-a333-7f23bd48fd3a,2023-12-22 17:25:06,Cartão de Débito,,Entregue,Aplicativo,E-mail Marketing,Loggi,BR1493095367,4.0,1359.5
+349887df-bf8f-4cbe-acdc-ecd1ec0c0545,76689e53-549c-43c9-b6ac-436b54f90ed8,2026-04-02 05:35:10,PIX,711ad6b6-8f84-4b20-b493-7bed9f584af3,Entregue,Aplicativo,Facebook,Loggi,BR6791771877,6.0,719.8
+ce68f63c-1848-4142-a1b1-f8a6a2ba3013,97d4412f-020e-4fa5-b1d9-0ec08cbd87cc,2023-02-10 10:37:24,Cartão de Débito,,Entregue,Marketplace,Instagram,Loggi,BR8938717906,6.0,339.8
+9af9898d-014d-466f-90b7-e2fc2ca0b6f8,0e97a0be-e947-4395-80ed-f1fb3972e1f0,2022-11-21 09:25:12,PIX,4d96154f-2ba4-4c1a-b2b1-0e80618e6ff3,Entregue,Aplicativo,Instagram,Total Express,BR7564167549,10.0,919.6
+2e668586-a687-4367-8712-b521c31161d9,aebe3dad-a7c9-427d-a135-d42a89c02add,2024-09-07 19:21:54,PIX,d686e867-f51c-4d37-8e87-35a44039433a,Entregue,Site,Orgânico,Correios,BR7915223874,3.0,399.8
+8ee24f98-2820-4ceb-8479-c55ed0609943,17b5ae6c-37cb-465e-a649-572732041290,2024-12-08 08:43:37,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR7803735171,7.0,419.9
+763f6423-830e-4cc5-8a15-133f82a40ebb,a26750fe-f6a9-4fad-8837-bbd5014fa55e,2026-06-27 19:34:25,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR8825699446,9.0,559.7
+2657349a-9307-43e5-bf9b-71e994e7c35d,440edfdf-b2f1-4148-bfb5-3650557e3a1e,2025-08-08 21:16:51,PIX,8933f6ee-ab98-4511-beee-e70e99b7bf53,Cancelado,Marketplace,Instagram,,,,519.8
+629a498a-43d4-47d8-bca9-8d63bbb370d5,e49e84bd-ca92-4c6d-a6cf-ff8d6fe8f78b,2026-05-17 13:21:40,PIX,3efb50ed-3809-42ce-be15-0b9be33c87a1,Entregue,Aplicativo,Orgânico,Total Express,BR0013396051,4.0,699.6
+3e2d4f56-c257-4319-8e30-d126eadfab1b,5eb0bd7d-cd96-49c4-8e9c-53b1d89c891f,2024-10-25 15:45:44,Cartão de Débito,,Entregue,Site,Google Ads,Total Express,BR3612986032,6.0,1239.6
+d54c7c1c-c87b-439f-959d-a1589e739cfc,a50f3107-5c7c-41c1-9b25-8c7c6ab4a9bf,2024-12-05 02:30:29,Cartão de Crédito,,Entregue,Site,Facebook,Loggi,BR7976027058,5.0,529.8
+3a586959-1c03-463e-9292-6e083a90c357,607546ac-ddec-4b63-801f-c63099e818a3,2024-07-24 05:21:17,PIX,b297b3c7-7e5c-43fb-84ba-2650cef625b1,Entregue,Aplicativo,Orgânico,Correios,BR5017603465,9.0,729.6
+0393518a-1a89-4727-932d-94a395c3114b,90b3a98c-ea56-4d4a-a231-14f11e156af4,2024-02-07 04:11:19,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR4905994125,9.0,439.6
+f650db4b-4288-4191-85ca-b26684c7ea78,0b66c649-5523-4167-8115-1d92768fe92b,2023-08-07 05:03:31,Cartão de Débito,,Entregue,Site,Google Ads,Jadlog,BR9892226764,7.0,629.7
+75880752-9d7f-4ed8-a614-167dfdef7a9c,11c45260-72b9-4466-ba1a-94fb6a90ed0f,2022-09-05 16:20:56,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Jadlog,BR6255114061,4.0,969.6
+57f7468e-8c5a-4a2c-8461-2bf169beaecc,4ba296ea-a6a5-4bc0-bf0a-da0b3f8d6ab2,2026-06-03 16:03:55,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Loggi,BR3308756518,4.0,1079.5
+08531ec2-1d79-4826-ae54-6fc4c8cd5147,eaf28dcc-4878-4f15-8e38-31e6970ff6c7,2026-06-08 08:10:46,Cartão de Débito,,Entregue,Aplicativo,Instagram,Correios,BR0190513143,9.0,199.9
+1f6943b8-5a14-4e10-b317-8e4d16afe090,0939c8f6-9a55-47c2-8aab-d305db1bfcf0,2024-01-24 04:12:25,PIX,0f15decf-b2d4-4365-b82f-081ac6e2820a,Entregue,Marketplace,Instagram,Loggi,BR4737069618,4.0,1319.5
+9576020b-ab41-4fda-852f-9c53c6825fb7,8ff71c26-1c16-48b3-8091-791855430313,2025-04-19 07:36:13,PIX,31eed53a-e33d-48fc-a183-9cb0e8770edd,Entregue,Aplicativo,Google Ads,Correios,BR5575554951,5.0,499.7
+75c01a0b-0cfc-4e57-8015-947e4aff6a32,cc764c5b-6bea-418e-9478-c5cd51c41e6e,2025-09-27 05:36:15,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR4497367441,8.0,1279.5
+16b4b3ed-acd8-4ba3-8428-2d8ce48786c3,889c9bf2-6f18-4f1b-b57b-79413c629db6,2026-02-04 13:59:25,Cartão de Débito,,Entregue,Marketplace,E-mail Marketing,Jadlog,BR8481872838,10.0,219.9
+451d8fb4-be49-42e3-ba15-d9783f5cb40e,968e6aa7-9062-4ed8-8845-6a93dfb928cb,2025-02-18 10:19:12,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Jadlog,BR0313247057,10.0,599.8
+0539e014-29ba-44fb-be01-9490d90ad737,edfb5e11-baf6-459f-a8cc-817a3f335e24,2024-11-24 02:02:58,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR4891603799,5.0,699.5
+d37822e8-e5aa-4e44-ad19-5ad11a6037f2,24439432-fb5c-4105-a9fe-252679bf75f6,2025-03-28 04:04:30,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR3213776270,7.0,799.6
+8ad255b2-f9f2-45dc-a51f-9a8904acb0f4,2eaa9244-bb97-42bd-abbb-cfd70d466f85,2025-10-13 23:59:06,Cartão de Crédito,,Entregue,Marketplace,Facebook,Total Express,BR8190753697,9.0,1189.6
+e291acc5-0745-49f5-ab61-5f26ffa7dfae,13abed1b-2416-4e03-9032-2b3d9d84ab61,2024-08-20 19:55:58,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR9590631977,5.0,479.8
+b7203e5d-b5e1-4afa-b5c4-6a22edad70a4,ed82db92-304c-4edf-89a9-337d0f7bf0af,2024-02-23 20:57:42,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Jadlog,BR4162732101,2.0,79.9
+2ab81e47-874b-4737-a12e-7df38fd54608,6e56530d-5777-4e37-9087-4935173fc666,2024-10-28 16:19:10,PIX,5011dad6-df5f-46ef-80f8-8aca533f429a,Entregue,Marketplace,Orgânico,Loggi,BR7915556536,10.0,559.7
+97d83901-43c6-4d46-9db6-0828525ec017,a6c97368-bc4e-4e09-8e3f-29bbeb7d0b0b,2023-05-27 17:30:24,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR4094934485,2.0,319.8
+754a8bc5-1bb8-44c1-8dd4-78de628b3e74,0b2f4c3d-2870-4bb6-8856-af4e9cb86365,2024-06-21 15:35:07,PIX,1e684b73-b4c5-4639-ae3d-c50fb12320c4,Entregue,Site,Google Ads,Correios,BR0305588211,8.0,1059.5
+32f1dbb1-4959-4139-9923-589eb42e890f,02e0f4e3-22ab-4f5f-8042-b33fdc5d0bd9,2023-05-12 12:29:04,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Correios,BR3217985891,8.0,1479.4
+af7a3f25-8ef5-43f3-890b-22efa1126958,e1cbd103-7a74-4f5a-b920-1f428aa1554e,2023-06-14 02:05:00,PIX,5d2eb588-c6f8-4bec-9dbe-49cd5d8913e7,Entregue,Site,Orgânico,Total Express,BR5209547981,5.0,679.5
+e9223f61-36d4-4ed4-8231-8c265e935355,046ae125-59a6-43b7-950d-deacffe179ed,2024-02-11 20:45:41,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Loggi,BR5643351693,6.0,1159.6
+fccc0d15-86f0-4762-b41b-6c686dd48d7a,6b992061-fee4-4aba-af00-ee51121971c3,2024-04-15 11:11:13,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR5345196295,7.0,509.8
+ae54ae7a-21dd-4ad7-a3cb-21fa41b7f29e,0b2f4c3d-2870-4bb6-8856-af4e9cb86365,2024-03-28 20:38:32,Cartão de Débito,,Entregue,Site,Google Ads,Loggi,BR4971339170,6.0,1159.5
+219bb32c-e0c8-42d9-8686-49735bd119d5,eccf0569-770b-4f08-8f9e-e896a953c967,2026-01-14 12:39:25,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR7690280178,9.0,609.7
+3d27101c-3120-4dd4-a89e-0b33e8efad4f,52bd0006-d31e-4b4e-a9d1-e9aeeb060b54,2025-08-21 13:35:00,PIX,2ddc42d1-d281-4e7a-8bb7-948854db328e,Entregue,Aplicativo,Orgânico,Loggi,BR1772136037,2.0,659.8
+2c69387a-5c99-407a-a347-a68a5be1f976,f8a63b21-9ae3-472e-8204-785a75d365dc,2022-08-10 12:15:24,Cartão de Crédito,,Entregue,Site,Instagram,Total Express,BR3442448108,3.0,239.8
+17c7ca04-96ed-4240-8a54-76adfbfc90cf,bf0900f1-f229-4d2d-935c-82b715be239a,2023-01-28 20:06:42,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR9342109707,5.0,419.9
+bdeb6637-5080-4230-afd5-08a1ad3a686a,1eb7fc24-1ff9-45ed-8c14-ec5ad66ec58f,2024-12-28 16:41:20,PIX,5271e831-a820-44ae-bad7-7c88827a805c,Entregue,Site,Facebook,Jadlog,BR8143498629,9.0,959.5
+d24aa60e-94e9-46a3-b3c9-c9a8b21cd857,0291f43d-0d10-4254-b3ce-6a4c4811f214,2023-04-03 09:35:25,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Loggi,BR9801125320,9.0,159.9
+b027dbc8-8260-461e-986b-311f261a4def,1f084ac1-2c71-4bf5-a2f9-b87d71c080cd,2025-02-21 18:19:07,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR5743699093,9.0,649.8
+3b0e6c7a-0c70-4172-8db1-2fc63de27e6f,85ee7e8a-5018-4fba-9a14-c221a8c73b1c,2026-06-09 05:33:14,Cartão de Débito,,Entregue,Marketplace,Orgânico,Total Express,BR5014993820,3.0,779.6
+c58f1a52-3035-4a91-8a41-1e15163e3260,e3a731c2-3a88-47c0-964d-14780574ce13,2023-04-11 08:06:55,PIX,0b4088dd-da87-4ed5-b1cf-87b8c495beeb,Entregue,Site,Google Ads,Loggi,BR9035891194,6.0,659.8
+e2b03be3-f1f6-4080-923b-5a36bf0b06ab,980dcaeb-e20a-4a1a-a10f-a64666a0998d,2024-07-23 00:18:24,PIX,dbf4d26a-efcb-4ee5-afb3-14fa3a043d7f,Entregue,Site,Google Ads,Total Express,BR1214830292,10.0,219.9
+a3fc5fc6-4e7f-4515-ad9b-c0b29c8fd9d0,7e3ca46f-97bc-41d8-8860-5cee5fc4dfa9,2023-07-24 12:35:15,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR5373368702,3.0,609.7
+7a13cfdc-4075-4b2f-9156-50f098e4fe4a,a08f6899-8cdc-48a8-8aff-22959fd22ed8,2024-06-06 10:21:51,Cartão de Débito,,Entregue,Site,Instagram,Total Express,BR9907955736,3.0,389.6
+92c74006-8b70-4700-b2a5-615a2f1dcf84,0d3f74aa-30e1-4781-9bcb-6abbcf945f20,2024-10-24 11:23:54,PIX,292487fe-7d41-49e3-9d4b-2ff7c324c86e,Cancelado,Site,Orgânico,,,,939.5
+00e72ef1-d85e-477c-befd-78aa702e6e3f,28e8e424-316a-4824-b20b-28ed5963e6a3,2025-12-14 04:21:30,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR3381245826,8.0,439.7
+934f4eb6-6e17-4508-bd76-a8f20a358188,b61b6b45-56a7-4c71-9d11-9a613d9d8989,2022-08-27 01:01:45,Cartão de Débito,,Entregue,Site,Google Ads,Loggi,BR0036022007,3.0,839.8
+994efb41-79e3-4f3c-a4ad-6b0906bcb872,e3a731c2-3a88-47c0-964d-14780574ce13,2024-01-27 12:45:06,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR0127935732,7.0,599.7
+3922c11b-38fc-41c8-8655-28b7646f97a9,66303531-4834-494b-b353-9dd2ce92adc3,2024-10-11 01:59:27,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Total Express,BR4760369394,7.0,559.8
+32d599e4-0e64-4750-b772-4460dc15f6e1,28e5fd34-05c3-4abf-b643-91a16eb71efa,2025-10-23 13:10:37,Cartão de Débito,,Entregue,Site,Orgânico,Correios,BR4994393669,7.0,439.8
+d93c9958-7738-4518-8843-4cf089a880e8,5412aeba-1651-453f-9adb-d089f7843fa5,2024-11-22 21:12:03,PIX,6c32a193-221c-46e5-b61f-e908e6f544b3,Entregue,Site,Orgânico,Loggi,BR8651107649,6.0,359.9
+7b5734be-543a-4af5-9abc-36b3d5349501,644b1e00-26ec-49d5-9f56-3228ce976aff,2026-01-12 11:54:01,PIX,988f4038-c47a-43a3-a678-ca2bde09b4a1,Entregue,Site,E-mail Marketing,Loggi,BR5563411944,3.0,779.7
+11009871-f70b-48dd-a6ac-aed54157b83d,bfef7b92-fa5e-418c-ac7c-77571947fbd8,2024-08-26 01:14:06,Cartão de Crédito,,Entregue,Site,Instagram,Jadlog,BR2444605495,2.0,779.6
+a4d045eb-f24d-44b6-8086-6a76c49fe463,7d26ef1d-f24b-49b3-9eb3-a5c8e93ffc98,2024-09-16 18:48:19,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR4627063032,4.0,979.6
+58a4b0b8-801d-4058-ade4-e8b5e5ed0bca,e01596bc-8bd2-46bb-a4bf-974fb07acc49,2024-06-23 04:14:16,PIX,97ce8e97-d221-4821-a820-0a47a6961dae,Entregue,Marketplace,Facebook,Correios,BR8894957327,8.0,79.9
+3c8ed0d3-2688-4244-8982-61ce44766f03,5bab1575-face-4294-98ad-24dd15cd5e92,2024-07-21 00:10:56,Cartão de Débito,,Entregue,Site,Facebook,Loggi,BR6372679397,10.0,519.7
+92962c73-5303-4827-9bf9-bb9e729648e1,7425a8fc-63f3-4965-8f0d-84b9763666e4,2023-04-15 12:58:59,Cartão de Crédito,,Cancelado,Aplicativo,Instagram,,,,79.9
+58732ce5-c1c0-42e8-aaa4-71bb613edfe4,88ed9c77-1dcf-492c-b2f9-cd490488e1cc,2024-01-02 16:52:16,PIX,cd71ee4a-fd1f-4a57-8479-d0ea79ffed6b,Entregue,Site,Google Ads,Jadlog,BR9925796807,5.0,659.7
+2d238d7b-ba1d-45be-b10c-760bc9181264,78eaa3d5-0e82-4c0b-9e75-285cd6cefcc6,2022-09-25 08:20:18,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR0232623520,3.0,179.8
+1f8d5cb0-1022-4260-857b-c50d409ed555,926b00fb-0149-4145-af2c-15b6e6e9b8c9,2026-02-14 11:21:22,PIX,0c1b4ec7-abfe-4a47-8f69-885e1fdfdddc,Entregue,Site,Instagram,Jadlog,BR3333349713,2.0,1459.5
+e4ac2c2a-137a-4f66-99b8-06ca433630cc,2bf256bf-38e2-4fe1-9370-e137e5bb850b,2022-10-06 23:32:04,PIX,9baadfb6-8a5c-4e6b-8ffc-8dd5f774b252,Entregue,Marketplace,Orgânico,Total Express,BR2357206990,8.0,719.8
+35d9803b-eeb6-4e18-a723-a6009074227b,e8b6752c-d4e5-42fe-9c2e-b4392ecef578,2023-08-01 22:58:13,PIX,540fb2db-4766-40e9-acac-cd254639b8b4,Entregue,Site,Orgânico,Jadlog,BR8712351138,9.0,119.9
+10dfecc5-2a27-4a24-b7f5-196618145fd6,72fc7ac0-3003-4cbb-9085-c6fd6f4d60f9,2023-12-04 18:44:44,PIX,270271ba-72f8-4bcf-98d4-acb69de09303,Entregue,Site,E-mail Marketing,Jadlog,BR5283122304,5.0,999.6
+c4da0a4c-36d6-412a-acda-71d9f463058e,65ec1d6e-256d-4ab2-b695-d09e9a9369d0,2023-05-11 18:03:10,Cartão de Débito,,Entregue,Site,Instagram,Jadlog,BR3820118507,2.0,1279.4
+9b1cb759-5fff-4786-8a4e-8d49a2907f77,3c93f94a-6e06-4fa6-b5b0-a7764c033306,2022-09-09 03:28:08,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,599.8
+acc2e75e-18f6-4d6a-be6d-247b4e8107f9,b31fbd06-daa5-4057-bc1d-df394f654c36,2026-01-05 12:11:44,PIX,f18e89a6-6b7b-43c9-aac5-becfd7e4a75e,Entregue,Aplicativo,Instagram,Loggi,BR5938082997,10.0,739.7
+ab902531-b8bb-4bf2-8f14-358712195a15,3e456f53-f83c-4f8a-8749-4b20915c8f70,2024-10-25 02:52:17,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR8308022053,10.0,419.7
+5b3a7451-8998-4931-bc44-88ef85cb5706,b3a8b097-290a-4565-849f-70410f256f8d,2024-05-29 00:55:56,PIX,ae5778dc-c29e-41b2-a5b1-26c2b81e48cf,Cancelado,Site,Facebook,,,,599.6
+5219b1cc-2c7c-4414-aad1-0ffc96e98317,3abf0d21-724f-49dc-b135-39e5815c4be6,2022-10-24 21:41:01,PIX,a733d52a-2798-47f9-9704-0890d7aca4e5,Entregue,Site,Orgânico,Loggi,BR3909523630,5.0,359.8
+9693552d-202a-4940-9c13-a97679f8b41b,5c90a45e-d378-4fa0-aaa7-5442d793e4ec,2023-02-20 02:24:21,PIX,16997ebc-66e0-40e5-919d-1d2017289f44,Entregue,Site,Orgânico,Jadlog,BR5663016117,2.0,159.9
+925169fa-8887-466e-9389-a2e7fa79153c,ba047f79-caa4-43ba-8e9b-f1ecfc860ef2,2025-05-13 07:38:32,Cartão de Débito,,Entregue,Aplicativo,Facebook,Total Express,BR1635222455,9.0,919.7
+4c572cdb-22d9-477e-bbc1-edcdf2505375,6ae4bc25-e43a-439c-8e9e-c5769383c456,2024-12-05 04:47:23,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR4006140866,4.0,579.7
+1b927a25-9cc7-4e64-aeb8-d8c03bb1e9bb,8799aa93-b275-499c-9137-aadd83fda13c,2024-09-15 11:08:34,PIX,5a7c0678-0f15-448c-8c09-f17a4120c89e,Entregue,Site,E-mail Marketing,Jadlog,BR8219330853,4.0,239.9
+a26d28a9-581c-4247-a10b-56fb848f77d0,8da339f5-ae2a-449a-92bc-ebc9e8ee21df,2025-07-25 05:38:34,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Loggi,BR6731218361,7.0,399.8
+ce32b3be-cbf7-457f-91c8-e94d48ba3fd0,223c09ec-c29a-4693-ad16-6cd33380a37c,2026-06-06 10:45:23,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR3245156914,3.0,659.8
+9a38f685-c200-4b58-95ad-835aeb00e413,7cb56e25-b9d5-4f6c-81ad-61c890ab32b6,2026-01-26 06:49:08,PIX,4224642f-cdb7-4f97-a0d2-a8fbe4c1f424,Entregue,Site,Orgânico,Total Express,BR9028038343,10.0,1159.5
+3974df6a-456a-4542-97b8-f9bfe75639b1,56eff29f-e61d-474d-b902-a6ede7c38793,2024-05-14 09:50:04,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR0370341240,5.0,629.7
+ac7c44d9-8f16-4cb8-8bb2-887d10d3c847,63793d83-b708-438b-b1e2-122d4fe64964,2025-11-22 12:13:53,Cartão de Crédito,,Entregue,Site,Facebook,Loggi,BR9925032571,4.0,579.7
+a740dce2-6b56-4f91-a2e7-cd55e1afb480,fb1ffa56-82a4-4130-bfa7-224294fa98d3,2023-08-23 10:16:31,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR7314786775,2.0,1279.5
+bc50d002-d7a5-4933-9f93-43f1c865325d,eaf28dcc-4878-4f15-8e38-31e6970ff6c7,2025-10-26 17:52:01,PIX,fd07a014-653c-4a4c-98dd-17d011956103,Entregue,Marketplace,Google Ads,Jadlog,BR6542356918,7.0,579.8
+d94614bf-c63d-426b-b68a-db8f690bde35,7d299deb-c935-48b0-ad41-f61737430ac0,2026-05-19 03:11:25,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR4651913474,8.0,599.8
+c7f65504-0cfc-4929-9615-94fa59a51d6d,d514c2d6-f819-48e3-b98d-7115f3265382,2024-08-02 21:22:58,Cartão de Crédito,,Entregue,Marketplace,Instagram,Total Express,BR3879048832,6.0,559.8
+8c2a7c98-0387-477c-8218-340649274180,f1a0590b-11d8-4ae0-b8ae-e4c26b9e4479,2024-03-24 10:31:16,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Total Express,BR4316942956,8.0,1339.6
+b3366dd1-5fa5-4e37-8528-d7f23e14a180,b6b3b338-fadd-47e1-8ac3-fa86804087b1,2022-11-09 18:13:55,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Total Express,BR4285528720,5.0,179.8
+0a778f53-643d-455d-adc2-7b132ca30e5b,2113e23c-e0ba-421d-bb70-c7ed620ddef9,2023-02-16 09:12:21,PIX,5b07f900-4605-47f8-8886-ed874c22618f,Entregue,Aplicativo,Google Ads,Correios,BR7224455501,2.0,1629.5
+0c4ec200-1d92-40a3-8a4e-ccbd614705f9,db74bc16-ff58-439c-8ebe-7ec270ba259a,2025-04-04 17:11:03,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR9455169383,9.0,1109.6
+b82ed05f-9f7a-408c-b922-bc91078564db,6abd7b19-1ce5-4c86-ab57-9b992c784507,2022-08-24 23:56:11,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Correios,BR1502009267,2.0,899.6
+d4eb7f90-e6a0-4482-9861-cc569f20112b,d03977a8-6c16-4d5f-8e63-579de18cfccf,2024-12-14 18:00:59,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR0658611085,3.0,239.8
+ee58fd61-e057-4a1f-b4ef-80c84a991330,e8a55abe-db41-48ba-9046-eadfe43f3d21,2026-06-04 15:07:30,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR2056922632,9.0,1009.6
+0b975330-5f92-49a3-8275-5434f398f3b5,91aea84a-3075-44fb-b602-6dadc510c67d,2023-09-20 13:04:37,PIX,933283d2-7e6b-4909-ba04-9a62921d017b,Entregue,Aplicativo,Facebook,Total Express,BR5847186810,9.0,199.9
+41148cd3-98cc-4dee-93ea-2d3d12627e45,8e649b13-7537-49d8-9e9e-9dde5a490975,2024-05-27 22:12:28,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR9061617696,10.0,719.8
+af967485-731c-4e4d-88c0-e07ad11d3db5,c1023ec0-7774-4cdb-88f4-2efb4fb617d8,2025-06-12 14:29:08,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR8049674054,8.0,1109.5
+059a78ee-818b-4005-b3b3-4e6fcf60f3a0,04dfa391-168e-498f-809e-8b026fda5c45,2024-07-01 18:55:23,Cartão de Débito,,Entregue,Marketplace,Facebook,Correios,BR7550101496,2.0,599.7
+205161e0-6080-4621-9224-1c2626ed0abe,8c3a8487-06ef-4c9e-be18-4b0a7631d5d7,2025-05-01 13:53:41,PIX,ffcdb86d-764e-44bf-b754-4550f607a254,Entregue,Aplicativo,Instagram,Jadlog,BR0418758461,3.0,179.9
+b48bffb1-3fb3-4647-b7ec-5d76c9bc6fd3,de105541-5525-4139-b08e-f855b3bd04bf,2024-04-04 11:47:26,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR8240687864,3.0,889.6
+45015262-8c9e-4125-88c3-876d0d1bfc3d,f0dbb94a-716c-488c-84fb-f52076da06b4,2024-09-14 03:20:56,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR9684609907,4.0,179.9
+06a972b5-c4f0-41f3-ad6a-79d8cdd91d32,ab074cb9-2802-4ba5-b748-d04b54e0ba63,2025-02-12 07:03:55,PIX,9394cb67-0d72-4c3f-be98-38827b06076e,Entregue,Aplicativo,Orgânico,Jadlog,BR2192346672,2.0,479.8
+547f5bdf-cc27-411f-8fd8-192a3b3718f4,0b2f4c3d-2870-4bb6-8856-af4e9cb86365,2025-08-01 15:51:39,Cartão de Crédito,,Cancelado,Site,Google Ads,,,,1239.6
+bf64c574-de89-43c6-9453-ddd28bfa149b,72f5a40d-d462-4114-ab58-5ea7434b7232,2026-02-25 02:56:44,Cartão de Crédito,,Entregue,Site,Facebook,Total Express,BR3061392069,4.0,159.9
+0abc12d4-10ab-4c58-964c-e6e2c9f4917b,72190dfe-1635-4e14-a2d8-baeab3337c3e,2026-01-17 09:08:53,PIX,1d91bfcc-141c-4cff-ba7f-be122df040a5,Entregue,Aplicativo,Instagram,Total Express,BR0370884381,8.0,1019.6
+34f8b194-be93-4e81-9e46-e23c025befc4,efa88221-b4a0-4b57-b0f8-2044a93b8b26,2026-06-06 06:12:25,Cartão de Crédito,,Entregue,Site,Instagram,Jadlog,BR8603192585,10.0,1629.5
+dceeed89-7a30-46f5-a9e3-0581b0fda557,a03e361c-ce5b-4ea0-abec-fe0bae874116,2025-11-12 07:10:51,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Loggi,BR5725984873,4.0,359.8
+a3315b82-c768-43e4-88b8-0f6ed9b862b1,b25f3277-6716-46c9-bda4-3561870b96b6,2022-11-07 14:52:03,Cartão de Débito,,Cancelado,Site,Orgânico,,,,489.8
+bc09f381-a154-490e-bb84-3b42780b1f10,c9fce2e2-ccb0-4a47-92d5-d197b5b95900,2025-01-02 21:12:01,Cartão de Débito,,Entregue,Site,E-mail Marketing,Loggi,BR6751896084,5.0,379.8
+ab9b0162-428e-4d28-af49-9be675175073,7c5b4df2-4f76-4100-a25e-e51cc357aba6,2023-01-13 22:24:43,Cartão de Débito,,Entregue,Site,Orgânico,Total Express,BR9459310422,4.0,579.7
+20c85947-3f74-41ad-b882-68026ff02d9a,91aea84a-3075-44fb-b602-6dadc510c67d,2026-05-06 19:09:06,Cartão de Crédito,,Entregue,Site,Instagram,Jadlog,BR5012354217,10.0,739.5
+98a3369b-d412-4ef2-906a-f48d0770b762,5ab976b8-dd62-48d0-9957-589e9f838a5a,2024-02-27 10:47:21,Cartão de Débito,,Entregue,Marketplace,Instagram,Loggi,BR3297773363,7.0,399.8
+b4b50d2b-14fa-4c09-8af9-3a3d797ffd7c,9bf1582a-e2dd-4e7e-ab3d-ed77d5de42db,2022-08-07 19:00:21,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Jadlog,BR3923019467,4.0,659.8
+e02c08c5-199b-4f0c-a696-9a79d515d6e0,c7654e50-ff68-4db0-b686-08f07fdd838b,2024-10-18 10:30:46,Cartão de Débito,,Entregue,Marketplace,Instagram,Correios,BR4538537417,3.0,1429.5
+bb03cd4f-cacd-40ec-a3e9-296c176a55c6,db858dd4-3638-4d9a-b12e-5a15262825c4,2024-02-25 14:55:13,Cartão de Débito,,Cancelado,Site,Orgânico,,,,429.7
+ff90bd41-f62d-4f97-b25f-baf7e328d182,aa30b432-b4c0-4df1-abf0-ca6fbfe8a080,2022-09-26 01:28:11,Cartão de Débito,,Entregue,Site,Orgânico,Correios,BR2178848105,7.0,1139.6
+1a9cc051-dd53-4fe7-aaeb-d861f97524b7,32f26173-6dab-4b92-8862-8ffb162707da,2023-05-22 12:00:24,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR6630480279,10.0,119.9
+36a5491c-d4ca-42d7-821f-daf703f5ab28,c05e7985-0e5d-4d06-a8a9-63c163570279,2025-03-20 02:05:24,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR6191893221,3.0,419.9
+804a0b11-b30f-43c0-853e-1532d6a83078,e3afc7ba-9a3f-48e1-be92-187078525073,2024-11-09 11:26:50,PIX,d00ed409-6aaf-49f0-962c-baf3e0eaf4b3,Entregue,Site,Orgânico,Total Express,BR5868901477,3.0,999.6
+30340bf9-0020-447a-a14e-e2385c2d3c70,6c78ccbd-8157-4977-b415-e6622284cc7f,2024-08-28 05:14:43,Cartão de Débito,,Entregue,Site,Instagram,Total Express,BR2259397196,9.0,859.5
+383a07bf-8606-4a59-83a1-b85f504320d0,4e5a6371-e18d-4a9f-87ad-749e3d69864c,2023-04-01 17:54:59,PIX,51d59fdf-0625-4b30-965d-75ae5ad51f6b,Entregue,Site,Orgânico,Loggi,BR4857098387,4.0,89.9
+49a41686-300d-45e2-b7a3-7ebf78d41699,81a9a432-be71-46a3-894a-c3a275378022,2023-09-25 08:42:18,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR6231150199,9.0,199.8
+27a3cf62-c7ac-4a07-ba2c-a4ddac740f45,471b35f2-5dcf-41a4-8b19-fb7ab59b4321,2024-07-09 23:55:40,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR0780399139,10.0,339.7
+6b8bc667-5b13-46c0-8e9d-4d9ee094f7aa,2ff6e17a-6bb3-47ba-bd65-64b6c2a99d98,2025-11-14 16:34:12,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR7853789764,6.0,979.7
+f3d77d4e-57bd-4386-a55e-e14afd0b8f73,4c0247d3-78bb-4e9c-8727-491e337478bb,2025-03-30 13:55:35,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR3722650643,5.0,1279.5
+a06d8019-6fb7-47b3-87c8-6e42781763e1,b61b6b45-56a7-4c71-9d11-9a613d9d8989,2023-06-27 05:00:40,Cartão de Débito,,Entregue,Site,Orgânico,Loggi,BR7062083116,7.0,159.8
+c5ece544-f4f1-4808-b63e-7c1bfeceb493,315b4fa2-6ee4-4a17-ae8a-1cf1ccc53f51,2026-01-20 00:09:56,Cartão de Débito,,Entregue,Aplicativo,Instagram,Total Express,BR7531838837,4.0,399.8
+6eecf974-52cb-434a-b16b-c8d81a70428c,e3e47166-5d5d-4553-8d15-8acd3529d874,2024-10-09 02:08:41,Cartão de Débito,,Entregue,Site,Instagram,Total Express,BR9134241865,9.0,779.8
+554af978-5d82-4f91-9650-e7c12b0d0024,f2f96463-35ef-4ef2-942d-edd594d9e471,2025-01-10 19:49:34,PIX,8f22b04c-d610-4b29-a2dd-6d2d4c576123,Entregue,Aplicativo,Orgânico,Loggi,BR8444420518,3.0,179.9
+d106c43b-c63b-4ff8-a168-2882cb4c24a7,79580480-ef90-4347-bc0e-3906e62ed8de,2023-03-01 11:03:31,PIX,a4b408b6-9b50-4c47-819e-fe2a25ddcba0,Entregue,Site,Orgânico,Correios,BR3739288563,9.0,99.9
+fce7398a-9a0e-4474-b051-a6b6b4661990,a330f09e-1eed-49bb-97ed-ee9b790455ff,2025-05-29 18:54:20,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR1787119036,5.0,199.9
+dd976452-693c-46c8-acbc-d7fdc3603e90,c300195a-7730-43ea-8904-a315240032e4,2025-12-05 02:32:56,Cartão de Débito,,Entregue,Site,Instagram,Total Express,BR1089362501,3.0,999.6
+561292ef-17bb-4faf-9542-fb5e300dbdef,79cade4c-ea8d-4577-a2b0-10d9940367e5,2022-08-25 11:58:00,PIX,b7db84ac-838d-42ec-a76d-4d57da9b0d37,Entregue,Site,E-mail Marketing,Total Express,BR2033747949,7.0,1219.5
+fbc7b86a-9edb-4bc3-8b94-3dfd4a3c20a0,9767e7a0-64b2-4f97-acc6-9b77b4e20ed0,2024-09-10 03:00:04,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR6589838836,7.0,619.6
+743dfab9-7894-4a42-93b5-8b115c1b6177,68ba4956-ba83-41c1-9758-9b4eeb7e63d9,2026-01-20 13:12:24,Cartão de Crédito,,Entregue,Site,Instagram,Loggi,BR8231540186,5.0,989.7
+b4381f34-e269-4a0e-bef7-b9b8e7a94ac9,0dfebed2-7575-4aff-92dc-d3be7f49360a,2024-05-31 22:26:21,PIX,abf1b8fb-2192-4926-8edf-b82ddf6909fe,Entregue,Site,Orgânico,Correios,BR8625882342,10.0,239.8
+7ca71f18-76d6-4a57-afec-14d143b3f27b,54d49599-d2dc-46c6-bc36-6af5cfa441ce,2026-01-15 20:52:27,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR2278922212,5.0,599.8
+446fa24e-980f-4f46-a316-6d76e931a06a,522ee50c-edf1-4d09-b96e-8d2bc8a2be26,2023-04-24 23:32:22,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Correios,BR0620306945,6.0,179.9
+4c53762e-b7cb-4eff-ac5d-8f950b4885c4,138dc354-98a1-4f14-911c-054e1663642c,2025-06-14 04:25:17,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR0451399732,10.0,309.8
+72d9d567-0136-4c53-80a6-52942f0cd2b1,a7734c75-870f-4e0a-b202-15071f25a2a8,2023-11-24 16:47:32,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR6910698788,2.0,639.6
+a9f4f76a-7d1f-45e7-b006-4bd0a7b27b4b,c05e7985-0e5d-4d06-a8a9-63c163570279,2025-10-01 21:34:58,Cartão de Débito,,Entregue,Aplicativo,Instagram,Total Express,BR7732641598,7.0,119.9
+b8bb0bac-6267-433e-9866-00682c101acc,433567a0-3051-40d2-80c7-f605f161e55d,2024-03-03 11:22:44,PIX,8fb2014c-6eb5-433d-bc7c-83a6d9e4e5eb,Entregue,Marketplace,Facebook,Jadlog,BR7302297243,8.0,479.8
+5d33580d-861d-47e2-b5f8-c7e4f7be5764,986ce298-883c-4bc0-94f1-ef3af72e5819,2025-04-12 03:41:37,Cartão de Crédito,,Cancelado,Aplicativo,Instagram,,,,619.7
+69a7f7a0-9604-4866-b3a3-5fd4c386775e,549966f2-e144-48e9-83c0-3da8744a12c8,2025-03-26 03:25:59,PIX,941b9d3b-2f85-439a-9481-2589162361a5,Entregue,Marketplace,Facebook,Jadlog,BR4178584677,10.0,109.9
+9e0d5b93-10a6-4c1f-bd5a-d3ecba2745f6,c0211c74-0ca5-4998-9b18-e70e7878642e,2026-06-24 02:00:38,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Jadlog,BR8043384710,2.0,929.6
+8c76a7bc-00ce-4920-93c9-2e0e3fd77d1e,c0d6c6ff-b998-44b4-bd31-7a474c5560ca,2023-11-08 19:15:03,Cartão de Débito,,Entregue,Site,Facebook,Loggi,BR9294787667,3.0,399.8
+292ccf82-c386-4075-b26d-491fff166803,a03e361c-ce5b-4ea0-abec-fe0bae874116,2024-02-09 19:46:21,PIX,5ef584a5-6901-4a39-9a01-a8acc6e34421,Entregue,Aplicativo,Orgânico,Loggi,BR8980217978,10.0,659.8
+facaee44-c458-46c9-9722-a0e2003fc5f5,7c5b4df2-4f76-4100-a25e-e51cc357aba6,2025-11-20 08:16:56,Cartão de Débito,,Entregue,Site,Orgânico,Jadlog,BR9676445276,5.0,859.5
+34b17088-090d-45fa-b59d-827619041a49,8ba2519d-890b-4c6f-81e9-11f61bf873ef,2023-07-05 13:23:39,Cartão de Crédito,,Cancelado,Aplicativo,Orgânico,,,,1819.4
+10ee4508-5c1a-4e42-93ec-9ceebbd8467b,ee59fd4c-a11f-478b-a1a8-18adc94b17f7,2026-03-07 01:04:36,PIX,f9183fd5-ed86-4f8b-b5bf-ea4d4b176750,Entregue,Site,Instagram,Loggi,BR9363746568,7.0,179.9
+510feac2-3f2e-4fb2-b1ed-b9a9d02eab8c,c9a09955-19ee-4395-ab50-882fa5a15808,2023-05-13 11:04:21,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,979.6
+8f1d209f-828d-433a-94be-b4018aef82d0,16c4c0dd-ca14-4aba-af07-68bf46d2ffd5,2024-01-04 00:07:31,Cartão de Crédito,,Cancelado,Aplicativo,Instagram,,,,359.7
+7f8d884a-d615-4ec1-b687-cdf1ab42e31a,ca87726a-c6ac-4be8-a15d-74b864b255d9,2026-07-04 23:09:28,Cartão de Débito,,Entregue,Site,Orgânico,Jadlog,BR0097299054,4.0,849.5
+bdac2424-5445-48d6-8c3c-83a2ea4eec9b,9716863e-b562-4c1f-a2c1-8a485d1470d9,2023-04-29 09:28:27,PIX,ebb7b092-1b14-4160-999a-5462e0123a08,Entregue,Marketplace,Facebook,Jadlog,BR9838536588,8.0,299.7
+53c0f5a9-d210-4bc3-a5b8-11bcedec565f,1f0c8cfe-c6f4-4a05-b196-deb5818f0b95,2026-03-19 02:09:17,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR3756149346,6.0,1079.6
+e6a16d5a-f38e-4850-aed5-3bb987ce4d99,5e3dc7e3-8c24-4714-8bbb-25f67bca6202,2025-06-01 16:58:23,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR8519018985,5.0,389.9
+a8d73573-2f78-4c51-b577-26dd0cae29c6,8506e115-1e29-4994-9bc9-007e7e6b12d3,2025-08-24 14:10:58,PIX,dd401a57-0390-4118-b5f6-2417c4bae9bf,Entregue,Aplicativo,Instagram,Total Express,BR5177459005,8.0,959.5
+38a1dcdf-5089-4e37-b94f-3561c32467da,0ba8b1d3-2ff2-46f6-aa3e-129893909e6a,2023-03-25 03:35:56,Cartão de Crédito,,Cancelado,Site,Google Ads,,,,479.8
+4ccae4a8-30e1-4fbd-ab20-98c58d0b1743,b4b4afd8-f2c4-4d0c-9080-17afeef22ffc,2025-01-18 19:51:10,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR2822947437,4.0,549.8
+5acdea9f-d7b5-4055-a92c-6035d7514947,0005bc87-6ae0-46f7-ad83-da5f1ad90c6c,2025-02-25 00:04:39,PIX,fb4989c7-99ee-444d-b5c0-23cb5339b2c3,Entregue,Site,Facebook,Jadlog,BR5908343110,6.0,1039.7
+b81a888f-b20e-45b3-82cd-e7cb988ddb33,d03977a8-6c16-4d5f-8e63-579de18cfccf,2026-03-11 04:33:24,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Jadlog,BR1318573800,3.0,1039.5
+370a8173-4af8-4ad4-a9ca-08c9342c1042,b7b93628-629f-4297-be21-bd805b5fff09,2024-01-26 19:52:34,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Correios,BR3335524127,3.0,339.7
+7233ef78-53cf-405a-a640-79f4e06b254a,2f6e430a-e447-402e-a7ff-33ffd2110667,2025-03-14 22:39:00,PIX,8d44bd26-c53b-4744-89b0-6baaa551fe5d,Entregue,Site,Orgânico,Correios,BR9247583342,2.0,199.8
+8a6efbf6-1c19-4cc9-b180-5ff404351f3a,bfef7b92-fa5e-418c-ac7c-77571947fbd8,2025-01-25 05:00:54,Cartão de Crédito,,Cancelado,Aplicativo,E-mail Marketing,,,,599.8
+b9ab54ca-de9c-4d07-aea9-8f86ed79c4ce,bf717cd1-39d9-496b-ad3b-596367bc655a,2022-07-30 14:28:04,PIX,46c8bbaa-8654-4203-b63c-2469fd31c9ab,Entregue,Site,Google Ads,Total Express,BR9346988437,8.0,619.5
+dfb12dc0-393d-4094-b95f-e1f158d2d716,f0dbb94a-716c-488c-84fb-f52076da06b4,2024-05-13 20:44:09,PIX,4481b157-07c7-4b4b-8299-f7b89ee52815,Entregue,Aplicativo,Orgânico,Jadlog,BR0043021427,6.0,609.7
+85496632-98ba-4593-80f5-f39ca46ad7f5,9f952be8-3ecd-468e-96e2-9468e408fd9c,2023-10-14 12:18:51,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR3140211404,3.0,159.8
+07ebf092-c609-4845-a5c3-747681947373,a2c499ae-8bf1-428a-add4-fc4a5b1db576,2023-10-06 12:43:21,PIX,18e6a01d-5fbf-4a63-8c2f-eded0aed9c83,Entregue,Aplicativo,Instagram,Correios,BR2160090618,2.0,1679.4
+cbc3460f-ae7a-481d-80fa-de48ba70e530,09c75ec8-4804-471f-baaf-d3d73ead07a2,2025-05-24 10:57:23,Cartão de Débito,,Entregue,Site,Instagram,Jadlog,BR7584348933,2.0,439.8
+3632889c-4b33-4ca1-a462-5a1de15d639b,dd6b272b-7886-4b8a-9709-221f43a1e7ea,2023-07-13 03:25:33,PIX,1d5f7bf0-615f-4977-82d6-9e974af1bed6,Entregue,Aplicativo,Google Ads,Total Express,BR0670159907,10.0,799.5
+92eed63e-4db5-4dd7-a800-a69146316e2f,0d3f74aa-30e1-4781-9bcb-6abbcf945f20,2023-05-23 04:01:06,Cartão de Crédito,,Entregue,Site,Instagram,Total Express,BR5327002397,2.0,179.9
+98fdd912-9a82-4c48-9ef2-090d61d0e863,07c90e4a-1cc3-4540-aeb6-726ec8e49b34,2026-01-04 21:42:53,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Total Express,BR0316784770,10.0,519.8
+6b8f1967-e022-442a-97f1-eb52cd20402b,4fd78081-a66f-4a07-9135-e1e82e99b191,2025-03-14 10:28:53,Cartão de Débito,,Cancelado,Aplicativo,Facebook,,,,589.6
+83212849-330f-4950-bf56-de02fae86931,1964eedc-0583-4721-a42c-6d5cb97ff9a9,2026-05-19 07:42:42,Cartão de Débito,,Entregue,Site,Facebook,Total Express,BR4075795227,5.0,179.9
+8587eb90-6a82-4536-9643-095a261c4323,4e5a6371-e18d-4a9f-87ad-749e3d69864c,2025-11-30 23:46:04,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR6055003726,2.0,1079.5
+f41c1022-dd75-49d0-a6b9-555a85adf67b,5aa378cb-be7b-41f0-b36c-2991a2f3487e,2025-05-07 08:15:50,Cartão de Crédito,,Cancelado,Site,E-mail Marketing,,,,199.9
+b0670efc-167d-4cd2-875a-e90c4ced5389,9a2d9ebe-10a5-4957-8fc8-275bcf2f8652,2023-01-21 07:56:09,PIX,9f087c06-53a0-46e4-a853-f79db04556f4,Entregue,Aplicativo,Google Ads,Jadlog,BR3893531890,7.0,679.6
+b0d3c7fe-6345-4569-95e9-f3dee3d9f4a1,ab75f71d-653a-4a21-ad43-2c48ef7090bf,2025-07-13 01:54:10,PIX,33e6419a-6d99-494c-9669-94b349ea1ebf,Cancelado,Marketplace,Orgânico,,,,549.7
+883ea2a9-ea69-4d85-9296-dc267199dd56,69cb748d-a1b3-471b-ab17-2739576c6f76,2023-06-04 06:12:39,PIX,92e2f468-49ce-410f-abae-94e603de4053,Entregue,Marketplace,Instagram,Loggi,BR9377614956,4.0,649.6
+c1f5553d-21a1-4cd3-9a27-86e4b0dc1205,88ed9c77-1dcf-492c-b2f9-cd490488e1cc,2026-05-27 06:22:08,PIX,5d625706-9192-4c89-9008-e97acb6dc596,Entregue,Marketplace,Orgânico,Correios,BR1846090175,9.0,739.6
+a6180c76-390e-41b6-8bd8-f618259b9e4c,958ca825-1406-404e-93a4-7374e2c5038c,2022-09-19 18:17:22,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR9226609675,6.0,1499.6
+511dc1bd-d683-4aee-93db-58ac2a259d10,55fbd130-d079-4de6-adcb-003ad7b65394,2024-01-22 08:28:57,PIX,5d109cd8-ae16-4cff-a68d-15a83a211080,Cancelado,Marketplace,Orgânico,,,,219.9
+99791d06-d0d7-48a4-bc8e-d41e85e947cd,90b3a98c-ea56-4d4a-a231-14f11e156af4,2024-09-28 13:01:20,Cartão de Débito,,Entregue,Site,Instagram,Correios,BR9407406913,6.0,619.6
+dfc7962f-f9a4-4a83-99a7-25c3b8b5a335,eaf28dcc-4878-4f15-8e38-31e6970ff6c7,2026-06-16 17:33:38,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR1403416440,6.0,179.9
+ca899175-0139-4d9b-b2e8-ee9053e5ec1c,c9fce2e2-ccb0-4a47-92d5-d197b5b95900,2023-05-15 20:12:59,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR7934887779,8.0,659.7
+c2954ecb-8e6f-4839-95a7-cd2c5fb83663,42d72ab0-b3a9-4a95-ad04-15d2c1260d79,2026-05-15 04:45:15,PIX,a04ef369-8200-4a29-81b6-7a20bc821a34,Entregue,Site,Google Ads,Loggi,BR0023084947,5.0,509.7
+caa29b33-fe91-43b0-9316-e18d7907b130,cde64fd8-d7c4-4484-9464-605dbf42f1ae,2026-04-24 09:28:22,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Jadlog,BR9226655946,8.0,709.6
+d070639f-a8b2-4c31-8fab-ddb7edc4d9aa,3c93f94a-6e06-4fa6-b5b0-a7764c033306,2023-09-24 14:42:02,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR7986371913,10.0,359.9
+a15ec624-1d9e-4e01-ab67-a9bd271b3716,e1351ce0-d6f4-4062-9059-94fd4dabef21,2023-01-27 19:52:39,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR6372073612,7.0,299.7
+ee42e6d3-692c-45fc-8c7e-70b23ba76b1e,e7b6b511-81ba-4f69-8c30-c133a610f5a9,2023-08-06 01:32:13,Cartão de Débito,,Entregue,Aplicativo,E-mail Marketing,Correios,BR4726084000,3.0,979.4
+b62fc3cd-b1da-4943-a08c-ad5196e00105,ee59fd4c-a11f-478b-a1a8-18adc94b17f7,2023-05-08 11:09:02,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR1264673044,9.0,319.7
+dd77dbc0-4004-4027-b0cb-45b310df3470,c765dd7e-4b4b-4cad-ad6e-bf9ae5ef0f10,2024-01-13 12:10:50,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR7073071219,7.0,1079.6
+4168a97d-0e4d-4dff-97b2-21ee78423392,c49d8c06-e054-47bc-944b-c01f154cc80a,2022-10-13 06:26:29,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Correios,BR7587001282,4.0,159.8
+1a089e49-1b7d-4b59-a5df-74fae14c37d0,db429ecc-794f-444f-84dc-ee2049562074,2023-10-02 12:01:37,PIX,91e5f851-7c9e-43c9-a369-b06687be90d3,Entregue,Site,Google Ads,Jadlog,BR7969236139,5.0,199.9
+152e2f96-9b2e-4570-a190-7d69125cf01d,1268b80e-6cc2-4b1c-a0c1-69fc6df84e54,2024-01-29 00:33:28,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR6314992474,2.0,439.8
+637a536a-3a1c-4899-91e1-acac435c7cbc,e8a55abe-db41-48ba-9046-eadfe43f3d21,2025-07-12 02:59:04,Cartão de Crédito,,Entregue,Site,Instagram,Correios,BR9928793446,4.0,249.8
+17e71170-8adc-412c-b79d-2fe4d4202527,c3f76406-e966-44fe-a6e9-31d3e3688c58,2023-03-30 19:08:15,Cartão de Crédito,,Cancelado,Site,Google Ads,,,,99.9
+355a1357-b242-4692-a854-c8b74a31b352,e7b6b511-81ba-4f69-8c30-c133a610f5a9,2023-08-04 23:01:40,PIX,2fecd242-987c-441b-8dbb-9f10b920b442,Entregue,Aplicativo,Instagram,Correios,BR5376995972,9.0,299.8
+a5497a98-7c5e-4d01-bffa-97e33c789467,a007a0c6-dbeb-4a83-a524-e2d0234f4933,2022-12-12 05:33:37,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR8721220647,8.0,179.8
+ac1d6ba7-7268-4f7a-b363-9aef18fe0be7,a814944c-4dee-45be-b435-352b3787f2e1,2026-05-25 17:08:55,PIX,c81b532e-49da-4cd6-a9bb-57f9774be01e,Entregue,Site,Facebook,Correios,BR1968698851,4.0,759.6
+17a5a175-ed48-4954-bb52-045ead422b6e,a5c3b542-8eef-451d-8ca8-9f239eecd001,2022-11-16 10:48:56,Cartão de Débito,,Entregue,Site,E-mail Marketing,Correios,BR1784589561,5.0,1579.4
+2fcaf83e-4a35-4257-b867-1c0f7337e9b7,86c400b5-8725-42cd-9d53-4d67f33cbcb8,2025-01-25 21:35:09,PIX,4e060b51-c631-49b7-8d52-ecf5ceabe41c,Entregue,Aplicativo,E-mail Marketing,Jadlog,BR3883012176,2.0,579.7
+337a4f88-9934-47c5-9d24-d3821ed625b2,6e9eea82-9d1a-4533-ab75-36c8e5ac0e8d,2026-06-06 00:23:27,PIX,82366d99-f00a-4124-a87c-3f9198c604fb,Entregue,Marketplace,Instagram,Correios,BR6184060405,9.0,819.6
+96bdde67-7c3a-4297-8b39-3d4a8fb54614,db429ecc-794f-444f-84dc-ee2049562074,2026-06-01 11:49:19,PIX,1f9f05b8-5936-4e4b-a020-8c5362cec724,Entregue,Site,Instagram,Jadlog,BR2499099318,10.0,509.8
+6bfc36ab-fb8f-4991-87b7-467da5b16c77,2ff6e17a-6bb3-47ba-bd65-64b6c2a99d98,2022-11-11 13:24:52,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR6128953521,5.0,399.8
+c3b7cb64-7014-445f-b116-4d930e8342a5,376d14bf-ae33-494f-b966-5bb160cb4406,2023-08-23 19:56:25,PIX,b088323c-2ca5-42e7-994d-e3a73c0a80d8,Entregue,Marketplace,Orgânico,Jadlog,BR6934812949,6.0,1109.7
+92b58a59-cdcc-4328-82dc-088ef77f6777,df76d9f0-d15e-41d2-a99d-3a5ab544500d,2025-07-23 06:49:34,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR7138865133,6.0,389.7
+329f533d-7501-4991-9a03-aa444a7786e3,3899fa69-d165-4a97-b2ff-e221706dd35f,2024-05-04 05:20:25,PIX,431f4525-8c14-4c48-a1ae-b165aaac0772,Entregue,Marketplace,Orgânico,Total Express,BR0795233247,10.0,829.6
+6a6ad363-948c-4e20-8e84-53258326ee22,5aa378cb-be7b-41f0-b36c-2991a2f3487e,2026-05-29 05:33:18,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR2713747178,3.0,1149.5
+7a02ea19-6f23-46d0-a9af-1c34942bc191,37cabe4a-895d-4806-a775-7d40acdf6092,2026-04-20 08:30:28,Cartão de Crédito,,Entregue,Site,Facebook,Jadlog,BR4425346176,6.0,1039.5
+36bb26be-53b6-47a0-b0e5-1c9228cd55d7,29d76d30-8930-4f06-a749-308107c85099,2024-09-22 17:06:40,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR2155696945,4.0,159.8
+12fefd7b-e5c4-4ac2-b348-4615bf541b5e,13abed1b-2416-4e03-9032-2b3d9d84ab61,2025-05-02 17:50:30,PIX,693fd3d9-a1c2-4810-8b89-9d0a0d82bc10,Entregue,Site,Orgânico,Jadlog,BR0966733808,10.0,949.6
+79dee3af-2d3b-4596-bfda-02c7b763d5f0,0474d36a-7010-4ba5-b925-bbdfe3bf98e3,2024-12-09 11:53:17,PIX,03d0971b-7e83-4f47-8782-90b8bf238c98,Entregue,Aplicativo,Google Ads,Total Express,BR2182508849,9.0,1069.6
+f0b86d83-4ba9-47c1-96a1-a4edf6d0d702,131cbff9-bd4a-42c6-8583-9e07ba881475,2026-01-24 21:15:46,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR4948317692,9.0,579.7
+3233829d-24d9-4eda-9fac-e6cbea7fd455,c765dd7e-4b4b-4cad-ad6e-bf9ae5ef0f10,2024-05-12 07:07:32,PIX,5de08e47-1094-471a-9423-b74d91bea6c7,Entregue,Aplicativo,Instagram,Total Express,BR5171094364,4.0,619.6
+0c174808-ce5f-4853-af99-a5e893c3b858,8c3a8487-06ef-4c9e-be18-4b0a7631d5d7,2023-03-12 15:56:43,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Jadlog,BR5109839995,3.0,439.8
+ac274252-a410-4892-a38e-29f01292377a,61743f21-935a-4070-a9fe-59be44fad2d9,2025-02-17 16:18:27,PIX,be40d33f-cfbd-45ea-9683-7b94e4311400,Entregue,Site,Google Ads,Loggi,BR5246830977,4.0,559.7
+b53232f5-d2db-47e4-9b1e-1ced8d9009cf,69cb748d-a1b3-471b-ab17-2739576c6f76,2025-01-19 12:29:08,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR0854471683,9.0,1159.5
+de5898d6-6543-479a-ae62-4387afb7373c,8aa5476e-0935-45c3-93df-4cd566eee150,2024-12-04 20:23:38,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR0672211564,3.0,859.6
+5eaf498f-4ef0-46e2-81b9-58cf020dadbe,81a9a432-be71-46a3-894a-c3a275378022,2023-06-21 04:12:00,Cartão de Débito,,Entregue,Site,Orgânico,Correios,BR4909748450,9.0,899.5
+863c0382-45f5-41dc-9037-14a42c9ccdcf,e8a55abe-db41-48ba-9046-eadfe43f3d21,2024-12-01 07:21:59,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Loggi,BR1388016473,8.0,259.9
+78114f68-4160-4082-8a1c-998f12a95b66,8ec3d80f-b8b6-4756-b60d-6995207158fe,2025-12-07 11:30:41,PIX,73637d91-5fb0-4413-bd18-151f20e6df29,Entregue,Aplicativo,Google Ads,Total Express,BR1535620315,7.0,359.8
+37628a8c-26ce-4b54-a854-50534d17fa11,d514c2d6-f819-48e3-b98d-7115f3265382,2022-12-05 00:34:14,Cartão de Crédito,,Cancelado,Site,Instagram,,,,549.8
+7c947a84-729b-4114-a22b-46ad8b9d2da9,48b9a534-40c0-4f27-929a-98f713763e00,2026-01-29 00:30:22,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Total Express,BR1882475873,2.0,979.7
+19a2059f-7166-4373-ac09-1c734991e935,e3afc7ba-9a3f-48e1-be92-187078525073,2025-03-09 16:24:32,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR9699101682,9.0,979.5
+6089fbae-312d-4724-b571-aae711e31693,80bfb508-c5b1-45c4-9775-0883ffca07e1,2026-03-11 01:46:21,PIX,e1add4ed-1020-4a11-be02-19007863f3ba,Entregue,Site,Orgânico,Jadlog,BR1351045377,3.0,1059.6
+f69c5df2-8763-40bb-9fdd-fc9a9762f792,e950ac7e-4cc8-4dd2-85fc-2a42c5335881,2024-03-12 04:56:09,PIX,28135033-127f-41f9-a9c8-6c80d8ab11af,Entregue,Site,Orgânico,Jadlog,BR1691945818,3.0,1459.5
+93c29d45-eac5-4c2f-aa02-fd534732e31d,78eaa3d5-0e82-4c0b-9e75-285cd6cefcc6,2024-08-02 03:13:01,PIX,07f49966-d83e-4e1e-8b24-ddcdbbf1d45b,Entregue,Aplicativo,Instagram,Correios,BR4520977526,7.0,819.7
+0da7274a-008b-4534-9112-88935f916002,a007a0c6-dbeb-4a83-a524-e2d0234f4933,2024-01-04 13:26:29,PIX,9883649f-f2e9-4fd2-b96a-ab1d5862d4cd,Entregue,Aplicativo,Google Ads,Loggi,BR0400016322,2.0,379.8
+44023735-68ea-4977-a97c-8dce84f00120,138dc354-98a1-4f14-911c-054e1663642c,2026-02-19 22:58:11,PIX,cbaf0041-e1b8-44df-8545-e9cd672d646c,Entregue,Aplicativo,Google Ads,Total Express,BR9697240605,6.0,659.5
+89c6384e-8974-4c2e-9b23-27c5cd5515f4,df9ff50e-cb71-4f30-b5b5-8dff90792f40,2026-05-01 22:08:28,PIX,6972f256-7e0b-4bcd-a6cf-b35a7046a39b,Entregue,Aplicativo,Orgânico,Loggi,BR1414162145,10.0,1059.6
+15c3f3c1-1fcb-4684-9d1f-cc8e1275db86,0649125e-354d-4650-80f3-855ff9649520,2023-05-30 00:13:29,PIX,af8a25da-64f9-481a-b7b6-a995fb57696b,Cancelado,Site,Orgânico,,,,879.6
+c6107eaa-6f54-4ab6-bad9-4766725828bd,78eaa3d5-0e82-4c0b-9e75-285cd6cefcc6,2022-11-07 22:04:00,Cartão de Débito,,Entregue,Aplicativo,Facebook,Jadlog,BR9199502906,9.0,619.7
+443397d9-d69b-41d8-bcc5-a2ef7eb4476a,432f97c5-031f-4d85-a330-8e5742cbe8cd,2025-03-20 13:26:14,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR5194445838,8.0,879.6
+550fd003-9cb7-470a-9110-06f645e5d308,13b37721-1187-4b05-827a-317116113994,2023-06-25 17:03:15,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR0165106293,10.0,519.7
+177044b2-3461-450a-aed8-ee79f6c66212,9d62b556-b59a-436f-988e-9d79947e7aab,2026-06-08 09:35:36,PIX,99e14931-fd09-4bf4-803f-5013de74cb2b,Entregue,Site,Google Ads,Total Express,BR2214269425,8.0,1539.4
+4f9fa1ce-4c83-4fef-a0be-7b2ecba30eb6,cafc9177-aca7-4e3d-86ef-49e65c223dba,2023-07-21 21:00:27,PIX,fef5b008-7688-4a81-bb93-a5c5e3457e2a,Entregue,Aplicativo,Orgânico,Jadlog,BR4737509698,6.0,1159.4
+32d066b2-73fe-4b2c-9fd9-d09a6b3c050a,15c89bb3-00a0-4b99-a752-d9938bd9f28b,2025-04-25 11:04:42,PIX,416a5b94-a6bd-4cbb-bb01-2fae390c7d50,Entregue,Aplicativo,Orgânico,Jadlog,BR6326222127,5.0,1339.5
+d80191fb-e1af-4e2e-ab91-c0152c004d8f,5e3dc7e3-8c24-4714-8bbb-25f67bca6202,2024-01-27 15:29:40,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Loggi,BR3117814878,6.0,1019.5
+e3b711e6-0cce-458d-9331-49a560ffce3a,6c564c96-cfba-4351-a2b3-3832d634f055,2026-07-01 15:01:35,PIX,09b624c7-fcc0-44ec-af0d-c935728a35dc,Entregue,Site,Google Ads,Loggi,BR4019267479,5.0,679.6
+9e95b3c0-3299-4ce4-a0d7-6f44e22ee0a5,fd3ab0c2-d954-49bc-8b37-3af97cf97086,2023-04-19 19:47:20,PIX,52ade4fb-d49f-43a1-95c4-75d82d4d6635,Cancelado,Site,Orgânico,,,,399.6
+0c9392f5-c19e-4ac6-9996-bd11fd8adc68,5ec070a7-f6ee-47f7-a5e3-174f2db54b0d,2026-02-03 20:58:39,Cartão de Crédito,,Entregue,Marketplace,Google Ads,Correios,BR1030543629,9.0,359.8
+454f4a09-302b-472c-a188-fd1f5f5e5cb7,968e6aa7-9062-4ed8-8845-6a93dfb928cb,2025-01-06 16:42:22,Cartão de Débito,,Entregue,Aplicativo,Instagram,Total Express,BR6728068306,5.0,1279.5
+27e72a62-de23-4c7c-8699-cced47452ce8,eaf8bd98-49e3-4970-bfe0-09ae806b4eed,2024-07-18 21:07:35,Cartão de Débito,,Entregue,Site,Facebook,Jadlog,BR4366125854,7.0,389.9
+d8545ac4-588d-4846-9b51-5ab425b0b104,986ce298-883c-4bc0-94f1-ef3af72e5819,2025-07-26 02:20:32,PIX,a1d1b4ef-39ed-4994-ae5b-3e8240653837,Entregue,Aplicativo,E-mail Marketing,Jadlog,BR7807862400,5.0,1059.4
+c45a0c3c-6ff4-4246-9713-9a0a6319f206,b4ab577f-4827-4b08-8516-c62ead705b43,2022-10-04 19:27:56,PIX,7ef8e1c7-5e99-40ea-a085-d88aeacf5d9a,Entregue,Site,Instagram,Jadlog,BR5477693511,10.0,1139.5
+6d96efe7-f9b3-487b-9e92-0f7ae359fb6b,1301c075-5f6e-4252-980a-d355af8b4753,2024-02-23 08:30:54,PIX,84496316-add4-4e90-9350-f77ddc23ba40,Entregue,Aplicativo,Orgânico,Loggi,BR9244460606,9.0,669.7
+225dcbd4-49a9-402b-87e7-12f4c983cc9b,8dc27582-172d-4155-b3ee-3c1111b85d53,2025-12-07 01:40:46,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Total Express,BR1689795575,5.0,919.7
+2638fa14-df57-4ca5-9f00-30976ed4b7af,607546ac-ddec-4b63-801f-c63099e818a3,2026-05-09 18:41:34,Cartão de Débito,,Entregue,Site,Facebook,Correios,BR8371191228,9.0,879.7
+5896abd9-1539-4979-96c4-3e6fef46176a,a47a1a47-a2fb-4ee9-b5a7-6ddcf3aa65d6,2025-10-08 00:19:33,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR1752482301,4.0,419.9
+f5ab9853-5323-4e5d-865a-ab26a4551122,0ed11080-c375-4456-b97f-5e3fdc2dad64,2026-06-01 05:35:42,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR4876662231,6.0,619.5
+74392243-8bff-4e7f-9ca9-20233a806c02,b6b3b338-fadd-47e1-8ac3-fa86804087b1,2025-07-07 13:47:55,Cartão de Crédito,,Entregue,Marketplace,Instagram,Loggi,BR8723959478,10.0,99.9
+f190fbfa-9a23-4942-9fca-1453361c59a3,5f1f4fcd-c179-4d2b-94c0-4a19fb5171a0,2025-03-19 04:04:18,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Loggi,BR7045890084,6.0,749.8
+5d5fc894-1be6-4431-98c6-16009e984120,3bd23f90-ae8b-4874-baf6-deb207f423d1,2025-07-25 21:19:20,Cartão de Débito,,Entregue,Marketplace,Orgânico,Loggi,BR7599467656,6.0,89.9
+eefe28de-27a6-451e-ad7c-b891926ef262,2f39f918-e322-49ab-94b6-2a786b53d2da,2024-08-02 21:48:27,PIX,969c4d08-fe01-4650-b0dc-2a4b358bcb0f,Entregue,Marketplace,Google Ads,Total Express,BR9480278384,5.0,599.6
+7f07d15b-e22b-401c-846f-116d48d5e9e9,607546ac-ddec-4b63-801f-c63099e818a3,2023-01-31 07:45:56,PIX,6c935c1c-5643-426f-b682-23596198b6e0,Entregue,Marketplace,Instagram,Correios,BR1863419461,4.0,749.7
+310bef1b-0936-449e-a591-fac10e84a321,d44b04ba-7097-4451-9f5b-edc9b357f21e,2024-09-21 04:17:44,Cartão de Débito,,Entregue,Site,E-mail Marketing,Jadlog,BR6331721282,8.0,1619.5
+71c0193e-03c4-41fa-91f4-31e38a8eeebb,e8a55abe-db41-48ba-9046-eadfe43f3d21,2024-02-11 13:40:01,PIX,1035d7a1-cde6-4e19-921c-f2fcbf3e5d4a,Entregue,Aplicativo,Orgânico,Jadlog,BR0450759294,2.0,419.9
+91a3d5e7-09b2-41c8-a23d-df282e0111ee,51bc0d99-9d9c-44bb-850a-3d97b59ffb47,2026-04-23 21:39:34,Cartão de Débito,,Entregue,Marketplace,E-mail Marketing,Correios,BR5005394977,4.0,1359.4
+381cbb33-cb2d-4c21-af92-689d540bd4a5,dc71526c-5064-4b81-bff5-728f221c5a65,2025-09-11 14:01:32,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR6868482229,5.0,769.6
+178c894b-b41c-498f-8c20-182d51e2eccd,e215c9f1-0d01-490b-9853-2febd2cb032e,2026-01-08 06:31:35,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Loggi,BR9958963448,2.0,919.7
+a80fbdff-0209-4de9-b172-55b50e9b7dda,d08dbeaf-e024-491d-9857-f5daf4c8f70b,2024-01-21 20:33:10,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR2617580932,10.0,559.7
+81c296c8-0440-4c63-87bc-ea73045502a1,ed74e447-5a63-41ce-b5b9-01548df059f5,2024-10-16 05:23:42,Cartão de Débito,,Entregue,Site,Facebook,Total Express,BR8658160001,5.0,679.5
+9f27dffe-866e-45a3-a1ec-672aa9652eca,9e208962-5bf3-4bb8-bef9-b5c8d1b16a98,2025-12-04 10:15:34,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Total Express,BR8038812755,6.0,419.9
+99dcbefd-4409-4365-b209-15d629d51a94,2add8722-7133-4996-b64a-11700ec18d54,2023-02-20 00:48:11,PIX,a51d6810-39ca-4c6e-9559-93319f70efbe,Entregue,Aplicativo,E-mail Marketing,Loggi,BR8619478331,10.0,1529.5
+c43ff902-cc70-4f92-8252-bdfb9bb0d656,3bd23f90-ae8b-4874-baf6-deb207f423d1,2025-04-01 02:25:18,PIX,ee478380-110a-403f-bece-2ff99058ed66,Cancelado,Site,Orgânico,,,,479.7
+54c19221-ddc6-41d9-8763-ce3e83ea6073,eaf28dcc-4878-4f15-8e38-31e6970ff6c7,2025-09-17 06:10:23,PIX,81559a08-6f09-4f87-b049-00c4abe9bdfc,Entregue,Site,Orgânico,Loggi,BR1766586297,4.0,399.7
+2f23cb63-7e08-441a-a7d9-3f6799a2359f,8815226d-8da4-47b8-88af-563a91ce0d9c,2024-06-30 00:57:25,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Loggi,BR6478482546,5.0,399.8
+7a0d1959-5772-45a4-94aa-379b72b8439b,c35f0153-41d2-40c9-8630-2efa828cba5a,2022-08-20 05:09:17,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR6395355097,2.0,919.6
+58d21e96-80db-42c8-9f4b-2ac26d3c7c91,ccdae916-2d60-4768-ac48-97ed23d1f0ba,2024-03-25 18:58:07,Cartão de Débito,,Cancelado,Site,Orgânico,,,,139.9
+c3f3d3d3-3e79-418d-a798-b653ac4559ec,980dcaeb-e20a-4a1a-a10f-a64666a0998d,2026-03-15 08:31:17,Cartão de Crédito,,Entregue,Site,Google Ads,Jadlog,BR0682834421,9.0,339.7
+c97923df-7462-4120-a81e-7971a80f3f39,a9c0c471-80e0-44cf-84ba-20345f561ed2,2025-10-19 16:13:05,PIX,3d352741-ae46-441e-ad50-e456b1eaf899,Entregue,Site,Orgânico,Correios,BR3482307354,2.0,559.7
+95cac2cf-246c-4aaa-94da-2d7469d1ca5c,c47da24e-d7cf-4f8a-8839-2f6796443ff5,2023-08-13 17:06:13,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Correios,BR0951188106,7.0,899.7
+9e5bf7d2-3a32-42a3-a5f1-6136f1414e53,4e5a6371-e18d-4a9f-87ad-749e3d69864c,2024-12-12 21:35:51,PIX,a2b95f90-5486-4d38-a0f0-bbb4c75bcd63,Entregue,Site,Orgânico,Correios,BR6427007604,8.0,449.8
+95b02adf-c44b-44a3-b18c-4d4f286c29e5,cf9cd305-9e95-49c2-8051-a7f96fc33727,2026-02-05 00:28:15,Cartão de Débito,,Entregue,Marketplace,Google Ads,Loggi,BR8149642897,7.0,809.6
+616bd1c8-b155-4a40-8a51-606b8fc2b89a,8ff71c26-1c16-48b3-8091-791855430313,2022-09-19 03:27:14,Cartão de Crédito,,Entregue,Marketplace,Instagram,Loggi,BR8227002134,2.0,659.8
+64dd5743-623d-48be-86bc-df30d1bd11c9,fb1ffa56-82a4-4130-bfa7-224294fa98d3,2024-05-10 08:54:44,PIX,b3e751f3-2311-4eec-b4f0-e5acb5b6f62e,Entregue,Marketplace,Orgânico,Loggi,BR6521681022,2.0,619.7
+ec666f5a-71f8-4e75-9acd-5a47e1c7c9fc,0474d36a-7010-4ba5-b925-bbdfe3bf98e3,2024-03-18 10:43:41,Cartão de Débito,,Entregue,Site,Facebook,Jadlog,BR8003739994,8.0,419.7
+3c6bac20-ba98-4ac1-86b2-7302a9a5c074,728d2bac-746c-4674-b75c-daa9214aa425,2024-08-26 11:52:52,PIX,b0408040-e558-4524-9917-d3e410bec27d,Entregue,Aplicativo,E-mail Marketing,Loggi,BR5025662018,4.0,839.8
+846586e6-56c5-4f3d-af7e-327a62937f63,1207c9d5-7e74-48e3-b2bf-991ac5d85f3a,2022-08-25 12:03:47,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Correios,BR6608948049,10.0,509.7
+659dc756-bac9-4b43-affb-d0868ff9d84c,8799aa93-b275-499c-9137-aadd83fda13c,2026-04-05 18:23:03,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Jadlog,BR2972424118,5.0,439.8
+88d60180-2aaa-4edc-a740-bb5e58d8cdab,8799aa93-b275-499c-9137-aadd83fda13c,2026-07-10 21:53:34,PIX,1343e128-158c-4cef-b9b3-398d40bc775a,Entregue,Aplicativo,Instagram,Jadlog,BR2931475464,5.0,509.8
+a3e35da7-5815-4006-91cb-69a649b4a18f,16c62232-451a-4a87-a338-3d764c78e4b7,2025-05-07 08:18:47,PIX,d4dba7a8-d033-4ed5-be0c-11a3b9721724,Entregue,Site,Google Ads,Total Express,BR9561056841,8.0,839.8
+ab17ac35-fbd4-47b9-b013-30d98f505667,1d754b34-5ca0-4ec3-93d3-670fcdde549a,2025-07-15 15:50:23,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Total Express,BR5828027135,4.0,1019.6
+647b435a-b55a-41d4-8415-a45353b2824b,ec33ebac-4d50-41a0-a3c5-c43a411da81e,2026-06-04 09:00:46,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR4190705730,4.0,999.5
+bdd52d41-df54-4b75-9132-67c2b1099390,441ed48d-7e24-4778-8133-556e7fbb283d,2024-11-03 06:16:06,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,219.9
+775d27d5-65dc-4a37-a98c-5f954f463814,1bbeb793-5b8e-4c7e-817e-daca1797c6d2,2022-09-29 21:50:26,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR1176696432,2.0,779.7
+9a353a73-84c7-42e3-800d-2e1d00052191,c765dd7e-4b4b-4cad-ad6e-bf9ae5ef0f10,2024-04-15 15:55:24,Cartão de Crédito,,Entregue,Site,Google Ads,Total Express,BR6557116849,7.0,569.8
+7d43b64a-2a12-40e1-aafa-2e19b56d3044,52fd7236-1f51-44cd-bba0-48c9fee76811,2024-03-30 03:51:50,Cartão de Débito,,Entregue,Site,E-mail Marketing,Loggi,BR6770388883,4.0,519.8
+5928400a-edaa-4c5f-8057-cec539d24dce,68139937-37b5-43a0-95a2-0f2bffbf4ef7,2026-04-01 02:47:23,Cartão de Crédito,,Cancelado,Marketplace,Instagram,,,,1179.5
+1a3c6c90-f800-40f9-be6e-b350cbec1504,53860d9b-b409-4219-b1d9-c06bf0452b0e,2023-11-04 10:44:53,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR9080494685,7.0,459.7
+27e0d543-3cb9-47cc-95e4-3062801cbcab,dcb1686c-26cd-42fb-a65d-43f2e145f273,2025-05-26 07:39:24,PIX,05580c96-7ee9-4165-be94-7e81fe2097eb,Entregue,Site,Orgânico,Jadlog,BR9879573120,2.0,879.7
+890e9fe3-c13a-4453-83e0-11a2d28f0d1f,1bbeb793-5b8e-4c7e-817e-daca1797c6d2,2025-01-21 10:43:27,Cartão de Débito,,Entregue,Marketplace,Orgânico,Jadlog,BR9762236623,3.0,199.9
+7b005467-60e8-4abb-8857-55d4c9f83441,2cdf072f-be28-41aa-991f-e9080d98a534,2026-02-20 05:47:09,Cartão de Débito,,Entregue,Site,Google Ads,Loggi,BR3625641684,3.0,539.7
+554730fe-3a10-4ed5-ae80-b7255c57b856,2ecd45be-1047-4daf-8a6a-1640c0914ab1,2023-03-04 20:16:34,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Correios,BR5537960025,10.0,869.7
+7f77a3b4-9113-4e6f-b21c-f80ac2bc5be0,b3b415f0-6709-4a92-aefa-dd9045b67944,2026-05-07 13:32:18,PIX,47161cbb-7af8-4629-b2dd-0fe283f36527,Entregue,Site,Orgânico,Total Express,BR2208065769,3.0,1049.6
+76f30251-a9ad-4d1b-a2ff-f281347a2fd6,f880c16e-1751-49d5-993f-88f9320c5119,2024-12-02 15:52:59,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR9646744182,4.0,859.5
+7a60ffc3-4642-4461-8067-49cefc2d3e0a,c9db2910-924b-4dbe-8398-89b09df7240d,2023-03-26 17:46:03,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Total Express,BR2969163274,4.0,959.6
+e25a0e3f-4038-4e81-9eb6-0a48742c5633,a81c10fb-01cf-45eb-a0a1-613adbe09317,2022-12-01 22:59:57,PIX,11ef3c45-98f1-426c-971d-2d9e67743198,Entregue,Aplicativo,Orgânico,Correios,BR1437763747,8.0,559.8
+373845ce-520a-4c13-ba69-b1c80b431735,ba047f79-caa4-43ba-8e9b-f1ecfc860ef2,2024-07-27 22:12:55,Cartão de Crédito,,Cancelado,Aplicativo,Orgânico,,,,159.8
+3191ed82-9486-4e66-8b17-2d17eb524105,6c2930ab-6a3c-4912-a9bd-e140e56892da,2025-07-08 13:33:33,PIX,3b313a27-fc06-48d0-b962-f67e86c2a6a7,Entregue,Marketplace,Google Ads,Total Express,BR1951664623,10.0,1139.7
+d6ab76fe-e3f1-4093-92eb-23c7a6a14fd5,1dcc7146-49a8-49ec-be71-43abd16f41ef,2026-02-06 12:59:14,Cartão de Crédito,,Entregue,Aplicativo,E-mail Marketing,Total Express,BR3710657772,6.0,1199.6
+ed0c8c22-efe6-43cd-b1c7-f9067619751a,df66485b-63db-4c3f-8257-6b040fdb29f8,2023-08-07 09:20:34,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR5524155473,6.0,159.8
+01f2337c-2027-4f9f-afcd-ba0e882812df,14146f1b-96c3-4d6e-ac37-6d2bd2a86f39,2022-10-28 07:36:27,PIX,565a3027-f968-488f-b3bb-eae3fec7076b,Entregue,Marketplace,Orgânico,Jadlog,BR3158278679,10.0,109.9
+f7419ec7-5a6a-4c2c-8188-cdf44fea1e78,065a65b1-82e0-4bc2-aea2-305cb7357fe9,2023-09-29 01:42:54,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR9880069313,7.0,1299.5
+13bc789a-bbf5-4bc4-b694-385df73aaebb,247dd6f8-dfd3-4cd9-bd02-e9d0809bde90,2025-02-03 05:51:35,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR8646324213,6.0,479.8
+03b11f4d-47fd-471c-a22f-60cc2b1422ae,cbcccd4b-d640-4d47-ae81-16aaef17d34b,2024-09-17 09:16:37,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR0353689078,6.0,1359.5
+eaa93d89-a12e-49d0-a204-cebb1b22b121,2bf256bf-38e2-4fe1-9370-e137e5bb850b,2025-11-05 14:28:14,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Correios,BR1608145358,7.0,479.8
+8b937692-2c6f-43f9-acf6-8b14fdf3904f,4f09f6ac-7697-4ddd-935a-715bec43c121,2024-10-28 08:10:54,PIX,6e7a0c94-491e-4a9f-823e-e5599d01edc0,Entregue,Site,Orgânico,Total Express,BR8337442677,8.0,979.7
+dfa91ba2-7984-492b-b568-568cc4c916c5,dfc440d2-b161-4a22-aef5-b51a3a515c4c,2025-07-02 19:33:59,Cartão de Crédito,,Entregue,Site,Google Ads,Correios,BR7461394258,9.0,89.9
+100559b0-71b1-452b-8fc8-e652530490df,6c564c96-cfba-4351-a2b3-3832d634f055,2024-06-03 18:21:19,Cartão de Crédito,,Entregue,Site,Instagram,Jadlog,BR9843146485,3.0,1539.5
+b8f68677-e4f0-4635-bd10-ad9029cfeb27,fe297a6c-004e-4de7-b3c5-bd4e0b309fe8,2023-01-29 09:27:00,PIX,fb8feb86-7231-4229-96b4-754c411a81dc,Entregue,Marketplace,Instagram,Correios,BR2320990895,3.0,1079.7
+76ec8508-425a-472e-b215-7c534a879357,0d3f74aa-30e1-4781-9bcb-6abbcf945f20,2024-06-28 09:48:19,PIX,9ef82e86-dc54-4269-bfc7-612bc46045d7,Entregue,Marketplace,Orgânico,Jadlog,BR1478959476,5.0,1239.4
+b30824b9-0bbb-4efe-9719-99bfdafa6918,e20b9f0e-becd-4d86-8e0e-5eeefea7540f,2025-01-23 15:32:47,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Total Express,BR4923588765,2.0,779.7
+eb5f3f76-9767-4f00-a9fe-ecf6a56fe853,9da91e7e-9c16-4fae-bd9b-58613bb148c5,2026-03-07 07:22:06,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Loggi,BR4880368349,8.0,439.8
+a7d4ae97-2a1f-4bd9-994a-0d20c663cf6a,db74bc16-ff58-439c-8ebe-7ec270ba259a,2025-02-22 08:13:06,Cartão de Crédito,,Entregue,Site,Facebook,Total Express,BR2117918409,6.0,1179.6
+584634cd-7b49-42bf-8805-baacd35101bf,a03e361c-ce5b-4ea0-abec-fe0bae874116,2026-04-02 22:52:17,Cartão de Crédito,,Entregue,Site,Google Ads,Jadlog,BR1905217698,2.0,419.9
+4fcf3e6e-a287-4608-92e5-784ab7252bf0,e601b79f-9c4c-4ed7-9025-c2adef931910,2023-03-05 02:14:15,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR3646966577,7.0,659.7
+cfe22652-e9d3-453c-aa29-f053d7b18346,f0dbb94a-716c-488c-84fb-f52076da06b4,2024-11-08 03:10:42,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR0322986424,4.0,439.8
+bcfcb8c3-dde0-4844-a4c4-8622c3633250,007e3b8b-1cb1-4633-9293-356b159b37c3,2025-08-10 22:44:43,PIX,79aef5a1-ff8d-4116-a2ce-4a98e35749a7,Entregue,Site,Orgânico,Jadlog,BR8395766924,7.0,1019.4
+2b025c23-2d51-4ea3-a9f6-69d91b254460,d44b04ba-7097-4451-9f5b-edc9b357f21e,2024-09-09 15:13:36,PIX,cc25abc0-91a1-4a65-bf12-12a9afb26c4e,Entregue,Aplicativo,Orgânico,Jadlog,BR3038035317,8.0,259.9
+db552621-4805-432a-9196-0a3a25a3bff6,76689e53-549c-43c9-b6ac-436b54f90ed8,2024-06-20 21:25:03,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR6974117687,3.0,819.5
+31307ef0-b8ef-4f21-92f0-9486c50c3d74,3a49221f-a4e5-4a99-a9c3-57d6c1b18ac3,2025-05-06 16:53:32,PIX,968d72fc-5303-4f2e-8ba7-ad1f7061a2ab,Entregue,Site,Facebook,Loggi,BR1802540899,7.0,1139.6
+8e8fca04-d714-4ef7-82d5-6df92f8eb94e,fa597a38-df37-4982-8795-20418bc6048d,2026-04-29 20:53:15,Cartão de Crédito,,Cancelado,Site,Instagram,,,,669.7
+be2d939b-442e-4000-9896-f28ec3dc5843,13abed1b-2416-4e03-9032-2b3d9d84ab61,2022-12-03 17:15:21,PIX,76a212ff-53f6-42e6-a044-07f1e030be22,Entregue,Site,Facebook,Correios,BR6279773953,3.0,279.8
+3fbef304-b9c1-4ab0-8611-6cbd1590e8dd,d8127c5d-1a37-4306-b58e-d93eb15fcaa9,2025-05-01 00:10:16,PIX,768a0742-3391-42c2-a4a0-b35fac80d3af,Entregue,Site,E-mail Marketing,Correios,BR7438813449,2.0,1179.4
+bdccd1fe-cb47-4b66-a046-94fc4649f5e9,0d3f74aa-30e1-4781-9bcb-6abbcf945f20,2025-04-29 01:07:16,PIX,f6eb243c-7a8e-4ac4-a8c2-578d6637d591,Entregue,Site,E-mail Marketing,Total Express,BR5163277725,10.0,959.6
+410c847d-60fa-47d1-9f7a-46c9b04c7549,1c874404-7acc-42b2-8d20-05f0a62224c8,2023-07-19 14:34:24,Cartão de Crédito,,Cancelado,Site,Orgânico,,,,479.8
+88f23c6d-1346-4cf7-9f91-bf1c05736ee0,9817fefa-2b6a-4a61-8be0-97cadf8c3def,2023-05-15 11:35:09,Cartão de Crédito,,Entregue,Aplicativo,Google Ads,Jadlog,BR9078432838,4.0,789.7
+499d49be-af5c-4c83-8fa8-377615622e56,76689e53-549c-43c9-b6ac-436b54f90ed8,2024-06-12 23:26:03,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR9893128185,5.0,99.9
+4b776a23-5481-4d19-8450-b017437a300d,9de0357f-fff7-4f93-8df1-aa53370896d4,2026-03-08 02:23:50,Cartão de Débito,,Entregue,Site,Google Ads,Jadlog,BR6013331725,6.0,879.7
+37db8b06-e4fb-44c5-b973-f3a95a595145,d7f17fe8-f44f-4560-b7e6-cbf97a5c8607,2023-11-07 20:22:19,PIX,fd2c526b-336f-4a87-a976-a185ba4015bf,Cancelado,Aplicativo,Facebook,,,,799.7
+9df2ac01-23b1-4d24-8476-2a9fb3af6118,949dcd91-5dec-4113-a6e2-320a8788d8ae,2025-12-21 13:39:35,Cartão de Crédito,,Entregue,Site,Orgânico,Jadlog,BR4029921398,5.0,769.6
+d0bc4f61-0cdc-4ee5-84d7-4443a3d8fc7c,889c9bf2-6f18-4f1b-b57b-79413c629db6,2025-10-20 22:35:09,PIX,6501b399-83ff-4b70-9fb9-79f62abed352,Entregue,Aplicativo,Orgânico,Loggi,BR7053401930,4.0,599.7
+509e1ec9-7c2b-48ef-bfa5-adcc9dba9c9e,209dfe29-1b70-465b-879c-0df5b718c5f9,2022-12-23 09:07:56,PIX,f7a62c8f-8504-47e9-8a8c-fe6a8f8614a0,Cancelado,Site,Instagram,,,,719.8
+afb15996-b0cc-48a7-88e0-107a643e6cbb,07c90e4a-1cc3-4540-aeb6-726ec8e49b34,2025-11-25 01:38:24,Cartão de Crédito,,Entregue,Marketplace,Instagram,Total Express,BR8921430563,5.0,1089.6
+e0440717-083c-40aa-9926-e7ccd66cb0d2,3a57eb37-3918-422c-bd74-8635955e0b82,2025-05-13 20:05:46,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Total Express,BR4654223249,9.0,499.8
+fa03ed21-a216-40e4-bfd4-7f3fefe7be56,561a4f37-69af-4cc1-b344-af1669ab973c,2026-04-29 20:47:38,Cartão de Débito,,Entregue,Site,Google Ads,Total Express,BR0158699736,4.0,179.8
+54a79b03-f402-4afa-b6a3-f594fee3643c,6ae66481-ab12-4f73-ab3e-0e96fc74870b,2025-03-30 15:34:11,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR6019073635,6.0,839.6
+ab47ac03-2ce0-4bb5-87b9-272bf7b2acd3,41a7a87e-90d5-4e11-b99d-f3802a1ddfa3,2023-08-28 09:50:53,PIX,0782fa85-3516-4c05-95c0-fc52c1bed9ac,Cancelado,Site,Facebook,,,,879.5
+3addc468-dcef-42f3-b47f-c5ec4f7b4a8a,13560395-01c2-4841-8624-5053981967cf,2026-02-19 02:38:10,Cartão de Débito,,Entregue,Aplicativo,Google Ads,Total Express,BR9724431028,4.0,99.9
+6464bc1f-5772-422b-913d-20e257ad7be6,c59c59c2-5c5c-4a41-a80d-fc61ac65e48d,2023-12-05 10:19:19,Cartão de Débito,,Entregue,Aplicativo,Instagram,Total Express,BR9109094107,9.0,779.7
+ac39af8c-9b3d-48a1-95c0-133d4b7fb784,e7b6b511-81ba-4f69-8c30-c133a610f5a9,2023-03-03 09:05:10,PIX,0e81daf9-4b1c-4875-9e10-42705adcd89f,Entregue,Aplicativo,Orgânico,Correios,BR8162455887,8.0,599.7
+c69ac5a2-b748-4042-aeb6-32fbf4a3b96b,3a49221f-a4e5-4a99-a9c3-57d6c1b18ac3,2023-09-13 08:09:02,PIX,0c154387-761b-4c14-ad20-49ff92a7588e,Entregue,Aplicativo,Google Ads,Loggi,BR8885694245,8.0,759.6
+54b34957-8119-4292-9a24-280a235aabf0,28e5fd34-05c3-4abf-b643-91a16eb71efa,2023-10-14 20:44:00,PIX,106f238a-04ec-4b42-88bd-4a6de87cb03f,Entregue,Site,Instagram,Loggi,BR3220756014,2.0,319.8
+0615ae3f-9977-4251-81cd-3b018b8708bf,33a3b076-b5e9-4a62-b001-baba1100b488,2024-02-17 10:27:26,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR3305570399,6.0,399.8
+8eda38de-5d34-47d7-94b0-ecf6ca9c559b,f3fac21f-b126-45c1-ae8a-6f94083c5867,2025-02-17 23:16:10,PIX,b7b81c8e-1c1b-4655-9e18-6dd26196fe32,Entregue,Marketplace,Orgânico,Correios,BR2868242046,7.0,1259.5
+9bb85f4e-2817-4c4e-8c7d-64ec50abdc98,df705806-7f8f-406a-9a95-15013adc4e07,2025-09-17 00:00:44,PIX,249cff06-a723-41ea-aaa2-854ff93a094a,Entregue,Aplicativo,Google Ads,Correios,BR0633234106,4.0,239.9
+238d01f4-6a15-4197-a42e-3ef04f1d57bd,8e4e7657-78fb-4394-bef3-35d02f8a1482,2023-08-28 00:40:22,PIX,e1430753-7584-4cf0-80b6-c1b1b3b61657,Entregue,Site,Google Ads,Correios,BR8384051254,9.0,1279.4
+1c9fdea4-e3c5-4c50-946c-23cd370f7a4a,8ec3d80f-b8b6-4756-b60d-6995207158fe,2024-10-15 01:42:57,PIX,eeba86eb-f4b6-4428-abdf-39dc49d18272,Entregue,Marketplace,Facebook,Jadlog,BR2427034451,3.0,579.7
+01007cb4-8fab-47e5-bd0c-1043002b401f,14146f1b-96c3-4d6e-ac37-6d2bd2a86f39,2024-01-05 13:41:04,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR2828951097,5.0,769.7
+869bf131-44e5-4935-91a0-28c0266baa63,2b19bac7-262d-4f1a-a3af-2d6915b4c2a5,2023-12-15 13:31:58,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Loggi,BR8144170235,7.0,519.7
+64ebd1af-ff6a-441b-b382-3a3c5c83d8d9,a330f09e-1eed-49bb-97ed-ee9b790455ff,2023-12-29 06:14:20,PIX,7e623343-fb1d-4f7c-9fb7-2c130a76c6ca,Entregue,Marketplace,Orgânico,Jadlog,BR9901056118,7.0,1059.7
+7cd612b9-d4d6-4596-9de0-4609fe1d3ee3,e3e55db2-e64d-4cc6-bc2e-903ff342ee02,2023-11-10 22:00:24,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR4916010778,5.0,1559.5
+0191474b-1511-490e-8af7-427182aa368c,83b3d4f6-1c9f-4502-82fe-bbe8e35f3ea4,2025-12-08 20:14:04,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR1971787886,6.0,439.8
+42329a0a-492d-434a-b371-cefc191f002e,6c78ccbd-8157-4977-b415-e6622284cc7f,2024-11-13 22:50:09,Cartão de Crédito,,Entregue,Marketplace,Instagram,Total Express,BR5503151604,8.0,859.7
+d87795c8-0cb4-470f-b4bc-e57e8e4d790c,90efa865-e724-4698-90fa-fc2ae2ea5ff3,2023-04-10 02:20:32,PIX,e4d0e741-b2e0-4e97-a2b8-b3a64746a545,Entregue,Aplicativo,Instagram,Total Express,BR5041871520,5.0,1119.5
+0e7c7e9d-aab8-4fbe-8a3b-387056230f52,66ac8ee8-e21f-4cc8-9809-f1adbad564bd,2025-07-16 07:56:35,Cartão de Crédito,,Entregue,Site,Google Ads,Loggi,BR4930072174,9.0,759.4
+deeccf5d-e692-45d3-95cc-b690b7864c47,3a57eb37-3918-422c-bd74-8635955e0b82,2026-01-20 12:07:48,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Total Express,BR1906259435,4.0,679.7
+93124b90-8ca1-40d0-b759-9fad58d1152c,ae5ec518-3956-4b90-9fc9-ed2b232ce7c4,2023-05-19 13:31:52,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Loggi,BR1053429596,5.0,299.9
+3f8737ef-59f1-44e5-be53-a9c497cce9cd,db429ecc-794f-444f-84dc-ee2049562074,2026-02-14 23:44:44,PIX,ddcdc475-37d1-4a24-b3a1-501bfc8269f3,Entregue,Aplicativo,Google Ads,Loggi,BR3396109670,6.0,109.9
+58da2d64-92df-4c25-98ae-9a5e17c114ec,ecd34d9c-c525-440b-b1f4-8b1c8f0062df,2023-10-13 15:50:57,Cartão de Crédito,,Entregue,Marketplace,Instagram,Jadlog,BR1708660551,5.0,479.8
+f52dcf7f-79ae-4301-804b-d01985790071,7d299deb-c935-48b0-ad41-f61737430ac0,2022-12-29 16:38:43,PIX,70036ed8-7812-4fad-94bd-17535b70e06f,Entregue,Aplicativo,E-mail Marketing,Total Express,BR0938988612,10.0,299.9
+caa0390f-7b19-4b09-bee0-78a5b57ae041,16030ae4-2824-4889-889e-6d8f7719e936,2025-12-10 08:52:16,Cartão de Crédito,,Entregue,Marketplace,E-mail Marketing,Correios,BR5388073154,5.0,359.9
+011b2cd9-d9e2-4f1b-bb13-7161aec42ecf,28e5fd34-05c3-4abf-b643-91a16eb71efa,2022-11-24 10:01:56,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR3352835298,5.0,789.6
+c6e4175f-5eed-4044-875f-a853d0c29d70,66303531-4834-494b-b353-9dd2ce92adc3,2024-09-04 04:26:34,PIX,ef74af3f-26e0-4856-8a1a-23d85e3609d2,Entregue,Site,Orgânico,Total Express,BR6996229465,10.0,1539.5
+7e9a964b-8cc5-4af4-a2f5-c1bf34a1e6a1,c9a09955-19ee-4395-ab50-882fa5a15808,2024-06-23 02:40:53,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR9064789419,5.0,199.8
+60279a31-c42c-4721-befa-9aca4829b3fe,d02cd838-393f-4ad7-9161-e8d435026c9b,2026-06-17 16:22:55,PIX,7499134a-b0ed-4ed0-95a6-984f52c3e2a4,Entregue,Site,Orgânico,Correios,BR2667048871,9.0,299.9
+e077917f-962d-45ae-bf32-5fa10abaef6d,c3f76406-e966-44fe-a6e9-31d3e3688c58,2024-04-03 13:27:00,Cartão de Débito,,Entregue,Aplicativo,Instagram,Total Express,BR6271177802,10.0,489.7
+2670379b-47c2-4ba9-a16e-8e5bb4d868e1,de488e9c-2d90-4f18-8594-cd71646d52e6,2022-12-08 16:01:25,PIX,88b2bab2-29b8-4fee-8e44-d61f72f0b26c,Entregue,Site,Orgânico,Jadlog,BR0899280563,6.0,839.8
+cf8154cf-45c5-4b34-bf7d-8c49c29502b0,fb4a22ac-57c9-4398-b7cc-02a7526ce4e5,2023-07-11 22:58:01,PIX,f426fedd-c0d5-4ae7-a847-5e356038be80,Entregue,Aplicativo,Google Ads,Correios,BR5966592669,9.0,89.9
+f816f0af-d544-4751-a651-9bd9a24812fd,294f7624-90fc-4186-8079-9d522ba7fc0b,2025-01-10 16:17:13,Cartão de Crédito,,Entregue,Marketplace,Instagram,Correios,BR1459403144,6.0,519.7
+d1889819-050e-4d10-b8d0-8bd9fe676cd2,44bde7cd-796b-47a8-8c1f-af643f65c81d,2026-04-24 09:23:43,PIX,34a31f39-8023-4825-8ec5-2006fd4223f7,Entregue,Site,E-mail Marketing,Correios,BR9681563981,9.0,1279.4
+dfea1a42-5ad8-43e4-8fa3-0af609ec2517,c0211c74-0ca5-4998-9b18-e70e7878642e,2023-02-27 07:26:39,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Total Express,BR9409567520,7.0,1039.5
+3f1cf274-5377-45d4-ad11-044a23808ff3,4bbf5f6a-4d71-49df-97b8-baa902d703c7,2023-12-17 18:33:14,PIX,5580553a-5105-4ccd-8253-75de200e50a4,Entregue,Aplicativo,Orgânico,Correios,BR0524270760,7.0,739.7
+7ebdbdfe-bbc7-4c56-a8f7-c62ab0bea56f,7e3ca46f-97bc-41d8-8860-5cee5fc4dfa9,2023-12-05 11:07:26,Cartão de Débito,,Entregue,Aplicativo,Orgânico,Jadlog,BR4616495023,5.0,609.7
+e2ea9f21-1b35-4cd2-8a35-4d10c99a2362,d75accb6-7187-44d6-a6e1-7907c92bf45a,2023-05-16 07:18:36,PIX,ab2cc146-d50a-4211-9eee-9bf7149bffe1,Entregue,Site,Google Ads,Jadlog,BR1910048561,4.0,659.6
+9a9e78c8-751f-434f-8340-a2144e23c85e,2d4953c7-6a4d-4c49-a5a9-6d122c98400c,2024-06-11 07:29:14,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR5338675181,5.0,99.9
+bec8f88b-8649-481f-ad78-899a0a76d424,1b213a15-0996-4fa2-828b-0d43c4a08521,2023-06-30 20:55:00,PIX,91c2ab4f-cec3-48e5-80e0-f1113ea0648d,Entregue,Marketplace,Orgânico,Total Express,BR1240875658,9.0,1099.5
+888d75be-ec67-45c1-9561-67d7a0cdeb35,3f02371c-e8ad-4511-936f-dc26af9869e0,2026-07-03 15:55:20,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Correios,BR9424631363,4.0,219.9
+f1e0e027-2860-4fa8-a5ee-bc83a860e77b,223c09ec-c29a-4693-ad16-6cd33380a37c,2022-10-28 11:23:45,PIX,5f7f3599-47ec-4954-9766-5685e99936c1,Entregue,Marketplace,Orgânico,Correios,BR1715998304,3.0,1339.4
+d3d683c4-1539-427a-99d4-d3b2b454be7b,a98b0e6a-50fb-4146-861f-54cc7514297e,2026-01-28 01:11:51,Cartão de Débito,,Entregue,Aplicativo,E-mail Marketing,Total Express,BR2819826049,2.0,659.8
+b2e99307-aa13-427b-a356-89020e25dd1e,f1bd70f2-f693-4a1a-a218-92ac6c05ed82,2025-10-14 01:13:21,Cartão de Crédito,,Cancelado,Site,Instagram,,,,439.7
+9c82e4fb-dd0b-43bc-b1e0-59b64b6d1902,b3a8b097-290a-4565-849f-70410f256f8d,2023-03-02 12:53:36,PIX,e68cae77-b2d4-40bf-9885-e9e1797727b4,Entregue,Site,Facebook,Loggi,BR1115049742,4.0,699.6
+4a68c2a2-e8aa-463c-a332-685416a81465,f8774ad6-43d9-471d-a9d0-c727893b8d9c,2024-11-17 21:26:18,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR9140242940,4.0,1399.6
+5e42ce9a-3466-49c8-9626-08e40e095279,3cdb91a8-758c-4535-bffc-7773d97317af,2023-12-31 18:48:47,PIX,b1379739-3d6b-4a14-ae90-9ff5ef2cf98c,Entregue,Marketplace,Google Ads,Correios,BR5294576398,4.0,639.6
+12b30b6b-bdd0-470d-b85f-663c32712e95,7d1ec55d-61dd-43f0-b902-160f58de53c2,2023-02-07 16:39:06,Cartão de Débito,,Entregue,Site,Google Ads,Jadlog,BR6127174302,10.0,179.9
+c5bb922d-4049-4704-a1fc-8652d80aa75a,97d4412f-020e-4fa5-b1d9-0ec08cbd87cc,2024-08-21 15:34:38,PIX,69fa2094-78e9-476f-bbbd-cb2d56ccb4d0,Entregue,Site,Instagram,Correios,BR4364587358,6.0,219.9
+b158df6f-b504-4c46-92ac-b6bee4258cec,383d523d-05f4-4652-a609-9f052d7a076a,2023-10-06 17:11:14,PIX,a9ad85f0-5e2e-488f-b5bd-9452601161c0,Entregue,Aplicativo,Facebook,Correios,BR0102434504,8.0,859.6
+b8b1071d-a38a-4de1-91ca-750072cbb462,2754c9d7-ef86-43e7-a168-d65f28a02dd5,2024-09-17 03:08:56,Cartão de Débito,,Entregue,Site,Orgânico,Correios,BR0213601504,5.0,799.6
+87ed912b-8b28-41e7-8512-10fdb0ae23b3,8f5ab00a-78b3-4c0d-9437-dfb2392199e9,2025-06-12 20:28:36,PIX,b2bff9e1-83b4-4858-b3cc-65f9c804cb23,Entregue,Marketplace,Instagram,Correios,BR2877555990,8.0,1339.6
+497f1fdd-d429-4d16-aa50-ba06c7739759,150d7c73-af37-454e-9c97-9733fe82a412,2025-04-07 11:30:10,PIX,9c0185b4-ba2c-4505-b333-b9e019a96503,Entregue,Aplicativo,E-mail Marketing,Loggi,BR5684554716,2.0,619.7
+da7ce1e2-9d94-4345-bff2-119ebc8efa84,f5d1b2b0-619f-425c-a1c2-b9559ff6f2ab,2025-11-01 19:58:05,PIX,314971c5-cbd2-4818-a953-4c1f8185f233,Entregue,Site,Orgânico,Total Express,BR6795706637,7.0,709.7
+53f02843-1058-4ae5-9b56-e2e15898be18,0dedf90d-c043-4747-bb3f-76a5f5d0be0e,2024-11-10 14:17:59,PIX,40aa7f2c-e7a2-47b9-9533-f5d45d0355e6,Entregue,Marketplace,Facebook,Loggi,BR6588162931,2.0,559.7
+c8ce7813-7cb5-4f89-8f8f-53e52b6ba298,9e208962-5bf3-4bb8-bef9-b5c8d1b16a98,2025-11-10 05:06:23,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR7581585546,6.0,1199.6
+763a1ac0-1842-49bb-a464-85ef60f3f56f,2b198299-9282-402e-bc74-ccd73efa1e75,2024-02-21 11:18:42,Cartão de Débito,,Cancelado,Marketplace,Orgânico,,,,839.8
+48bf3f12-a5ed-4e57-ba76-4afb6dcfd812,4e5a6371-e18d-4a9f-87ad-749e3d69864c,2024-11-21 20:38:52,Cartão de Crédito,,Entregue,Aplicativo,Instagram,Total Express,BR0512494504,6.0,389.8
+b1af65cf-0f69-41c5-a5cd-2d0e84242788,02b20470-f62f-41b2-9197-a8a66cf1e41c,2025-04-13 13:54:20,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Loggi,BR1516452211,2.0,919.6
+ad9849ea-0949-4ba6-86a2-bf5ea6444c8b,09c75ec8-4804-471f-baaf-d3d73ead07a2,2023-06-01 20:58:38,PIX,e6406156-d500-44f4-adc0-4091054823a2,Entregue,Site,Google Ads,Jadlog,BR3756308685,7.0,399.8
+76fdd563-4a4e-43a7-a38e-16089705a24b,6650d46d-19ec-4f64-9941-ef7643d46319,2024-07-23 17:05:08,Cartão de Crédito,,Entregue,Aplicativo,Facebook,Total Express,BR8763437319,5.0,339.7
+aad67d09-6a83-473f-927c-15130e5c5c2a,fbfaa4d8-8d98-4d95-9275-e81b8f352665,2022-11-26 06:21:56,Cartão de Crédito,,Entregue,Aplicativo,Orgânico,Jadlog,BR4334693162,9.0,479.8
+0dbc51b0-d8a9-4336-91b9-05e028477eb2,2754c9d7-ef86-43e7-a168-d65f28a02dd5,2023-12-04 21:02:56,PIX,896bdf57-f4bb-4f6d-a720-5075962c5973,Entregue,Aplicativo,Google Ads,Total Express,BR5554220255,4.0,1279.5
+649b39d1-4f2e-4f6d-b017-5ac67989d320,150d7c73-af37-454e-9c97-9733fe82a412,2022-11-13 04:45:20,Cartão de Crédito,,Entregue,Site,Facebook,Correios,BR7395790094,6.0,489.8
+f62e7a7a-19da-42c8-85f4-3476efb77f61,a5c3b542-8eef-451d-8ca8-9f239eecd001,2022-10-06 20:51:36,PIX,bb2fde1c-e914-4dbd-93b4-71d0f13f38ea,Entregue,Site,E-mail Marketing,Jadlog,BR3938899860,5.0,559.6
+bbc0a5ef-cc16-4ed4-80bd-383aaf1c45e7,7c5b4df2-4f76-4100-a25e-e51cc357aba6,2023-08-25 21:36:48,PIX,8f95822c-9bad-4c89-b3d0-bea8b1a37a84,Entregue,Aplicativo,Google Ads,Loggi,BR7006305610,10.0,259.9
+c7ebb989-de6a-4de4-b6f5-34fedb5f660a,d925a4ba-9818-48c9-9e91-1782cdadb4bf,2023-11-03 09:37:11,Cartão de Débito,,Entregue,Aplicativo,Instagram,Loggi,BR4245098561,5.0,619.8
+6aaaa6db-1ebb-4d21-a43c-bbe7668b7cac,e2f8245b-9147-4830-b7b3-ec4da30ac709,2023-10-27 02:58:50,PIX,ebd35a40-4b57-4575-8259-9e1ccc9de306,Entregue,Marketplace,Instagram,Correios,BR9518745349,8.0,1199.5
+982c6f31-0bf5-4aba-9f04-7dd0f17c5b35,a6c97368-bc4e-4e09-8e3f-29bbeb7d0b0b,2025-02-12 06:44:20,PIX,be10fb1f-d3a8-4a8d-ac92-843be0fd269e,Entregue,Marketplace,Instagram,Jadlog,BR6424535544,6.0,439.8
+7235f8a9-930e-48b9-93c6-2efa6f0fcfd2,bb753083-c894-4793-9154-1254a7ff98fd,2025-02-16 06:10:10,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Jadlog,BR7138766865,2.0,619.4
+d2b929c9-9ec8-40b9-882b-a923d689447b,81a9a432-be71-46a3-894a-c3a275378022,2025-07-22 03:34:23,PIX,698b1434-3752-4e94-8cf4-626764329931,Entregue,Site,E-mail Marketing,Loggi,BR6666352078,7.0,1459.4
+786942ab-ba78-4ded-b245-56cdba6cfc4e,9d536358-4097-475b-ba77-b4c8c9252505,2024-09-11 20:30:43,Cartão de Crédito,,Entregue,Site,Orgânico,Loggi,BR5858851562,7.0,159.8
+aeb6377b-466f-448a-bee0-717f9cbbc34f,e162afea-b486-4ce5-88fd-5cbd96e16e6d,2024-09-17 10:33:54,Cartão de Débito,,Entregue,Site,Orgânico,Total Express,BR2655708936,7.0,519.8
+03fd7736-021a-4200-86a1-9a16762c0b27,48b9a534-40c0-4f27-929a-98f713763e00,2025-10-27 23:30:18,PIX,5f7d51ec-8b58-4bb7-88e9-4092afb1db9b,Entregue,Site,Orgânico,Loggi,BR6174538105,2.0,1079.6
+53586e27-c62f-4742-aec1-02c1818cb618,72f5a40d-d462-4114-ab58-5ea7434b7232,2023-07-17 08:39:20,PIX,d05fe20b-235f-49d8-8b6d-0c6c9716fc8d,Entregue,Site,Google Ads,Loggi,BR0872812382,2.0,1959.4
+204f78f7-0dcf-4afa-ab34-d5a9def857fb,b821c2a1-3089-43c6-ad9b-bc56fe5d3cfc,2024-07-05 12:12:16,PIX,383e4e4a-72f7-4295-b127-e9a82b4b3bf2,Entregue,Site,Orgânico,Jadlog,BR3243776974,3.0,389.9
+d740ceec-9278-4b75-bbcb-c4f461b0d87c,5831d5db-6768-46ad-b5fd-61f074196406,2024-04-22 01:00:29,PIX,28b6c4ea-62fe-4c15-9eac-99376798c302,Entregue,Aplicativo,Instagram,Loggi,BR2771192399,3.0,639.6
+eae8d310-8286-4f31-b8ad-adf8f67e4cfb,1e97ec6c-5e4d-417c-a735-8be4d5cfe531,2025-06-26 05:26:43,PIX,a6b75818-802a-43a2-9568-b92961e6bbf8,Entregue,Site,E-mail Marketing,Jadlog,BR6517584147,4.0,699.6
+a1abe642-7f5c-4387-a293-f3e606ad70df,7431fc2d-5bd3-47a9-b9ed-781306dba499,2025-11-16 20:48:28,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR3882320691,2.0,619.6
+fa3fa1ff-74f4-48a4-b1b3-bb356f8bb30e,d925a4ba-9818-48c9-9e91-1782cdadb4bf,2025-02-23 14:40:44,PIX,08a85b8b-d7ee-4135-b18b-ddf0c7c73400,Entregue,Site,Google Ads,Total Express,BR8099616201,2.0,419.7
+146e9359-e566-40a8-9b10-723448354179,ee59fd4c-a11f-478b-a1a8-18adc94b17f7,2024-02-02 14:21:44,PIX,f5422815-0b6a-411c-a394-5cdda59b1fc7,Entregue,Aplicativo,Orgânico,Total Express,BR1396382155,3.0,1249.6
+32161ce0-a8de-4242-9ca9-16abc9f60ec2,63c95449-79e1-4f60-9ba3-0b7ea367a5de,2022-07-26 05:21:36,PIX,bfe7e95c-a62a-4cbd-9a1d-011a770b5abe,Entregue,Marketplace,Instagram,Jadlog,BR4688183356,9.0,219.9
+016f9466-2436-45c9-989d-553f8fd77e7f,bbb4c090-a7ec-4eba-8876-7df435f866e5,2024-11-17 21:57:46,PIX,1c6d46a4-8a60-4ceb-94bc-c04518cbbd51,Entregue,Site,E-mail Marketing,Loggi,BR3130494500,2.0,779.6
+fdd5b7a8-3912-43ab-b4f5-c4761197a75b,4d23ec59-3172-481b-b858-b7a0d111b793,2025-06-24 19:28:49,PIX,22bf36e6-3022-44ee-bc10-37fba0c5123f,Entregue,Marketplace,Facebook,Jadlog,BR9994549408,2.0,789.7
+476748af-20df-4507-b3bf-82c3bf987906,70babf20-3911-44bd-a554-bae0e4aeb875,2023-07-01 20:46:39,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Correios,BR0320011912,3.0,579.7
+8000c9e7-e451-4979-99bc-e380288ea02f,780c77aa-35e6-41a7-852b-fcc41d23e9e6,2024-02-26 04:00:25,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Total Express,BR2932236591,9.0,1439.6
+ac6a4b25-f7dc-4af4-abca-a5af003b6088,fb1ffa56-82a4-4130-bfa7-224294fa98d3,2023-02-18 19:05:06,Cartão de Débito,,Entregue,Site,Facebook,Total Express,BR0921141178,6.0,1139.6
+db6a14cc-e47b-4095-9fb0-abfcfe4f8a19,3bd23f90-ae8b-4874-baf6-deb207f423d1,2023-05-28 18:22:42,PIX,ad19af6f-7604-44ff-a471-4fc116c7ac86,Entregue,Site,Instagram,Loggi,BR8520684296,6.0,869.6
+f04238b0-35ab-47e6-bbe3-130e00df9cbd,2da4db75-e546-43b6-9102-fe8132446fc7,2023-05-01 09:33:49,Cartão de Débito,,Cancelado,Aplicativo,Google Ads,,,,79.9
+cb792ada-5d3e-4906-bd99-f6f8016fab16,0dcb3501-3199-42f8-8583-7cc13fcb077b,2024-12-06 15:05:59,Cartão de Crédito,,Cancelado,Marketplace,Instagram,,,,1399.5
+f0e27cef-62b9-444c-bb77-a348b6134bdc,90efa865-e724-4698-90fa-fc2ae2ea5ff3,2025-09-23 19:28:22,PIX,7d732d8e-6c7b-49c3-b847-8362b85fd721,Cancelado,Site,Google Ads,,,,439.8
+8ceed22b-4093-47d8-b252-8b1d65cedc37,fbfaa4d8-8d98-4d95-9275-e81b8f352665,2025-09-25 17:06:05,Cartão de Débito,,Cancelado,Site,Orgânico,,,,399.8
+f9a59a00-85ef-40d1-9b9e-3d44eeb66190,16c4c0dd-ca14-4aba-af07-68bf46d2ffd5,2023-04-21 23:14:21,Cartão de Crédito,,Entregue,Site,Orgânico,Total Express,BR8429204158,6.0,709.7
+454484c4-dfba-4118-8250-da2f6ae208a1,7d26ef1d-f24b-49b3-9eb3-a5c8e93ffc98,2025-01-12 11:12:23,Cartão de Crédito,,Entregue,Site,Orgânico,Correios,BR7016524995,8.0,1069.6
+60ac13ab-7c7d-48d2-9399-5ab81f54592f,f72b0e52-bb3e-4bc5-8b75-e385b9f61d2d,2025-05-01 14:45:49,Cartão de Crédito,,Entregue,Site,E-mail Marketing,Correios,BR0883582242,9.0,1179.5
+4155b8a8-cb02-4ffd-889e-d26d5bbfe940,90b3a98c-ea56-4d4a-a231-14f11e156af4,2026-06-28 02:57:27,PIX,a25c356d-781c-4b77-a5fd-896d01b5e7cd,Cancelado,Site,Instagram,,,,439.7
+dfba2606-17e9-456f-a68b-d28b40d9eb6c,04dfa391-168e-498f-809e-8b026fda5c45,2023-10-29 09:52:08,PIX,c1abdaf6-7fe7-4f2c-8408-37c26bc1a0a0,Entregue,Aplicativo,Google Ads,Jadlog,BR4567934785,9.0,1019.5
+e172de35-7b53-406a-b7c7-2c20d79aa252,52fd7236-1f51-44cd-bba0-48c9fee76811,2024-07-27 14:35:03,Cartão de Crédito,,Entregue,Marketplace,Facebook,Jadlog,BR7448282457,5.0,329.9
+d61ab847-1e97-4e38-a820-417d73bdd90d,cf989ad3-c50e-473f-999d-9775fa747dea,2023-11-15 01:59:57,PIX,74b5b27f-0435-4076-b792-180267a44555,Entregue,Site,Google Ads,Correios,BR3739710153,10.0,1839.4
+09eac283-4114-48a7-a0d5-d183b56d2cff,04dfa391-168e-498f-809e-8b026fda5c45,2024-08-05 22:36:03,Cartão de Débito,,Entregue,Site,Instagram,Total Express,BR3475587636,7.0,199.8
+42eb8661-a31d-42fe-aaf6-3132fb45fc18,ef5e5951-71a6-4734-9083-614961643cbf,2025-04-12 04:41:45,Cartão de Crédito,,Entregue,Marketplace,Orgânico,Jadlog,BR3621752354,10.0,939.4

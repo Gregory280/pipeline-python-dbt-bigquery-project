@@ -1,0 +1,4 @@
+SELECT
+  ROUND(SUM(SUBTOTAL), 2) AS RECEITA_TOTAL
+FROM {{ ref('fato_venda') }}
+WHERE STATUS = 'Entregue'

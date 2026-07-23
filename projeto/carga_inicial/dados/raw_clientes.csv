@@ -1,0 +1,636 @@
+﻿cliente_id,nome,email,celular,sexo,data_nascimento,documento,cidade,estado,cep,endereco,data_cadastro,atualizado_em
+5abbe1dd-4e76-4b0d-bc63-b5920736e1b7,Davi Miguel Freitas,fcostela@example.net,+55 44 1794-7474,Feminino,2000-10-27,260.834.517-44,Rocha Alegre,MS,99085187,"Quadra Miguel Silveira, 845",2025-12-15,2026-01-10
+d925a4ba-9818-48c9-9e91-1782cdadb4bf,Rhavi Ferreira,thiago40@example.org,93 0989-5328,Masculino,1997-10-08,319.768.420-69,Gomes,SE,97100-664,"Feira da Costa, 16",2022-09-19,2025-09-09
+28e5fd34-05c3-4abf-b643-91a16eb71efa,Luara Rios,jadevargas@example.com,+55 54 5807-9556,Masculino,1989-01-09,860.147.392-03,Marques das Flores,PI,41486853,Lagoa de Costa,2025-06-26,2026-05-12
+c003a17c-f279-4786-a354-9cacd1c76c9c,Srta. Ana Beatriz da Costa,ncamara@example.com,61 2023-7514,Feminino,1985-02-15,502.471.983-23,da Mata,MT,06900006,"Vila de da Cruz, 331",2023-08-13,2025-03-12
+00966880-5a1d-4764-9d14-62a153004030,Davi Luiz Martins,goncalveseduardo@example.com,+55 67 9966-7701,Masculino,1989-09-16,728.456.190-49,Almeida,ES,70515-746,"Setor Cauê Ramos, 3",2024-03-09,2024-08-27
+8a99df00-669c-426a-8185-8cfaf82d1361,Leonardo Cirino,diasigor@example.org,96 9933-9915,Feminino,1994-02-09,836.702.591-12,Sá de Rezende,PA,73721-641,"Trevo Pimenta, 236",2023-05-06,2025-05-18
+4366e5a8-8fdb-4c43-be6e-b8773d5cae49,Ana Cecília da Costa,otavioporto@example.net,38 8263-3765,Masculino,1969-09-29,386.051.742-26,Novais,AM,32722455,"Lagoa Cavalcanti, 26",2023-02-23,2024-10-27
+44bde7cd-796b-47a8-8c1f-af643f65c81d,Thales Martins,asantos@example.com,96 5714-0423,Masculino,1993-12-30,436.805.127-08,Abreu do Amparo,PA,01750076,Núcleo de Pimenta,2024-01-12,2025-03-01
+52fd7236-1f51-44cd-bba0-48c9fee76811,Dr. Luiz Gustavo Sampaio,maria-vitoria62@example.net,15 7310-9592,Feminino,1995-03-29,634.059.218-05,Rios Grande,MG,13987-244,"Trevo Mathias Albuquerque, 1",2025-05-26,2025-06-29
+8ba2519d-890b-4c6f-81e9-11f61bf873ef,Eloá Sá,teixeirabento@example.net,+55 84 9757-4332,Feminino,1982-04-29,196.083.572-68,Oliveira Alegre,RO,81237877,Praça Samuel Araújo,2024-08-23,2025-05-22
+3e456f53-f83c-4f8a-8749-4b20915c8f70,Pedro Henrique Rodrigues,dsantos@example.com,+55 28 5116-6663,Feminino,1978-12-26,835.042.671-35,Souza de Minas,PI,10374-223,"Chácara de Alves, 20",2026-07-04,2026-07-07
+d08dbeaf-e024-491d-9857-f5daf4c8f70b,Vitor da Cunha,raelsilveira@example.com,64 6171-8223,Feminino,1982-05-10,425.790.618-94,Borges,MG,30285320,"Viela de Vargas, 594",2023-07-05,2024-04-05
+376d14bf-ae33-494f-b966-5bb160cb4406,Vitor Gabriel Santos,alanamontenegro@example.org,24 4140-0404,Feminino,1997-05-09,276.915.803-12,Cardoso,GO,02503604,Colônia de Mendonça,2025-10-01,2026-06-10
+330380ad-134f-4303-801e-58a50d66e7b0,Eloah Oliveira,melissa53@example.org,48 7039-2536,Masculino,2003-09-16,923.614.057-25,Cirino do Sul,MA,52533-409,"Praia Benjamim Fonseca, 22",2024-02-29,2026-02-19
+892fc0e7-c914-491c-97f7-c4a064cae3cb,João Fogaça,luiz-otavio59@example.net,89 1796-4996,Feminino,1983-04-29,928.735.104-04,Silva dos Dourados,RN,46340-734,"Área da Mata, 30",2024-06-15,2026-03-22
+e98f7fdb-dbf6-4fa7-8e87-7f2edba0920b,Jade Martins,castrobenjamin@example.com,67 4817-9738,Feminino,1965-10-10,081.372.964-50,Casa Grande,DF,11564481,Ladeira Vitor Pastor,2025-08-04,2025-09-12
+aebe3dad-a7c9-427d-a135-d42a89c02add,Ágatha Moura,da-conceicaoarthur@example.net,33 0846-0052,Feminino,1985-01-19,573.904.281-04,Souza,AP,19670707,"Loteamento Isabela Siqueira, 49",2025-08-25,2026-03-18
+0474d36a-7010-4ba5-b925-bbdfe3bf98e3,Olívia Caldeira,vfreitas@example.com,+55 34 4596-8318,Feminino,1978-12-08,731.082.469-50,Freitas,BA,52441454,"Lagoa Ana Laura Gomes, 15",2025-07-06,2025-12-23
+aa7dfff1-15d9-4c57-9578-6723eb475ff8,Sr. Pedro Vargas,pereiraarthur-gabriel@example.net,79 1155-8378,Masculino,1993-02-11,826.719.403-78,Caldeira,MT,21474239,"Passarela Bianca Fogaça, 35",2026-03-20,2026-07-11
+780c77aa-35e6-41a7-852b-fcc41d23e9e6,Ian Albuquerque,gomesdante@example.com,15 1950-6152,Masculino,1997-07-14,406.291.583-98,das Neves Verde,PA,87159-777,Sítio Caleb da Luz,2025-10-01,2026-03-16
+a26750fe-f6a9-4fad-8837-bbd5014fa55e,Pietro Martins,caio42@example.com,+55 21 9285-1600,Masculino,1997-03-01,912.807.345-23,Casa Grande,RO,40978505,"Quadra de Albuquerque, 88",2022-12-07,2023-01-16
+3b529b85-ff35-44c4-95e7-9337e0c71a43,Dra. Ana Júlia Viana,aliciacorreia@example.net,+55 88 2343-4731,Masculino,2002-09-27,036.214.587-35,Peixoto,MT,95269498,"Passarela Nunes, 7",2025-05-13,2025-07-10
+6b992061-fee4-4aba-af00-ee51121971c3,Melina da Paz,bella57@example.org,+55 65 9605-9957,Masculino,1993-07-10,905.682.371-02,Peixoto Grande,GO,40624-981,"Passarela de Martins, 80",2023-02-07,2023-12-06
+666e7ddb-9472-47b1-a200-4cd868cbf766,Maria Eduarda da Conceição,brayanferreira@example.net,71 1159-3866,Masculino,1982-09-26,281.796.034-31,Pinto das Flores,DF,05172-303,"Lago de Guerra, 10",2024-12-10,2025-12-23
+d47e6dbd-7d07-434c-98b3-a3b2656ce9aa,Levi Siqueira,gda-paz@example.net,+55 42 3348-6468,Masculino,1978-08-03,683.925.714-28,Vasconcelos de Minas,MS,06083-359,"Viaduto Freitas, 73",2022-10-08,2024-08-11
+5c90a45e-d378-4fa0-aaa7-5442d793e4ec,Amanda Novaes,luan62@example.net,14 1568-7430,Feminino,2003-03-04,502.796.431-52,Siqueira do Sul,AP,26780-677,"Passarela Aragão, 14",2025-10-31,2026-07-17
+0e54eba8-0716-4721-b619-d5f5746cf9be,Camila Camargo,yrios@example.org,53 0053-0076,Feminino,1985-05-21,962.570.814-67,Abreu,MA,93323681,"Viaduto Caldeira, 132",2025-02-21,2026-02-15
+aa2397c8-6259-4b1f-8324-ac9cf16e5c72,Ana Beatriz Moura,maria-cecilia58@example.org,+55 54 2569-6608,Masculino,1966-09-25,534.928.710-97,Pires,MG,54246-902,Aeroporto Lucca Cavalcante,2024-03-31,2026-01-22
+0558e71e-2ee9-48d8-a8b8-cec297626d46,Cecilia Dias,joao-miguel90@example.com,14 7142-1843,Masculino,1996-12-25,812.079.356-03,Sales,PR,14798171,"Lago Costela, 21",2024-12-06,2026-05-21
+6972464d-3a62-4096-8918-a12aba5d77aa,Srta. Stella Campos,guerragustavo@example.net,14 4618-0627,Masculino,1977-03-01,913.845.706-75,da Costa,MS,04950638,"Ladeira Bianca Costela, 81",2025-09-06,2025-10-08
+e01596bc-8bd2-46bb-a4bf-974fb07acc49,Benjamin Pires,imendonca@example.net,+55 43 2414-1029,Masculino,1971-11-02,829.037.461-50,Nascimento,GO,19003168,"Esplanada João Porto, 90",2022-10-31,2024-01-31
+e49e84bd-ca92-4c6d-a6cf-ff8d6fe8f78b,Maria Liz da Conceição,maria-eduarda82@example.net,28 2445-3678,Feminino,1998-09-16,586.712.304-90,Casa Grande do Norte,AP,15697-140,"Ladeira Valentim Pires, 40",2024-12-05,2025-12-19
+80fffa2c-b68b-4df3-bf0f-2f306d8d379a,Aurora Mendes,aleao@example.net,42 0369-0132,Feminino,1986-08-22,654.207.918-11,Casa Grande,MA,12727-342,"Chácara de Lima, 41",2024-12-22,2026-07-06
+a7923242-f219-4f3d-90e8-5c4e8d55c214,Dr. Yan Rios,leo43@example.com,71 0333-7192,Feminino,2006-08-05,926.785.304-00,Andrade Verde,RR,59214004,Fazenda Maria Julia Farias,2026-01-13,2026-06-27
+046ae125-59a6-43b7-950d-deacffe179ed,Dr. Cauã Monteiro,guerradaniel@example.org,73 9358-0249,Feminino,1981-11-21,017.869.453-39,Teixeira do Sul,PB,89396044,"Área de Cavalcante, 998",2023-02-07,2023-08-20
+41a7a87e-90d5-4e11-b99d-f3802a1ddfa3,Luísa Mendonça,cavalcantimaria-fernanda@example.org,94 6074-4457,Feminino,1999-08-18,671.390.852-77,da Luz,AL,51214-487,"Trevo Heitor Pires, 219",2023-05-17,2026-01-14
+9d536358-4097-475b-ba77-b4c8c9252505,Larissa Farias,carlos-eduardoda-mota@example.com,+55 24 8139-8273,Feminino,1985-12-31,781.529.360-30,Brito de Fonseca,PI,78640495,"Pátio de Albuquerque, 35",2025-07-05,2026-07-06
+a52b3058-71c0-494b-85e4-f02984a2f1bc,Cauê Novais,benjamincassiano@example.org,+55 41 3343-8749,Feminino,1970-12-17,183.679.425-82,Porto de das Neves,RS,30818-070,"Área de Leão, 54",2023-05-05,2025-02-20
+949dcd91-5dec-4113-a6e2-320a8788d8ae,Levi Monteiro,pedro-lucas04@example.net,69 3933-8863,Feminino,1974-07-27,163.809.457-84,Sampaio,SP,92285-393,"Área Amanda Cunha, 558",2023-12-04,2026-01-31
+728d2bac-746c-4674-b75c-daa9214aa425,Augusto Viana,carvalhoayla@example.org,34 0922-7671,Masculino,1973-04-24,469.752.038-65,das Neves do Galho,PI,72827-360,"Trecho de da Mota, 70",2026-02-03,2026-07-19
+08d66c79-97a8-46ff-ab78-84fa11385563,Nina Melo,smartins@example.org,74 2353-2524,Masculino,1976-01-31,791.042.386-13,das Neves da Mata,AP,91577550,"Lagoa Rodrigues, 21",2026-02-12,2026-06-09
+dd303fe9-0b4d-4453-b353-0de7f5e44d25,Murilo Peixoto,jose-miguel24@example.org,51 3237-9343,Masculino,2005-05-09,750.691.483-20,Duarte,SC,60100149,"Via Mendes, 59",2022-09-18,2024-06-26
+01faf20c-9c9a-4903-a617-4fd3531b6991,Maria Vitória Aparecida,smoreira@example.net,+55 48 0980-2847,Masculino,1985-06-16,695.321.748-00,da Conceição Verde,SC,70262-042,"Viaduto da Luz, 3",2025-12-07,2026-07-05
+0e686be1-666d-4a24-aeb7-c7b36ee28019,Lucas Novaes,valves@example.org,+55 68 9454-7721,Feminino,1970-03-19,764.298.315-82,da Rocha do Campo,RS,64563-562,"Favela de Castro, 16",2024-12-03,2026-01-20
+64682676-3fc8-4a02-803d-f76043751a8f,Davi Miguel Freitas,jaragao@example.com,84 6985-1916,Masculino,1986-06-25,642.173.098-13,Marques,DF,73377-446,"Trecho de Novaes, 80",2024-11-23,2025-02-26
+d02cd838-393f-4ad7-9161-e8d435026c9b,Melissa Correia,sahellena@example.com,11 7495-9502,Masculino,1977-09-11,460.857.139-75,Cavalcante do Galho,SP,03357-119,Avenida de Cirino,2026-04-12,2026-04-23
+e3e47166-5d5d-4553-8d15-8acd3529d874,Josué Martins,da-matasara@example.net,87 3730-5335,Feminino,1991-06-29,735.286.910-77,Lopes do Sul,RS,52646579,"Recanto de Pastor, 564",2023-06-30,2026-05-09
+2f6e430a-e447-402e-a7ff-33ffd2110667,Davi Luiz Peixoto,cmarques@example.org,+55 51 9169-7864,Feminino,2007-08-09,034.276.895-65,Pacheco de Santos,CE,96853-854,"Trevo João Miguel Pereira, 68",2025-10-17,2026-03-29
+79580480-ef90-4347-bc0e-3906e62ed8de,Sofia Macedo,lucas-gabrielvieira@example.org,61 0032-7989,Feminino,1996-04-18,463.107.259-80,Jesus,MT,62677611,"Distrito Thomas Fonseca, 476",2025-09-29,2026-05-27
+c0d6c6ff-b998-44b4-bd31-7a474c5560ca,Bryan Abreu,melissacastro@example.net,71 5617-2739,Masculino,1969-01-10,640.512.973-06,Marques dos Dourados,DF,80102-137,"Fazenda de Rodrigues, 18",2024-10-22,2025-11-06
+ccdae916-2d60-4768-ac48-97ed23d1f0ba,Josué Nascimento,felipevasconcelos@example.com,49 5488-4416,Feminino,1975-07-22,618.904.237-69,Peixoto do Sul,SP,30715-278,"Condomínio Nina Monteiro, 34",2023-04-24,2025-03-01
+c5a7dc49-8162-4361-90ab-906d4984757e,Luiz Felipe da Mata,mateus80@example.net,84 8798-4729,Masculino,1993-04-12,890.157.364-48,Sousa da Prata,MS,31481-579,"Sítio Cirino, 722",2025-01-15,2026-07-10
+6e9eea82-9d1a-4533-ab75-36c8e5ac0e8d,Ana Liz da Luz,lucca27@example.net,19 6454-2230,Feminino,1971-04-05,746.832.915-09,Rios da Mata,SC,72907-692,"Largo Mariana Marques, 90",2025-03-14,2025-03-28
+21b775f5-bd60-438f-ab35-55c3b1f9ba63,Carlos Eduardo Caldeira,icavalcanti@example.com,42 2187-0747,Masculino,1970-04-02,185.429.673-64,Pacheco do Sul,PE,26056-412,"Praia Sampaio, 13",2024-03-04,2024-06-01
+6c78ccbd-8157-4977-b415-e6622284cc7f,Caleb da Conceição,yasminda-costa@example.net,87 4047-7200,Feminino,1967-07-03,298.305.461-60,Melo da Prata,PE,33450580,"Ladeira de Vasconcelos, 625",2024-03-16,2025-10-22
+1f084ac1-2c71-4bf5-a2f9-b87d71c080cd,Liam Guerra,dcostela@example.net,+55 91 0118-5651,Feminino,2004-09-07,569.402.183-51,Araújo do Campo,PE,76551-643,"Colônia Macedo, 75",2024-01-09,2024-09-11
+e233adab-a01f-4984-b116-cc88d75f6110,Srta. Brenda Fonseca,ana-laura49@example.com,+55 77 4043-1697,Masculino,1985-11-02,491.283.607-96,Macedo,MG,48445923,"Rua de Rezende, 96",2025-03-22,2025-09-10
+80d5bdea-d92d-4466-a637-d83b9e72ce6e,Samuel Ferreira,ada-rosa@example.org,+55 28 3427-9834,Masculino,1998-12-02,587.364.219-28,das Neves da Serra,AP,10599400,Parque Caio Siqueira,2024-08-25,2026-06-24
+5ab976b8-dd62-48d0-9957-589e9f838a5a,Dante Nunes,camaraasafe@example.net,93 0743-1842,Masculino,1974-12-13,315.687.294-64,Fonseca,PB,25515408,"Ladeira Maria Cecília Câmara, 817",2023-04-30,2025-07-20
+bd53f7b1-7c15-4b86-8235-df95b3fad006,João Miguel Fogaça,bpereira@example.net,+55 83 4783-1891,Masculino,1991-09-18,791.234.658-91,da Cunha,PB,73444756,"Praia de Freitas, 30",2024-09-21,2025-10-16
+f91ed125-a7cc-4dfd-935b-26dd3f057ed5,Ana Lívia Teixeira,silvamaria-vitoria@example.net,53 1944-7367,Masculino,1976-10-27,519.480.726-02,Pires de Goiás,RN,91839-519,"Chácara de Cassiano, 20",2026-01-31,2026-07-09
+962bdef3-cc5d-4729-a2b0-36d84a0c14e7,Gael Siqueira,daniel72@example.org,73 1009-2594,Masculino,1982-05-05,043.896.721-69,Teixeira,AM,80107-016,Feira Bruna da Luz,2023-05-03,2023-08-29
+b4ab577f-4827-4b08-8516-c62ead705b43,Pietro Siqueira,amanda67@example.org,69 5514-9215,Feminino,1984-02-26,284.916.305-89,Silveira,GO,24150202,"Vale Theo Cunha, 94",2024-11-11,2025-01-28
+9d62b556-b59a-436f-988e-9d79947e7aab,Dra. Lara Ramos,melinanovaes@example.org,+55 88 6724-7841,Masculino,1998-10-11,213.769.850-12,Ribeiro Grande,MT,97007-188,"Campo de Almeida, 48",2026-04-08,2026-06-19
+a47a1a47-a2fb-4ee9-b5a7-6ddcf3aa65d6,Raquel Vieira,kazevedo@example.org,+55 47 7389-6979,Feminino,1977-03-16,413.206.975-34,Macedo das Pedras,MT,88078-704,Distrito Teixeira,2022-11-03,2023-09-08
+8e00d22c-201a-4338-abc8-e2adc0ca4ae1,Rodrigo Gonçalves,kmendes@example.org,+55 32 2941-6906,Masculino,1993-01-27,346.021.958-06,Campos,DF,17714057,"Vale Ramos, 100",2026-06-10,2026-06-17
+c9db2910-924b-4dbe-8398-89b09df7240d,Marcela Sales,kcardoso@example.net,+55 77 4195-0967,Masculino,1978-12-23,529.164.738-82,Melo,SC,28160285,"Parque de Viana, 37",2025-12-23,2026-01-21
+de105541-5525-4139-b08e-f855b3bd04bf,Benicio Nogueira,sophielopes@example.org,62 6147-1552,Masculino,2004-03-13,842.561.730-80,da Luz,PI,46990518,Esplanada de Abreu,2025-10-14,2025-11-12
+13abed1b-2416-4e03-9032-2b3d9d84ab61,Ana Julia Sá,jose-miguel00@example.net,+55 31 1039-3298,Feminino,1977-06-10,615.738.409-39,da Conceição,RJ,72737081,"Passarela Silveira, 44",2024-07-14,2024-11-21
+9609f520-680e-4eb2-8d6b-127b4fc8f5af,Heloísa Pires,hadassadas-neves@example.net,87 7853-4371,Masculino,1979-01-02,864.351.972-37,Ferreira,RN,75452-946,"Viaduto Isadora Silva, 1",2023-06-23,2026-05-24
+7d1ec55d-61dd-43f0-b902-160f58de53c2,Sr. Benjamim Pires,saluiz-felipe@example.com,77 9518-8715,Masculino,1992-09-05,934.186.527-19,Rezende da Prata,AC,58929726,"Setor de Pinto, 591",2023-07-15,2024-02-19
+e162afea-b486-4ce5-88fd-5cbd96e16e6d,Davi Lucas Fonseca,limajoana@example.org,+55 51 2993-0323,Masculino,1982-11-20,071.286.435-08,Silva,PA,29142882,"Feira Farias, 2",2022-09-30,2026-01-18
+4be952f2-d34a-49f5-b8fb-1093050c2074,Sr. Valentim Oliveira,da-paznatalia@example.org,16 5038-1918,Feminino,1981-05-12,745.320.198-50,Moura de Pastor,MT,31101-278,"Vereda de Viana, 910",2025-06-23,2025-08-26
+433567a0-3051-40d2-80c7-f605f161e55d,Dom da Conceição,isabella11@example.org,62 4344-4117,Masculino,1969-01-04,604.812.539-98,Sampaio de Pimenta,TO,93480348,"Esplanada Pinto, 29",2023-11-09,2024-11-16
+e7a0a391-2d6c-4efc-8889-d205befe4937,Isabella Duarte,laviniamendes@example.org,79 6682-6689,Masculino,1975-06-04,806.359.742-74,Ramos de Minas,AC,65587-944,"Favela de Sales, 46",2025-02-21,2025-04-21
+b19be997-5ded-4f55-a72e-f1275a374d41,Maria Sampaio,casa-grandejose-pedro@example.net,85 0303-2092,Feminino,1994-12-04,940.138.752-41,Leão Verde,MA,97013-538,"Chácara Lopes, 4",2026-06-14,2026-06-30
+d514c2d6-f819-48e3-b98d-7115f3265382,Ravi Lucca Macedo,yfonseca@example.net,0500 316 0186,Feminino,1970-06-22,319.628.470-04,Martins,PR,59473185,"Estação Davi Lucca Dias, 93",2022-10-07,2026-06-15
+80bfb508-c5b1-45c4-9775-0883ffca07e1,Leonardo da Conceição,britodaniel@example.net,65 4416-7595,Masculino,1983-07-26,409.283.571-04,Campos,PE,97824-385,"Esplanada de Marques, 4",2023-11-30,2025-02-26
+d8127c5d-1a37-4306-b58e-d93eb15fcaa9,Emanuella Ribeiro,dda-cruz@example.com,98 8358-3586,Masculino,1966-02-10,125.743.809-32,Marques Verde,DF,97196-316,"Ladeira Cunha, 4",2024-08-18,2024-08-21
+9d46c3b0-b8a7-44bc-94bb-0edb305caf3d,Rodrigo Vargas,gribeiro@example.com,31 5333-1218,Masculino,2003-09-29,615.893.027-02,Garcia,SC,36069-271,Favela Brito,2025-11-08,2026-05-05
+bd46992f-d5c2-47a3-9d56-338c37577ca1,Gabriel Nascimento,maria-cecilia60@example.com,+55 28 5394-6456,Masculino,1993-08-20,468.270.591-11,da Costa,AL,83518656,Condomínio Gomes,2026-04-19,2026-07-15
+d6dca17a-bbaf-447d-b6b9-287768137429,Sofia Barros,pietroda-rocha@example.com,+55 74 7000-8966,Masculino,1968-09-30,427.910.583-97,Lima de Macedo,ES,12712223,"Viaduto Maya Machado, 452",2025-02-10,2025-11-12
+209dfe29-1b70-465b-879c-0df5b718c5f9,Davi Lucca Cavalcanti,luiz-otaviocorreia@example.com,+55 75 7672-6469,Masculino,1998-01-27,139.027.845-04,Macedo dos Dourados,RO,15446-749,Vila de Porto,2024-06-08,2025-12-20
+9e208962-5bf3-4bb8-bef9-b5c8d1b16a98,Juan Vieira,araujoenrico@example.com,+55 61 1039-6269,Masculino,1997-10-06,021.439.685-15,Almeida,ES,24671-468,"Ladeira Rodrigues, 44",2024-10-29,2025-12-25
+d73fca31-ffa3-444d-92d4-6592ed7972fc,Mariana Farias,eleao@example.com,+55 43 2359-7862,Feminino,1970-11-17,704.285.369-56,Novais do Norte,PR,36801-531,"Trevo Gustavo Henrique Ramos, 256",2024-09-07,2025-12-06
+bf0900f1-f229-4d2d-935c-82b715be239a,Pedro Lucas Casa Grande,rezendemaria-flor@example.com,64 6451-3376,Masculino,1979-10-21,243.185.069-24,Cavalcante,RR,47406986,Praça de da Paz,2025-07-02,2026-02-08
+583d919c-cf90-42bc-8a36-5a9df8c723ec,Gabrielly Almeida,caleb55@example.net,+55 67 0970-7232,Feminino,1985-01-09,756.980.213-68,da Rocha da Prata,AP,28251-868,"Vereda de Camargo, 9",2026-02-20,2026-06-28
+90efa865-e724-4698-90fa-fc2ae2ea5ff3,Srta. Isabela Machado,joao-gabrielcaldeira@example.net,+55 63 9652-5721,Feminino,1970-06-20,645.287.910-30,Costela das Flores,RN,00124-279,"Trevo Maria Alice Sampaio, 55",2024-06-08,2025-09-04
+2deae240-5d19-4dfa-8de7-799e68a4cfda,Sr. Luiz Felipe Leão,asouza@example.net,62 9947-9527,Feminino,2000-11-18,152.984.076-76,Andrade Verde,MS,73433016,Passarela Gonçalves,2026-06-21,2026-06-21
+cb978144-d0ad-413e-9362-cb59693abf1d,Jade da Mata,borgesmaya@example.com,+55 92 6380-6575,Masculino,1967-12-19,825.074.913-88,da Mata de Moreira,CE,20771-762,"Estação Moreira, 2",2023-04-25,2023-11-15
+fd77eade-d608-4777-8748-9af908722fe4,Ravy Rezende,anacavalcante@example.net,+55 49 6796-2003,Feminino,1967-12-10,054.318.627-07,Garcia,SE,31174-907,Chácara de Mendes,2024-02-26,2025-08-21
+dc71526c-5064-4b81-bff5-728f221c5a65,Matheus da Mata,marianeribeiro@example.org,0500 546 5602,Masculino,1977-10-23,976.285.140-49,Andrade,RR,40729012,"Distrito Novaes, 30",2023-07-06,2024-12-21
+2dfc1da0-0c36-4552-ab91-47e23a9abdf1,Sra. Valentina Viana,dda-mata@example.com,61 6563-5792,Feminino,1987-01-20,528.460.137-80,Fernandes,SE,81583432,"Loteamento Luiz Gustavo Jesus, 458",2023-08-28,2024-08-05
+308b5609-03bc-49f4-b33a-5abf6ed8c6f4,Maria Clara Cassiano,oribeiro@example.net,+55 17 8933-1406,Feminino,2005-12-20,475.683.021-80,Correia dos Dourados,RR,04330-144,"Praia Castro, 15",2026-04-09,2026-06-23
+0e07e895-992e-4e8a-8791-7b28e16d1ff0,Sarah Duarte,luiz-gustavocampos@example.com,+55 62 5651-5200,Masculino,1996-01-26,134.675.082-35,Viana Grande,MG,30248670,"Passarela Gael Ferreira, 96",2025-07-11,2025-09-10
+f42def77-bf78-4d9e-be97-4d35255885ed,Maria Sophia Almeida,yribeiro@example.net,69 0908-0921,Feminino,1997-08-13,274.983.056-74,Câmara de Barbosa,PA,16686610,"Conjunto de Câmara, 73",2025-11-26,2026-05-02
+315b4fa2-6ee4-4a17-ae8a-1cf1ccc53f51,Elisa Vieira,yalves@example.net,67 7802-1446,Masculino,1991-04-25,516.983.074-20,Cunha,PA,61592754,"Setor de Nunes, 76",2026-02-04,2026-03-13
+0291f43d-0d10-4254-b3ce-6a4c4811f214,Raul Correia,brunogomes@example.org,+55 83 2004-8300,Feminino,1968-05-08,235.678.014-90,Gomes do Galho,RR,45954-923,"Parque Catarina Ribeiro, 30",2025-08-24,2026-01-06
+dacbec44-71ed-498e-a071-0dda441e9c86,Helena Pastor,joanamachado@example.org,+55 84 3555-4571,Masculino,1991-01-09,429.580.617-01,da Cruz,PB,19562578,"Núcleo Correia, 71",2023-01-02,2024-06-25
+a98b0e6a-50fb-4146-861f-54cc7514297e,Luiz Fernando Freitas,blopes@example.net,+55 93 3724-3008,Masculino,2003-05-18,957.346.102-16,Araújo de Pimenta,AC,58035266,"Lagoa Stephany Barbosa, 60",2023-06-16,2026-06-25
+06135b51-14ac-4b5a-ac84-aaf2d302d6d8,Vicente Sales,borgesdanilo@example.net,49 1193-7144,Masculino,1988-03-11,209.136.475-43,da Mata,CE,50237682,"Residencial Dias, 435",2026-04-07,2026-07-09
+04dfa391-168e-498f-809e-8b026fda5c45,Davi Lucca da Rosa,enovaes@example.org,49 1289-2000,Feminino,1988-11-23,813.725.064-62,Lima das Flores,PB,69712-198,"Passarela de Costela, 81",2023-09-22,2024-01-16
+968e6aa7-9062-4ed8-8845-6a93dfb928cb,Maya Gomes,marcelo34@example.net,+55 66 8745-4639,Feminino,1984-12-07,376.294.801-13,Melo de da Paz,MT,46201969,"Conjunto da Rocha, 442",2023-08-11,2024-07-20
+e168a805-79bd-4c9c-9db1-3d50ff7927d4,Rafael Pinto,hpinto@example.com,31 7993-5981,Masculino,1979-07-12,038.167.492-40,Borges da Praia,MA,27582254,"Vale Camila Jesus, 1",2024-01-28,2026-01-16
+1f0c8cfe-c6f4-4a05-b196-deb5818f0b95,Dr. Isaac Barros,emanuelcunha@example.org,38 8099-8130,Feminino,1966-02-09,903.745.261-25,da Paz,SP,94175750,"Loteamento Dante Pinto, 31",2024-10-19,2026-05-30
+481bb261-eff9-44c5-b68e-dfb75b1d63ca,Pedro Lucas Ferreira,zmarques@example.com,+55 35 3702-6758,Masculino,2003-09-11,645.823.079-65,Ribeiro de Araújo,AL,39797434,"Área Pedro Henrique Nogueira, 883",2022-08-27,2026-05-02
+3bb3a09d-612a-40dd-860d-ab33795d8fe6,Luiza Pereira,leaothomas@example.net,+55 53 7034-6638,Feminino,1975-03-24,025.714.396-34,da Mota,RO,06787-323,"Pátio Macedo, 53",2025-12-02,2025-12-18
+6c564c96-cfba-4351-a2b3-3832d634f055,Maria Liz Dias,pcunha@example.com,+55 61 0747-3230,Masculino,1978-01-12,318.092.756-95,Pimenta,GO,22979-639,"Parque de Cavalcante, 3",2022-10-17,2025-07-19
+68139937-37b5-43a0-95a2-0f2bffbf4ef7,Henrique da Cruz,emartins@example.net,69 1883-6675,Masculino,2002-12-01,532.968.417-09,Cavalcanti do Galho,RR,95422646,Lago de Rocha,2025-10-15,2026-04-08
+0eff0964-bb65-4a15-9fd4-56bfa8daca1b,Thomas Macedo,vda-rocha@example.com,+55 12 6359-8196,Masculino,1987-07-17,840.273.965-29,Cirino de Lima,MS,01181-565,"Praça Vasconcelos, 4",2024-02-20,2024-09-05
+cafc9177-aca7-4e3d-86ef-49e65c223dba,Bryan Ribeiro,anthony-gabrielabreu@example.net,+55 53 6325-3845,Feminino,1993-03-15,689.203.417-96,Albuquerque,PR,67333507,"Esplanada Abreu, 959",2025-12-30,2026-05-07
+88284bed-e9d5-45d0-9c8c-14ac1c0a41ff,Maitê Sá,vda-conceicao@example.org,+55 38 6166-5457,Feminino,1971-12-24,248.170.569-67,Melo de Casa Grande,PA,85248353,"Vale Pimenta, 40",2024-01-14,2026-05-12
+3482b9b7-152a-4de6-9352-f2e620bb36cf,Dra. Laís Moura,vitor-hugo17@example.org,93 6947-9659,Feminino,1994-12-31,452.691.870-94,Moreira,RR,24210-260,"Viela Caroline Rios, 2",2026-01-05,2026-05-17
+9da91e7e-9c16-4fae-bd9b-58613bb148c5,Ana Clara Albuquerque,zferreira@example.org,+55 33 1021-7314,Masculino,1974-05-05,831.274.965-91,Rodrigues do Campo,PA,11241933,"Largo Mendes, 101",2025-04-23,2025-05-08
+48c90415-401c-4b29-92bf-aa861176ca54,Maria Alice da Mata,ncamargo@example.net,+55 12 2877-4656,Masculino,1999-10-01,269.801.435-06,Cunha,GO,42916-664,"Passarela Rocha, 780",2024-01-20,2026-02-10
+33a3b076-b5e9-4a62-b001-baba1100b488,Benjamim Ribeiro,sarapastor@example.net,+55 63 5253-8713,Masculino,1988-10-30,967.513.824-64,Macedo,MG,51676561,"Lagoa Eloah Vargas, 8",2025-12-11,2026-06-20
+3ebcb03c-9ce2-42a0-bcf5-a051c49d9bd3,Liam Lopes,rporto@example.net,+55 79 5224-8872,Feminino,1967-01-08,460.358.972-74,das Neves de Ribeiro,RO,56705-150,"Ladeira Mariana da Costa, 28",2025-11-23,2026-01-11
+75b1643d-e34f-4ed4-ad44-6481b2ecb182,Ana Liz Marques,leonardorios@example.com,51 8390-7157,Masculino,1983-03-21,470.319.582-88,Ribeiro,DF,79570943,"Lago de Novaes, 66",2022-07-22,2023-09-14
+3fa16f5b-f5b8-4c9d-a107-8da646310218,Sra. Isabel Fernandes,ana-luiza47@example.com,+55 81 7325-7899,Feminino,1998-11-08,072.549.163-99,da Conceição do Norte,RJ,58087-667,Praia de Oliveira,2026-05-15,2026-06-15
+22da0ff9-464c-48f6-a986-ad49a0c93404,Bruna Fonseca,kcunha@example.net,+55 42 8727-8441,Masculino,1978-02-23,156.308.247-08,Correia,PI,81318-947,"Campo Antônio Gomes, 58",2023-05-04,2023-08-27
+9aed6355-e724-4403-af0f-e098bbdb3159,Yago Sampaio,thiagosantos@example.com,+55 33 0935-1741,Feminino,2000-10-24,853.129.740-05,da Conceição,DF,41140-052,"Viela Evelyn Porto, 37",2025-12-17,2025-12-20
+2cdf072f-be28-41aa-991f-e9080d98a534,Nina Lopes,raqueldas-neves@example.org,+55 89 9126-4474,Masculino,1971-11-07,208.963.745-56,Novais de Silva,PB,15636-050,Via de Marques,2023-11-21,2025-08-09
+7ad47a79-ef38-49f9-92e9-2b926a6e8b3d,Raquel Barbosa,ramosalexandre@example.net,32 5493-3214,Masculino,1989-05-08,024.596.173-99,Azevedo de Fogaça,GO,42482991,Vale Camargo,2023-07-03,2024-02-24
+7107712e-c3c4-4e19-8916-8439f7f4f659,Isaac Sales,gleao@example.net,87 4157-4694,Masculino,2005-02-18,937.248.065-74,Casa Grande,BA,72418-429,"Vereda de Rios, 78",2025-04-30,2026-02-02
+2b198299-9282-402e-bc74-ccd73efa1e75,Cecília Monteiro,maite94@example.net,+55 18 6453-4274,Masculino,1973-11-30,318.269.045-06,Costela,RJ,64447445,"Rodovia de Oliveira, 99",2023-01-07,2026-01-03
+a5f962f2-b2e0-44fc-83c6-35eb0538483b,Anna Liz Caldeira,santosenzo@example.org,+55 48 8315-6584,Feminino,2005-05-04,702.163.854-07,da Cruz de Azevedo,AM,43115-311,"Viela Emanuella da Luz, 308",2022-12-18,2023-08-12
+c35f0153-41d2-40c9-8630-2efa828cba5a,Sarah Oliveira,da-cruzmanuela@example.net,+55 45 1822-6228,Masculino,1985-07-25,249.136.085-33,Pinto de Pacheco,MS,93116-655,Trevo de Rodrigues,2024-02-10,2024-03-05
+66ac8ee8-e21f-4cc8-9809-f1adbad564bd,Benjamin Castro,ivargas@example.net,+55 65 8670-2196,Masculino,1982-11-22,813.074.652-26,Casa Grande,RS,37734185,"Favela Marques, 5",2024-06-03,2026-03-16
+a50f3107-5c7c-41c1-9b25-8c7c6ab4a9bf,Mariana da Cruz,mourahenry-gabriel@example.com,21 1373-3674,Feminino,1992-02-16,956.137.024-70,Ribeiro,AL,66733-257,"Alameda de Pinto, 949",2025-07-20,2026-07-06
+c9fd233c-d1c6-45f0-8a2e-d8fdc4b3b508,Isabella Cavalcante,mmoreira@example.com,+55 34 2709-0219,Feminino,2006-06-05,634.821.507-53,Cavalcante Grande,AP,70063241,"Campo da Paz, 69",2023-11-21,2025-09-15
+cf989ad3-c50e-473f-999d-9775fa747dea,Theo Sales,spimenta@example.net,28 9528-7019,Feminino,1994-01-09,581.426.730-53,Araújo,RN,83957707,"Travessa de Macedo, 623",2024-07-08,2026-04-27
+fb9c3836-803e-4495-b75e-d8f82ad228fd,Davi Lucca Lopes,peixotohenrique@example.com,62 5419-5628,Masculino,1976-04-10,619.573.840-93,Pimenta,CE,15381643,"Rua Vieira, 397",2025-12-21,2026-07-18
+54d49599-d2dc-46c6-bc36-6af5cfa441ce,Bryan Fernandes,luigipacheco@example.net,+55 14 0510-0707,Feminino,1993-05-20,109.837.624-22,Vasconcelos do Norte,TO,49201-283,"Trevo de Silveira, 28",2026-01-11,2026-03-06
+fd3ab0c2-d954-49bc-8b37-3af97cf97086,Ravi Lucca da Mata,piresjose-pedro@example.net,63 6533-6099,Masculino,1981-01-20,973.540.821-04,Pimenta Grande,PI,05263603,"Avenida Rezende, 94",2025-02-27,2026-07-07
+3d60fab9-435e-4a7d-b54a-2ae7ef156817,Lorenzo Borges,wazevedo@example.org,91 2171-9968,Feminino,2005-03-07,246.071.389-40,Guerra,PE,10590579,"Avenida Brayan Costela, 9",2025-06-22,2025-09-29
+ef5e5951-71a6-4734-9083-614961643cbf,Luiz Henrique Ramos,almeidalara@example.com,77 9637-1233,Feminino,2000-05-11,281.037.956-40,das Neves,RR,69352-652,"Praia Vargas, 15",2023-05-09,2024-12-25
+fd31894f-f100-4166-9c95-1161938ca2c3,Dra. Eduarda Cassiano,barrosdante@example.org,93 6160-2712,Masculino,2003-10-31,094.573.618-57,da Rocha,CE,56676183,"Distrito de Teixeira, 47",2023-10-29,2025-11-19
+8506e115-1e29-4994-9bc9-007e7e6b12d3,Rhavi Freitas,goncalvesana-vitoria@example.com,87 8596-3827,Feminino,1974-10-26,095.186.473-48,Alves da Serra,TO,45272527,"Recanto da Cunha, 23",2026-06-17,2026-06-22
+7bee3b9f-fe9a-4d34-a247-688a405bb4d9,Amanda da Costa,gustavo-henrique50@example.com,+55 49 3530-0441,Masculino,2002-04-17,821.647.350-80,Viana,DF,44690974,"Recanto de Duarte, 70",2023-12-23,2024-08-13
+91aea84a-3075-44fb-b602-6dadc510c67d,Isabela Fonseca,kcasa-grande@example.com,69 2987-6037,Feminino,1993-01-15,614.893.507-48,Fernandes dos Dourados,SE,94482-575,"Setor Mendes, 69",2023-05-16,2023-06-24
+5aa378cb-be7b-41f0-b36c-2991a2f3487e,Anthony Gabriel das Neves,maria-claramoreira@example.net,+55 41 8556-9031,Masculino,1971-11-01,147.039.658-01,Fogaça de Gonçalves,AL,61470-932,"Alameda de Pastor, 65",2024-08-28,2025-05-12
+db429ecc-794f-444f-84dc-ee2049562074,Lucca Cunha,jose-pedropastor@example.com,67 1970-3355,Masculino,1989-08-14,465.390.812-51,Brito,CE,44790-861,"Favela de Pereira, 9",2026-02-05,2026-05-24
+f1bd70f2-f693-4a1a-a218-92ac6c05ed82,Gustavo Henrique Guerra,ana-julia41@example.org,94 2031-5810,Feminino,2005-02-20,842.630.751-53,da Mota,DF,31609-833,"Colônia Lima, 633",2023-01-31,2023-12-24
+d6e52d97-a45f-45d1-8eaa-343eb84edd2a,Daniel Gonçalves,davifreitas@example.net,96 2766-1406,Masculino,1983-05-11,973.812.654-19,Carvalho das Flores,RJ,85073-219,"Rua de Ferreira, 67",2024-06-16,2025-05-25
+8330b191-05b6-43fd-ae86-649d9318895e,Mateus Barbosa,augustoabreu@example.com,11 3786-1889,Masculino,1999-06-28,185.243.760-07,Rezende,MG,29345429,"Favela Gabriel Costela, 217",2023-02-20,2025-07-02
+550ac6b0-107f-4e3a-b7f9-9da5ca6f9c12,Luna Aparecida,apollomoura@example.net,+55 44 1779-9791,Masculino,1984-08-25,031.726.584-90,Cavalcante,MA,99980-053,"Estrada Alves, 75",2025-11-18,2026-02-18
+8e649b13-7537-49d8-9e9e-9dde5a490975,Alice Farias,garciamaria-luiza@example.org,+55 98 1767-0836,Masculino,1973-10-16,329.457.610-25,Fernandes,SC,25555-058,"Viaduto Rodrigues, 6",2024-06-09,2025-06-27
+d647312e-029e-4589-849b-1c5fd5ae1dbe,João Miguel da Rocha,abreupaulo@example.com,69 8739-7132,Feminino,1980-05-06,926.371.058-95,Dias,AC,77588-229,"Recanto Elisa da Mota, 64",2025-09-11,2025-09-24
+80426826-3676-46fa-9e02-abb4b4c507a7,Renan Cirino,natalia55@example.net,+55 38 6393-2547,Feminino,1988-12-16,923.475.016-07,Brito,CE,74461-372,"Pátio de das Neves, 845",2026-06-28,2026-07-08
+3c33ab5b-a1c6-4d11-86a6-0f7fe854f73f,Mariana Novais,lmoreira@example.org,+55 22 4000-0399,Feminino,1986-06-09,637.850.241-26,Nunes Grande,SC,98781935,"Área Silva, 3",2022-09-14,2024-12-22
+c05e7985-0e5d-4d06-a8a9-63c163570279,Mariana das Neves,da-cunhalevi@example.net,+55 79 4745-6973,Feminino,1992-12-11,865.079.312-68,Silva,PR,81747-575,"Praça Rios, 10",2024-08-23,2025-03-28
+790a3d87-5a80-4309-bc51-69448f858575,Enzo Gabriel Ramos,alvesstella@example.com,0500 974 6378,Feminino,1995-08-11,853.167.402-62,da Costa Verde,DF,55064440,"Favela de da Mota, 67",2026-04-14,2026-05-11
+065a65b1-82e0-4bc2-aea2-305cb7357fe9,José Pedro Castro,limapietro@example.org,+55 68 9455-7628,Feminino,2005-07-31,768.934.152-73,Abreu,AM,81338-114,"Trevo de Garcia, 84",2025-03-29,2026-02-02
+77be9c49-3c29-44a8-8fbf-19be25868812,Isadora Pereira,nunesasafe@example.net,83 1556-2732,Feminino,1990-06-26,510.689.327-59,Gonçalves de Vasconcelos,AL,58560258,"Chácara Vitor Azevedo, 870",2024-10-31,2025-05-27
+5831d5db-6768-46ad-b5fd-61f074196406,Carolina da Cunha,esales@example.com,+55 73 8288-3724,Feminino,1986-01-07,350.764.289-10,Montenegro do Campo,BA,01169-708,"Estrada Barros, 79",2025-04-26,2026-05-06
+b31fbd06-daa5-4057-bc1d-df394f654c36,Mariana Mendonça,yuri86@example.com,51 2920-4781,Masculino,1970-12-07,270.685.934-29,da Cruz,SC,95230-531,"Distrito Yuri Rocha, 941",2023-01-23,2026-01-25
+02e0f4e3-22ab-4f5f-8042-b33fdc5d0bd9,Marina Marques,fernandocasa-grande@example.net,+55 45 1520-2509,Feminino,1988-08-11,680.243.715-53,Pereira do Norte,AP,76412114,"Morro Viana, 39",2023-05-06,2023-10-20
+3899fa69-d165-4a97-b2ff-e221706dd35f,Daniela da Luz,ana-laura61@example.org,48 4718-6666,Feminino,1999-11-10,316.785.290-95,Novaes das Pedras,RJ,23312-917,"Viela Benjamim Cunha, 22",2025-02-13,2026-06-16
+1e97ec6c-5e4d-417c-a735-8be4d5cfe531,Manuella Silva,mlima@example.org,65 9731-1923,Feminino,1970-02-18,782.390.561-21,Brito do Amparo,AL,85064-618,"Largo de da Cruz, 55",2023-10-08,2025-10-21
+97d4412f-020e-4fa5-b1d9-0ec08cbd87cc,Gustavo Santos,ana-cecilia45@example.net,+55 46 5347-7030,Masculino,2004-05-13,675.238.094-56,Moreira,RJ,08461910,"Pátio Sousa, 454",2026-04-07,2026-05-10
+85476225-e10c-45d4-8a3e-0d1904d0d15a,Stella da Costa,rhavi22@example.net,45 1485-3098,Masculino,1997-12-30,807.425.639-10,Freitas da Serra,AC,75625075,"Jardim Sá, 972",2026-04-15,2026-06-15
+e8a55abe-db41-48ba-9046-eadfe43f3d21,Dr. Heitor Gomes,lunna11@example.com,82 0383-8221,Feminino,1984-12-19,061.932.754-52,Alves,RN,06610-107,Conjunto de Alves,2025-04-20,2025-10-15
+034c9329-ee2f-413f-b9bf-9706a0c84d43,Rebeca Porto,brodrigues@example.org,+55 47 2388-4878,Masculino,1972-10-31,671.839.054-20,Sousa,AC,58096-366,Alameda Caldeira,2023-07-20,2023-07-23
+d7589d9c-ec57-406f-aef2-01e6a8a5aefd,Dra. Clara Casa Grande,piresjoana@example.org,87 5442-3206,Feminino,2003-08-19,570.623.918-59,Macedo do Sul,MS,99267-185,"Condomínio de Rios, 261",2025-10-24,2026-05-11
+c048b873-d8e7-4244-89f1-9bd977de3c36,Ian da Mata,raquelcamargo@example.net,+55 22 2228-2403,Feminino,1977-02-27,628.103.495-33,Correia de Goiás,PB,76898657,"Loteamento da Mata, 53",2025-07-17,2026-01-15
+66303531-4834-494b-b353-9dd2ce92adc3,Lavínia Correia,da-rosamanuela@example.com,14 9790-5569,Feminino,1984-04-13,065.342.897-92,Borges,AM,34230-585,"Sítio Júlia Cardoso, 52",2023-03-11,2024-06-25
+4c0247d3-78bb-4e9c-8727-491e337478bb,Thiago Novais,augusto44@example.net,41 9034-1587,Feminino,1979-11-17,459.306.178-48,da Mota da Praia,AL,04601-599,Praia Antony Porto,2023-06-16,2023-08-23
+3e4d6fde-a59b-4078-a510-6a85b93eeff3,Isadora Carvalho,brunapeixoto@example.net,+55 13 3222-6431,Feminino,1980-11-10,238.451.067-35,das Neves de Souza,SE,87814506,"Fazenda da Paz, 67",2022-10-11,2023-08-13
+b61b6b45-56a7-4c71-9d11-9a613d9d8989,Hellena Novais,raquel48@example.com,28 5119-4355,Feminino,1987-12-10,437.852.961-00,Lopes,TO,71151-574,"Fazenda de Borges, 63",2024-02-26,2024-06-04
+3f02371c-e8ad-4511-936f-dc26af9869e0,Gustavo Costa,amandamoraes@example.net,96 6483-5573,Masculino,1998-12-09,810.524.367-90,Castro,MS,75289617,"Colônia Novais, 882",2023-11-16,2025-06-13
+9ff54405-f262-4d58-94ce-6342bac714ef,Benício Cassiano,marcos-viniciussousa@example.org,88 9236-9590,Masculino,1997-07-08,728.104.396-13,Abreu,PI,56169785,"Pátio Pimenta, 822",2026-06-02,2026-06-17
+1268b80e-6cc2-4b1c-a0c1-69fc6df84e54,Luiz Miguel Carvalho,qsilva@example.org,+55 93 0929-9556,Feminino,1992-10-15,483.751.902-41,Jesus do Sul,RN,74297484,"Sítio de Sousa, 498",2023-05-27,2025-03-16
+a17486b3-4710-42ad-a852-877bd49e7ef0,Ana Clara Mendes,daniel17@example.org,+55 99 8988-7969,Feminino,2002-07-31,539.024.768-00,Vieira de Porto,AP,56400591,"Trevo de Vieira, 1",2025-03-12,2026-03-05
+cd88d7ed-b57d-4338-bc9d-7f714b77c4c1,Vitor Ramos,tfreitas@example.com,+55 16 8909-8006,Masculino,2004-06-12,610.538.247-26,Pimenta Verde,PA,90594609,"Campo de Melo, 15",2025-09-15,2026-05-01
+498027c2-1a7f-4109-96d7-e5a02ac9b594,Maria Júlia Viana,jose-pedro77@example.com,0800 789 7757,Masculino,2007-07-05,183.649.072-04,Costela,SE,65570-804,"Chácara de da Luz, 460",2025-12-12,2026-04-03
+bccfeb22-7598-42b1-9421-e0860fbad329,Emilly Macedo,mateus44@example.com,+55 34 1863-6973,Feminino,1979-07-18,673.902.184-87,Nogueira do Oeste,PE,30142-429,"Praça de Sampaio, 63",2025-08-06,2026-04-01
+8da3d859-d412-427d-83c0-777221b2b145,Ian da Cruz,noahpastor@example.com,+55 71 4705-0492,Feminino,1974-08-25,675.892.341-09,da Conceição Grande,RS,05383319,"Praça Silveira, 59",2025-11-15,2026-06-02
+d6e7a037-c601-4eb9-a4ed-15380d085dc8,Heloísa Sá,joao-gabrielvieira@example.org,+55 75 2763-0463,Feminino,1977-02-19,506.289.471-94,Fonseca Alegre,SP,86022262,"Avenida Allana Ramos, 98",2024-08-26,2025-10-31
+432f97c5-031f-4d85-a330-8e5742cbe8cd,Gustavo Campos,luiz-felipemoura@example.net,83 6864-4247,Masculino,1978-03-07,904.325.768-00,Lopes da Prata,ES,60642530,"Vila Almeida, 439",2022-10-17,2025-11-03
+bf1f569c-8d63-474e-8597-d00ece41ebe7,Igor Fogaça,aragaogabriela@example.com,+55 34 7143-7296,Masculino,2007-09-12,053.497.186-57,Cardoso,DF,11225913,"Rua de Vargas, 175",2023-08-14,2023-08-23
+dffde7c0-6f21-4b34-89d1-d897f3f94e8e,Maria Alice Fernandes,nicolas67@example.org,41 1219-6025,Feminino,1966-05-06,401.685.372-90,Caldeira de Farias,MS,87901-266,"Conjunto de Vieira, 344",2025-08-10,2026-01-10
+fb60831c-a189-4bcd-9a7b-74af5225322f,Davi Lucas Garcia,augusto84@example.com,+55 51 5229-1388,Feminino,1988-09-15,597.183.264-64,Azevedo de Ferreira,RS,62376-251,"Colônia Sara Pimenta, 38",2023-03-14,2024-07-23
+3399c3b2-4628-499a-bc21-c71fb5fb4ceb,Luiz Otávio das Neves,wrodrigues@example.com,+55 46 0807-0961,Feminino,1991-03-04,253.069.478-83,Oliveira,TO,34635-468,"Largo Ana Júlia Azevedo, 13",2025-07-18,2026-04-20
+5d8db4bd-af10-4831-be2a-5ad07ae6f7cc,Sarah Almeida,mvieira@example.org,74 8016-3078,Masculino,2004-08-30,849.021.675-49,Sá,TO,09302602,"Trevo Pastor, 913",2024-03-14,2026-06-20
+b101f7fe-3d68-4176-b0b1-f1ffaff08600,Dr. Otto Novais,pmarques@example.net,+55 63 3463-7674,Masculino,1971-05-18,025.649.187-94,Campos de Campos,RN,71910037,Sítio de Sampaio,2024-05-29,2025-07-12
+20a938ad-2b15-45f3-96f5-4e180ac70567,Lunna Novaes,bernardo77@example.org,97 2512-3405,Masculino,2002-01-24,841.260.573-07,Pinto Verde,RN,34618947,Feira de Vargas,2023-05-12,2026-04-17
+7431fc2d-5bd3-47a9-b9ed-781306dba499,Benjamim da Conceição,peixotorebeca@example.org,88 4157-2904,Feminino,2008-01-20,142.967.830-50,Melo,RS,31167-083,"Distrito Costa, 265",2025-01-01,2025-09-16
+2fa560e6-7656-482a-a07d-0c5644804621,Ravi Lucca Silva,souzaalicia@example.org,18 5934-1309,Masculino,1969-01-11,870.314.625-17,Nogueira do Sul,RN,94277-654,"Distrito Fogaça, 912",2023-12-16,2025-06-20
+ee59fd4c-a11f-478b-a1a8-18adc94b17f7,Dr. Pedro Lucas Costa,luanmarques@example.org,0300 229 8584,Feminino,2004-08-12,786.931.405-66,Moreira de Minas,SE,05859379,"Ladeira Nunes, 77",2025-05-14,2025-10-15
+9767e7a0-64b2-4f97-acc6-9b77b4e20ed0,Maria Luísa Gomes,amontenegro@example.net,96 8092-6479,Masculino,1976-07-15,724.156.083-35,Pastor da Mata,AM,11927713,"Vale de da Costa, 2",2024-06-29,2025-03-28
+0005bc87-6ae0-46f7-ad83-da5f1ad90c6c,Heitor Machado,rda-paz@example.com,92 7790-9789,Feminino,1984-08-22,479.810.325-04,Sá,CE,34689-741,"Estação de Albuquerque, 2",2024-01-19,2026-01-02
+7d26ef1d-f24b-49b3-9eb3-a5c8e93ffc98,Davi Miguel Teixeira,kamilly37@example.com,+55 98 8609-7814,Feminino,1977-10-01,284.976.350-00,Martins de Cassiano,RJ,23636-098,"Vila Vasconcelos, 280",2022-10-23,2024-12-02
+ec83402b-2d43-4fc7-abd1-e8d2a84c5e23,Olivia Sousa,iduarte@example.net,38 5874-9232,Masculino,2008-06-08,530.627.941-43,Cavalcante Verde,SC,93905-532,"Feira de Montenegro, 151",2024-06-04,2026-03-05
+72fc7ac0-3003-4cbb-9085-c6fd6f4d60f9,Ian Oliveira,apollo14@example.com,+55 95 3833-3843,Feminino,2003-11-29,694.051.372-80,Machado,SC,59477-427,"Conjunto da Cunha, 85",2023-03-09,2024-09-17
+815a0afb-baea-4194-bcec-9a6d45daf572,João Vieira,salescaio@example.net,98 5952-7344,Masculino,1982-02-03,605.937.412-34,Aparecida de Almeida,PA,00768773,"Via Costela, 4",2023-01-01,2024-10-31
+d44b04ba-7097-4451-9f5b-edc9b357f21e,Kaique Sampaio,joao-pedronascimento@example.net,+55 21 2406-5388,Feminino,2006-06-20,492.571.830-41,Pimenta,TO,06161366,"Pátio de Vasconcelos, 65",2025-10-27,2026-06-08
+ed74e447-5a63-41ce-b5b9-01548df059f5,Maria Liz Rocha,candrade@example.com,61 4805-5081,Masculino,1994-06-04,309.512.874-60,da Cruz das Flores,AL,95584-292,"Morro Rios, 1",2026-04-10,2026-05-12
+09c75ec8-4804-471f-baaf-d3d73ead07a2,Bernardo Siqueira,heitor69@example.com,51 7180-3152,Masculino,2008-02-21,356.098.712-12,Ramos,BA,10639-123,"Quadra Vitória Rocha, 42",2023-04-13,2024-06-13
+c1864d9b-eb73-4cbd-a3c9-e4ceb91868e8,Rael Sá,caioteixeira@example.com,+55 99 3381-6291,Masculino,2005-03-28,430.296.157-07,Viana de Rocha,PE,43633-605,"Avenida Manuela Fernandes, 8",2022-12-02,2026-01-18
+63c95449-79e1-4f60-9ba3-0b7ea367a5de,Pedro Costa,nicolasda-costa@example.org,85 7755-1338,Masculino,1983-12-05,970.243.581-14,Farias Paulista,PI,50797819,"Estrada Davi Miguel Rezende, 560",2023-05-08,2025-06-19
+d3509195-51db-4023-88fd-83dd2038b1e2,Ana Carolina Leão,plima@example.com,12 2753-3872,Masculino,1977-10-26,186.390.245-70,Pastor do Galho,MG,31019545,"Campo Fernandes, 84",2023-05-21,2025-05-24
+c765dd7e-4b4b-4cad-ad6e-bf9ae5ef0f10,Olívia da Mota,qmoraes@example.com,34 5628-0895,Feminino,1984-08-17,951.704.836-00,Rios das Pedras,CE,91466347,"Alameda de Brito, 29",2023-10-09,2026-01-07
+1d754b34-5ca0-4ec3-93d3-670fcdde549a,Heitor Albuquerque,danielandrade@example.net,12 2854-4649,Masculino,1984-07-27,469.750.231-07,Correia,CE,94927098,Viaduto Kamilly Costa,2023-11-11,2024-11-02
+6901a517-6f0b-40ea-8d40-ac31ebd0aafe,Maya Duarte,claricecavalcante@example.net,14 2430-4058,Feminino,1975-08-04,312.045.786-80,Andrade da Prata,ES,66077-554,"Morro Lunna Farias, 49",2022-11-30,2023-08-22
+0159bae1-6134-4e16-80f2-867096d95210,Srta. Olivia Mendes,carolina73@example.net,+55 71 7909-7183,Masculino,2008-07-09,126.305.789-68,Pimenta dos Dourados,AM,41246-042,"Trevo de das Neves, 32",2023-03-09,2024-06-11
+eaf28dcc-4878-4f15-8e38-31e6970ff6c7,Cauã Monteiro,da-mataagatha@example.org,+55 92 0270-7421,Feminino,1968-12-03,015.236.987-21,Costa de Minas,GO,55992-611,Trevo Pereira,2025-05-21,2026-06-02
+f7b35242-f07f-417c-a67a-d96093e864a0,Isabella Fonseca,stellapimenta@example.org,+55 88 8328-6259,Masculino,1991-05-05,147.025.683-53,Fernandes,AM,92167765,"Favela Melina Siqueira, 7",2023-01-01,2024-05-17
+ef59dff3-4db2-4339-a55e-de4f32245362,Miguel da Mota,gda-cunha@example.net,84 0631-6542,Feminino,1970-02-25,375.214.096-80,Pastor de Goiás,RS,53935982,"Feira João Gabriel Vargas, 76",2025-10-03,2026-05-18
+14649c39-4e16-4a8c-bb1e-8d00fbe8ce79,Fernanda Casa Grande,daniel80@example.com,+55 99 0402-6604,Masculino,1996-08-16,813.450.769-75,Moura,AC,38809-734,"Pátio Novais, 96",2026-01-07,2026-03-11
+f88b5a1c-a652-4cc2-958c-331d31f39789,Ayla Ferreira,fernanda31@example.net,95 5760-0311,Feminino,1980-07-31,380.294.617-04,Machado de Câmara,MT,85335122,"Sítio Diego Viana, 80",2023-08-17,2026-06-01
+607546ac-ddec-4b63-801f-c63099e818a3,Kamilly Mendonça,isaque11@example.com,+55 98 7073-2052,Masculino,1995-09-25,529.831.476-73,da Mata de Goiás,SE,44397287,"Jardim Bruno Silveira, 17",2024-08-24,2025-10-13
+b6b3b338-fadd-47e1-8ac3-fa86804087b1,Igor Marques,riosluana@example.net,95 5673-9055,Feminino,1974-06-13,748.261.903-87,Rezende da Praia,SE,90553933,"Avenida Rezende, 53",2025-08-06,2026-03-25
+0417afa6-8791-4c85-ac98-efeb28051a76,Esther das Neves,daniela80@example.net,82 7455-0692,Masculino,1972-11-12,819.570.623-12,Rocha Paulista,PI,48123239,"Ladeira Nathan Cavalcante, 7",2023-05-24,2023-07-03
+fcecbf82-9d06-48b4-9e00-15021679ab90,Natália Garcia,marquesbreno@example.net,+55 24 7405-7010,Feminino,1967-08-27,984.637.021-04,Cirino,PI,45666-551,"Lagoa Leonardo Aragão, 57",2024-02-16,2025-09-27
+16c62232-451a-4a87-a338-3d764c78e4b7,Bianca Guerra,emanuellyda-cunha@example.net,27 6186-6239,Feminino,1966-10-12,814.932.670-78,Rocha,RR,64636771,Núcleo Duarte,2024-11-09,2025-04-12
+cde64fd8-d7c4-4484-9464-605dbf42f1ae,Sr. Diego Mendonça,mviana@example.com,67 2913-7781,Feminino,1983-08-18,305.149.678-20,Macedo da Praia,AL,91940581,Lago Moraes,2024-09-28,2026-04-27
+3abf0d21-724f-49dc-b135-39e5815c4be6,Enzo Gabriel Fernandes,esales@example.org,+55 12 1979-0828,Masculino,1987-06-21,918.342.065-70,Montenegro,RR,10581929,Travessa Ana Cecília Vasconcelos,2024-11-15,2025-07-29
+9b28a7a6-2c04-4576-bc76-c5e19cd58971,Kevin Farias,luiza35@example.com,+55 53 6348-5082,Feminino,1999-10-15,321.670.548-07,Cavalcante,SE,58924826,Avenida Mendonça,2023-08-21,2025-01-15
+79535420-683b-41c6-8583-5b4b42ae3c8b,Camila Barbosa,lucas-gabriel42@example.org,+55 53 4747-0680,Masculino,2002-04-30,027.915.386-40,Monteiro do Sul,AL,63207-099,Vila Vitória Moraes,2022-08-25,2023-06-16
+e2f8245b-9147-4830-b7b3-ec4da30ac709,Benjamim Ribeiro,pintomaria-flor@example.com,16 3434-0483,Masculino,1987-06-10,587.920.613-03,Casa Grande Paulista,CE,14592-489,"Conjunto Yago Siqueira, 880",2022-12-19,2023-06-21
+cc764c5b-6bea-418e-9478-c5cd51c41e6e,Anna Liz Pacheco,ribeirocecilia@example.net,43 6321-8485,Feminino,1981-02-16,321.847.690-96,Ferreira,CE,21592313,"Esplanada Ana Luiza Castro, 73",2026-04-03,2026-06-05
+48b9a534-40c0-4f27-929a-98f713763e00,Henry Gabriel Borges,ana-luizada-cruz@example.org,+55 93 7402-1014,Feminino,2006-02-26,708.564.932-10,Vieira dos Dourados,RJ,94535-959,"Vereda de Sales, 68",2023-05-11,2024-06-26
+76e5f3f9-e811-4301-90be-a8c55880879f,Mariane Barbosa,daragao@example.com,+55 75 6856-7539,Masculino,1979-04-27,453.907.618-39,Pacheco,RR,63124-600,"Rodovia Antônio da Mata, 983",2024-07-18,2025-09-18
+70a7bab1-afc4-4430-a6d1-992fdd1224a5,Aurora Pacheco,aparecidabruna@example.net,79 2045-2748,Feminino,1997-09-01,389.764.150-00,Cirino,AP,86005-204,"Pátio de da Mota, 3",2024-08-21,2025-11-11
+3cd6446d-451e-43a7-89b1-514b3d63a5f4,Antony Farias,sousabruno@example.com,+55 88 9483-6765,Masculino,1967-06-07,103.279.856-40,da Luz,PB,52340591,"Setor Felipe Machado, 7",2025-06-29,2025-10-16
+8f5ab00a-78b3-4c0d-9437-dfb2392199e9,Pietro Sampaio,joao-miguelnovaes@example.com,0900 058 1869,Masculino,1996-08-30,186.597.423-46,Costela,RS,82317-955,"Avenida Thales Machado, 5",2024-06-09,2025-03-19
+0b66c649-5523-4167-8115-1d92768fe92b,João Guilherme Viana,wpereira@example.org,68 1452-7592,Masculino,1999-07-22,978.045.136-66,Jesus Alegre,AM,44033-207,"Rodovia Caio Viana, 1",2026-02-17,2026-07-18
+05c4cca4-668e-40d3-b42b-c8d39d016984,Sr. Joaquim Vargas,nina64@example.com,89 3252-6955,Feminino,1996-08-11,541.963.278-00,Fonseca,MS,96877-430,"Lagoa de da Mata, 9",2023-06-22,2023-08-28
+e3e55db2-e64d-4cc6-bc2e-903ff342ee02,Benjamin Fernandes,martinsvicente@example.com,+55 15 5438-6351,Masculino,1987-04-02,845.276.091-49,da Paz do Oeste,RR,85613454,"Setor de Nogueira, 56",2025-12-17,2026-02-01
+bfef7b92-fa5e-418c-ac7c-77571947fbd8,Zoe Fonseca,sophiealves@example.com,24 4166-0940,Feminino,1972-09-18,170.654.329-80,Marques,PB,17934-440,"Morro Mendes, 6",2024-08-06,2026-04-27
+8ec3d80f-b8b6-4756-b60d-6995207158fe,João Guilherme Araújo,joao-gabriel13@example.net,71 6643-1867,Masculino,1973-02-26,452.376.901-06,Nascimento,SC,77543119,"Loteamento de Pimenta, 82",2024-01-29,2025-10-13
+8815226d-8da4-47b8-88af-563a91ce0d9c,Isabella Porto,maria86@example.com,+55 31 8250-3984,Feminino,2005-07-23,832.519.460-05,Macedo,RJ,57689-053,"Aeroporto de Fonseca, 398",2022-10-19,2023-10-29
+e20b9f0e-becd-4d86-8e0e-5eeefea7540f,Srta. Melina Moraes,mendoncabenjamin@example.net,+55 62 0606-1505,Masculino,1968-09-28,724.639.581-46,Borges de Macedo,PE,91450360,"Condomínio Helena Ribeiro, 13",2024-05-05,2025-05-29
+6ee3a224-f93f-4ea4-ab38-b504231d96e3,Dra. Maitê Siqueira,idas-neves@example.net,15 9965-3988,Masculino,2004-01-30,709.412.568-20,Nascimento,PE,54472-162,"Chácara Farias, 3",2025-07-19,2025-10-10
+dcb1686c-26cd-42fb-a65d-43f2e145f273,Enzo Cavalcante,saleshellena@example.org,+55 13 9651-9931,Masculino,1966-08-08,897.546.012-67,Carvalho Verde,PE,13363777,"Esplanada de Gomes, 57",2023-09-17,2025-03-10
+2daaeee2-3717-473e-869d-4ef3208bd336,Maya Araújo,sampaiofrancisco@example.com,83 2210-7608,Feminino,1992-02-17,845.261.093-98,Cardoso,GO,63284-667,"Aeroporto de Costa, 49",2022-10-18,2025-07-22
+c89581ee-d2ef-4b7c-9332-6228dc8ea3ca,Samuel Fernandes,caleb21@example.net,55 6271-2793,Masculino,1979-09-27,745.923.861-91,Cunha de Macedo,SP,44644-976,Condomínio Ana Camargo,2023-11-02,2026-01-26
+294f7624-90fc-4186-8079-9d522ba7fc0b,Marina Correia,da-rochavalentim@example.com,+55 86 6634-0439,Feminino,1987-05-11,238.759.416-91,Fernandes da Serra,RN,04776-787,"Estação de da Conceição, 5",2022-08-09,2025-02-18
+0dedf90d-c043-4747-bb3f-76a5f5d0be0e,Sra. Liz Freitas,acostela@example.com,+55 35 0798-0057,Masculino,2002-12-18,497.502.316-43,Peixoto da Mata,AL,55633183,"Chácara Freitas, 37",2023-06-27,2024-04-30
+eb8850ec-bf12-4e99-ace0-a804654ebdff,Mirella Pastor,ana-clara12@example.org,98 9791-7169,Feminino,1983-08-21,530.967.821-21,Gonçalves,RS,42332-052,"Pátio Dias, 85",2024-08-25,2025-02-28
+51bc0d99-9d9c-44bb-850a-3d97b59ffb47,Samuel Monteiro,zda-cruz@example.net,+55 87 6705-5950,Feminino,1977-07-30,962.508.741-94,Teixeira,PB,41180381,"Lagoa de Borges, 45",2026-05-05,2026-05-11
+153bc2ec-7252-4f4d-bddb-784781a05c17,Danilo Silveira,ana-luiza99@example.org,69 3744-7763,Feminino,1973-04-17,978.501.364-20,Pastor das Flores,CE,03323-838,"Alameda de Cunha, 885",2023-05-10,2023-06-23
+5eb0bd7d-cd96-49c4-8e9c-53b1d89c891f,Breno Albuquerque,ana-cecilia46@example.net,+55 91 9863-2958,Masculino,1998-10-01,421.367.589-00,Moraes de Castro,MS,79837-284,Viela Léo da Cunha,2024-11-03,2024-12-17
+3615aa63-9663-4e37-be7a-398b44f15f23,Laís Andrade,fernandacasa-grande@example.net,84 5758-6749,Masculino,2000-05-13,591.637.024-52,Santos,PA,87676-971,"Viela Borges, 3",2023-04-29,2025-04-11
+5e3dc7e3-8c24-4714-8bbb-25f67bca6202,Brenda Brito,araujoluna@example.org,+55 68 9232-5404,Feminino,1995-11-17,038.269.154-70,Cardoso Grande,RR,08985-081,"Rua Carvalho, 33",2023-09-20,2024-01-06
+5a246639-323d-4786-86c0-0ccf2976d20a,Maria Helena Costa,manuella76@example.org,85 3598-7534,Feminino,1985-12-27,704.328.516-07,Martins das Pedras,PE,84790-052,"Viaduto Ana Cecília Cardoso, 641",2024-03-24,2024-11-10
+4399a79c-594a-4794-9e25-14a2ce2dc2d9,Dra. Heloisa Cassiano,rael09@example.net,+55 38 3357-2536,Feminino,1994-01-20,549.762.130-99,Nascimento da Mata,AC,67900-551,"Setor Leão, 15",2023-02-26,2024-09-13
+bfe8e68f-33a2-4620-93ae-807baa405b2f,Srta. Olívia Andrade,alanacavalcanti@example.com,+55 21 8533-6345,Masculino,1990-02-25,471.539.208-97,Caldeira da Serra,AM,32246518,"Ladeira Yan Macedo, 8",2025-02-25,2026-01-02
+7f213d98-614b-4c9b-a4e6-9e4c9976acc4,Ravi Gomes,ferreiratheo@example.org,+55 41 0382-7181,Masculino,1969-03-11,057.134.698-75,Melo,RS,13671144,"Estação Gabriel Costa, 4",2023-10-31,2024-03-21
+35dee5dc-4e52-4e78-a976-f927b5ca32f5,Luara Alves,yuri62@example.org,+55 31 6216-0555,Masculino,1997-01-31,748.125.609-85,Siqueira,BA,55197008,"Praça de Macedo, 742",2023-03-29,2025-02-22
+ab75f71d-653a-4a21-ad43-2c48ef7090bf,Arthur Miguel Sá,teixeirajuliana@example.net,33 6714-3699,Feminino,1968-01-21,654.109.278-85,Costa,AL,73909-964,Parque Duarte,2022-07-30,2026-05-18
+522ee50c-edf1-4d09-b96e-8d2bc8a2be26,Sabrina Nascimento,paulo63@example.net,84 8455-2714,Masculino,1978-09-24,340.167.529-06,Sampaio,PR,05038-823,"Avenida Casa Grande, 16",2025-07-07,2025-10-09
+f00b5e18-fc08-41a3-837a-0b942ee77f7a,Théo Vasconcelos,luigi73@example.com,94 0787-9764,Masculino,2001-11-13,201.953.487-88,Abreu,RS,40064-693,"Quadra Felipe Duarte, 24",2025-07-12,2026-03-27
+7d235ec0-e3a4-468f-9b70-de012b7afc58,Isaque Camargo,alanada-conceicao@example.com,0300 985 2486,Masculino,1984-03-29,194.073.265-43,Silva do Amparo,GO,46748510,"Distrito Luiz Otávio Leão, 59",2024-08-17,2026-03-09
+bb06584a-d109-48d6-a6b3-044991e347bf,Bernardo Alves,qaparecida@example.org,45 1109-8831,Feminino,1974-10-15,924.108.753-60,Correia de Minas,AC,84419087,"Esplanada Barbosa, 610",2026-06-06,2026-06-29
+ef3ef93c-caf0-4e5f-898b-3f5086c4320c,Joaquim Cardoso,vasconceloslevi@example.org,47 8574-2712,Feminino,1995-08-14,236.918.750-68,Novaes,MA,42071288,"Favela de Cunha, 31",2023-05-18,2025-07-05
+7f6d74ea-9113-424e-9acf-0b08f44106d8,Sr. Gustavo Moreira,leticia09@example.org,55 9584-5187,Masculino,1990-11-17,305.896.147-20,Albuquerque,SC,76472-420,"Viaduto Sá, 44",2025-12-19,2026-01-26
+15c89bb3-00a0-4b99-a752-d9938bd9f28b,Maria Júlia Duarte,marianafonseca@example.com,45 7829-7283,Masculino,1973-02-18,784.063.215-71,Albuquerque do Amparo,AL,64498841,"Alameda de Vargas, 5",2024-12-26,2025-01-02
+eaf8bd98-49e3-4970-bfe0-09ae806b4eed,Maria Sophia Dias,leticiavasconcelos@example.org,98 3169-3616,Masculino,2006-11-10,860.921.734-50,Ribeiro,RO,17525-510,"Pátio Pietra Cirino, 18",2024-11-22,2026-04-19
+8c3a8487-06ef-4c9e-be18-4b0a7631d5d7,Aylla Novais,cnogueira@example.org,+55 33 6799-6245,Feminino,1967-05-14,036.271.958-68,Cavalcanti,AL,73450-579,"Praça Marques, 84",2024-06-04,2025-09-11
+e7b6b511-81ba-4f69-8c30-c133a610f5a9,Srta. Alice Pires,vpinto@example.net,42 3019-3465,Feminino,2005-10-27,289.653.174-28,Guerra do Amparo,AM,72978855,"Vale Cecilia Ribeiro, 93",2024-12-20,2025-07-16
+e3d29ac1-e523-4b38-96c1-98d66a83a556,Gael Novaes,arthur-miguelfogaca@example.com,99 6273-5045,Masculino,1993-12-17,156.790.428-94,Moura,AL,05650112,"Colônia Calebe Viana, 2",2024-02-01,2025-09-29
+e601b79f-9c4c-4ed7-9025-c2adef931910,Ana Lívia Lima,lucas-gabrielmacedo@example.com,83 8520-0723,Masculino,1997-08-23,281.640.375-08,das Neves,AM,61832101,"Feira Gonçalves, 726",2024-02-06,2025-01-29
+f1a0590b-11d8-4ae0-b8ae-e4c26b9e4479,Sra. Maria Laura Leão,lucas-gabriel74@example.org,+55 46 1068-0118,Feminino,1974-06-21,294.538.017-04,Sousa de Santos,SC,84136878,"Vale Viana, 10",2026-02-20,2026-03-08
+9bf1582a-e2dd-4e7e-ab3d-ed77d5de42db,Isabela Montenegro,dmoura@example.org,22 9980-7360,Feminino,1977-06-20,304.895.617-48,Farias Verde,RO,48802-023,"Praça Manuella Fernandes, 51",2023-01-29,2026-03-05
+f3ca8e98-34ef-4a1c-867c-cf577a7bd5ee,Stella Porto,salesvitor@example.com,0900 537 5707,Feminino,1995-10-24,410.635.782-80,Moura de da Paz,DF,95005-589,"Esplanada Ísis Correia, 43",2023-04-17,2026-02-18
+3a49221f-a4e5-4a99-a9c3-57d6c1b18ac3,Olivia Sales,kcirino@example.org,+55 93 8475-5095,Feminino,1982-06-24,703.462.158-62,Peixoto,AC,15798-452,"Largo Silveira, 97",2023-11-21,2026-06-13
+e950ac7e-4cc8-4dd2-85fc-2a42c5335881,Erick Macedo,jda-mata@example.org,+55 81 7633-9293,Feminino,1984-03-12,605.731.498-01,Rios de Sampaio,RO,08039-127,"Fazenda de da Costa, 18",2024-04-09,2026-05-26
+55bfee89-4f9a-4595-9724-fa7671db2039,Carolina Viana,araujocecilia@example.org,91 2210-8784,Masculino,1981-05-31,902.317.846-78,Sales do Sul,DF,89226579,"Estrada Barros, 87",2024-08-22,2025-10-27
+2b1b12d4-a223-49be-aec3-a9fb4d707dc8,Mateus Pires,nina98@example.com,+55 35 2602-1715,Masculino,1973-03-23,043.518.796-10,Guerra,RN,42620747,Largo de Oliveira,2026-03-22,2026-06-24
+1dcc7146-49a8-49ec-be71-43abd16f41ef,Ísis Gomes,vieirapedro-lucas@example.org,+55 97 9282-6967,Feminino,1975-08-25,496.583.012-15,Costela,PB,69308495,"Trevo de Ramos, 72",2023-05-29,2024-12-05
+83b3d4f6-1c9f-4502-82fe-bbe8e35f3ea4,Arthur Miguel Lopes,vitoria72@example.com,+55 15 7002-0323,Masculino,1966-10-02,548.210.937-23,Guerra,PR,41728231,"Alameda de Lopes, 2",2023-02-03,2023-06-17
+4745a036-cd77-43cc-b868-08cb59ad667f,Stella da Paz,pedro-henriquelopes@example.org,+55 27 2908-2152,Masculino,1998-12-25,937.518.402-14,Mendes da Praia,AL,80646612,"Distrito Lavínia Duarte, 80",2025-12-13,2026-05-30
+29ea7c19-4a3d-4163-b0ea-b7ad5dfde19c,Joaquim Moura,yvargas@example.org,45 0908-9952,Feminino,1989-02-16,841.597.362-46,Abreu de Moura,GO,48596542,"Rua de Lopes, 3",2025-10-16,2026-01-01
+53860d9b-b409-4219-b1d9-c06bf0452b0e,Maria Julia Ferreira,isabelly39@example.net,44 2594-2597,Feminino,1983-07-22,285.194.603-05,da Costa,RR,92501263,"Rodovia de Câmara, 59",2025-06-07,2025-08-02
+ec4588df-0ab5-4f5e-98ec-eaf6dc505e11,Alícia Lima,barbarada-mota@example.org,+55 41 6200-7893,Masculino,1993-12-12,126.084.759-49,Duarte do Norte,AP,80776-322,"Condomínio Luigi Dias, 32",2026-05-19,2026-06-17
+0ba8b1d3-2ff2-46f6-aa3e-129893909e6a,Henry Gabriel Peixoto,mcastro@example.net,53 9701-5919,Masculino,1998-01-21,127.456.089-67,da Conceição de Fernandes,BA,11213-431,"Distrito João Cassiano, 65",2022-12-25,2025-03-25
+4b42067b-f4b1-4721-9653-2f80a8754977,Leonardo Vieira,ericksouza@example.net,+55 47 7329-1490,Feminino,1982-10-09,079.236.451-16,Andrade,AP,96205-957,"Estrada Luiz Henrique Sales, 39",2025-12-20,2026-05-21
+36a7c13d-cc6f-4a36-8fe4-0d2f04631211,Sophia Santos,nteixeira@example.org,19 9371-1926,Feminino,2004-06-02,972.403.861-04,Rocha,AP,27481-201,"Núcleo Novaes, 136",2025-01-30,2026-04-23
+0649125e-354d-4650-80f3-855ff9649520,Liam Rezende,lais47@example.com,28 8235-2127,Feminino,1967-10-14,016.372.958-12,Martins da Mata,PA,73610896,"Pátio Erick Cardoso, 21",2025-06-24,2025-12-08
+02b20470-f62f-41b2-9197-a8a66cf1e41c,Luiz Felipe Vargas,nmoreira@example.org,+55 14 3485-0995,Feminino,1989-10-12,815.632.970-86,da Rocha Verde,PR,84448628,Praça de Cardoso,2024-10-01,2025-05-12
+8aa0dda9-d529-4ed7-87ef-fdfaf44af0d5,Milena Aparecida,nicole41@example.net,+55 14 2801-8311,Masculino,2007-08-21,876.932.150-77,Borges de Sousa,AC,88983-544,Campo Cunha,2026-07-02,2026-07-14
+42d72ab0-b3a9-4a95-ad04-15d2c1260d79,Sr. Matteo Machado,peixotomaria-flor@example.net,+55 46 6312-8995,Feminino,1990-01-20,230.495.678-56,Nascimento,MT,81943-611,Via Augusto Melo,2023-09-22,2023-10-22
+8da339f5-ae2a-449a-92bc-ebc9e8ee21df,Caroline Nascimento,otto54@example.net,42 9090-4735,Feminino,1983-04-14,176.583.204-71,Sales das Pedras,RS,90334-410,Vale de Duarte,2024-04-08,2024-11-25
+22d58c64-8711-4c1e-9619-5f0285ba8e83,Dr. Josué Abreu,asafe02@example.net,+55 92 0580-9347,Masculino,1999-08-09,671.385.290-40,Sá de Macedo,TO,70104-654,"Viela de Duarte, 93",2023-11-01,2025-11-04
+dfc440d2-b161-4a22-aef5-b51a3a515c4c,Matheus Duarte,lopesdaniela@example.net,+55 33 2458-3254,Masculino,1988-12-19,527.640.381-35,Camargo do Sul,GO,83105-822,"Praia Enrico Lopes, 75",2026-05-29,2026-06-29
+1207c9d5-7e74-48e3-b2bf-991ac5d85f3a,Gustavo Henrique Rodrigues,maiterios@example.net,22 5503-1726,Masculino,1971-03-12,670.493.815-00,Barbosa,PR,35473-546,"Conjunto de Pimenta, 42",2025-08-13,2025-12-15
+de488e9c-2d90-4f18-8594-cd71646d52e6,Melina Cunha,laraalbuquerque@example.com,33 1891-0746,Masculino,1976-11-22,539.241.870-88,da Paz,TO,10222875,"Área Diego Araújo, 566",2025-12-02,2026-02-25
+b6f92a99-9a58-45c3-903a-50d1b18d566e,Dra. Eduarda Gomes,valves@example.com,+55 35 6353-8159,Masculino,1984-04-19,673.012.958-12,Monteiro Grande,AL,46540-040,"Morro Sousa, 260",2022-11-28,2023-08-23
+1c874404-7acc-42b2-8d20-05f0a62224c8,Vitor Souza,yancasa-grande@example.com,+55 71 5430-5727,Feminino,1996-04-01,416.830.729-87,das Neves dos Dourados,SE,55683129,"Vereda Heloísa da Luz, 65",2025-05-22,2025-11-04
+f3ad1820-48cb-4d56-95d1-ac40439c1089,Srta. Heloisa Lopes,vargasvinicius@example.com,19 3801-2501,Masculino,2003-09-12,015.697.243-34,Moraes Verde,AL,41086-495,"Praça de da Rocha, 53",2023-02-04,2025-12-06
+2d4953c7-6a4d-4c49-a5a9-6d122c98400c,Luiz Felipe Andrade,salesalexandre@example.com,11 1947-8742,Masculino,1974-03-04,047.125.389-88,da Cruz,PR,90524071,"Viela de Novais, 36",2025-04-23,2026-04-01
+0af33b34-ab26-4ce0-a5e0-c08824ce244d,Agatha Pinto,lda-cunha@example.org,+55 38 9923-4659,Feminino,2007-12-31,536.428.719-09,Viana,PE,31022884,Lagoa da Rosa,2025-12-19,2026-07-06
+4743f96f-0d0a-4351-81a0-7e376b5bd42f,Rebeca Nogueira,maiterios@example.com,+55 66 6342-1752,Masculino,2000-12-09,958.034.672-00,Caldeira de Campos,PB,37665-671,"Sítio Castro, 83",2024-06-20,2024-07-31
+514bbb21-a291-4d72-88eb-48752b9e0d4b,Eloah Silva,waparecida@example.com,77 5025-5901,Masculino,1968-09-14,429.750.381-60,Alves Paulista,CE,30397345,"Setor Thomas Porto, 99",2024-10-05,2025-03-29
+0dcb3501-3199-42f8-8583-7cc13fcb077b,Paulo da Cunha,urezende@example.net,41 3477-9730,Feminino,1996-05-14,845.160.293-24,Caldeira de Cardoso,AL,27717-730,"Núcleo de Rodrigues, 3",2023-12-21,2024-05-23
+bb96a6e8-08e4-4a08-a8b8-26ba9fc857c4,Alexandre Aparecida,da-rosajose-miguel@example.net,65 0699-7723,Masculino,1995-12-22,139.478.260-87,Novais,GO,84114091,"Ladeira Câmara, 70",2026-06-23,2026-07-10
+ba047f79-caa4-43ba-8e9b-f1ecfc860ef2,Juan Marques,giovanna41@example.net,+55 14 5426-4406,Feminino,1996-06-11,938.057.246-83,Porto Grande,RJ,57650-727,"Alameda Liam Mendonça, 34",2023-09-13,2024-01-04
+150d7c73-af37-454e-9c97-9733fe82a412,Sara Fogaça,correiaapollo@example.net,+55 79 8512-2328,Feminino,1998-08-28,835.170.629-95,Aparecida,TO,44772-470,Chácara Pimenta,2026-01-17,2026-05-01
+1e54afc2-96fa-4d10-8eec-1264a8a1d17b,Rafaela Barbosa,rcarvalho@example.net,+55 17 0585-6968,Feminino,2003-02-18,058.729.431-05,Câmara,PI,79928-804,"Pátio Machado, 4",2022-12-09,2024-08-26
+3bd23f90-ae8b-4874-baf6-deb207f423d1,Srta. Bárbara Novaes,jesusvitoria@example.org,+55 97 1045-3863,Masculino,1974-08-26,586.370.419-57,Santos,SE,91619-176,"Largo Peixoto, 83",2022-10-09,2025-02-26
+fbd12169-a791-4216-9536-c1bf473d94c9,Otto Carvalho,benjamimrocha@example.net,0500 818 9343,Masculino,1996-05-20,623.901.458-33,Oliveira,DF,88629-097,"Parque Leandro da Rosa, 3",2025-04-14,2025-12-02
+a03e361c-ce5b-4ea0-abec-fe0bae874116,Henry Gabriel Novaes,svieira@example.com,75 2425-6680,Feminino,1985-06-03,784.502.931-97,Barros,AP,67848918,"Estação Cecilia Sampaio, 49",2024-12-05,2024-12-20
+fbfaa4d8-8d98-4d95-9275-e81b8f352665,Mariane Dias,ana-beatriz66@example.net,+55 63 1534-2747,Feminino,1976-04-09,270.481.536-44,Rios das Flores,RO,75882-540,"Praia de Mendonça, 761",2023-09-19,2023-10-20
+e109f36c-68fe-42a1-bb80-06f4e08357ac,Cecilia Monteiro,ida-mota@example.net,64 0498-6908,Feminino,1972-12-23,846.201.539-15,Monteiro,AL,79089-128,Praça de Ribeiro,2025-03-14,2026-03-31
+c93caa9f-fdf0-43b5-a69a-e1aaef083fc8,Dr. Yuri Pacheco,moreirastephany@example.com,+55 44 5510-6567,Feminino,1998-02-09,782.691.530-95,Cirino de Montenegro,TO,35042433,"Campo de Rios, 685",2025-07-14,2026-06-02
+d1ef2cf5-8b2f-4116-bf6e-8e592e33b603,Lara Aparecida,efarias@example.com,49 8139-3703,Masculino,1967-11-13,125.394.670-16,Lima,PB,69174-448,"Esplanada Nunes, 1",2026-05-04,2026-05-24
+32f03892-5ca7-436a-91c4-e321c52a97f2,Isabel Sales,luccada-mota@example.com,16 9078-6149,Feminino,1967-09-20,517.892.460-67,da Cruz,PI,33361081,"Alameda de Castro, 2",2024-06-27,2025-01-26
+96d54d7b-3221-4fe2-994a-5e868e65da05,Srta. Agatha Sales,samuel36@example.com,91 7959-9824,Masculino,1980-11-05,593.708.421-79,Viana,GO,22862801,"Vale de da Mata, 3",2022-12-20,2023-06-14
+1301c075-5f6e-4252-980a-d355af8b4753,Josué Araújo,caleb57@example.net,+55 18 4160-0198,Feminino,1982-05-24,284.567.391-46,Leão do Norte,MS,90099-456,"Feira Hadassa Moura, 60",2026-03-13,2026-03-21
+393110ef-e981-43ee-89f8-24be284cbaff,Pietro Machado,nascimentooliver@example.org,67 1065-3904,Masculino,1993-11-23,830.497.521-14,Almeida de Pereira,SP,55892957,"Estrada Rezende, 315",2025-10-08,2025-11-01
+36fcc304-079b-4006-aa1c-0b8117fe23cd,Otávio Dias,maria-julia88@example.net,27 0981-0248,Feminino,2000-01-28,835.710.249-23,Farias das Flores,PA,22370-774,"Conjunto Luiz Felipe Cavalcanti, 57",2023-01-11,2026-06-02
+9337c930-0ab0-4b6b-b120-57b8f6cfd776,Bruno Aragão,cunhamaria-vitoria@example.com,+55 31 8005-1385,Masculino,1990-08-07,950.861.327-03,Borges de Minas,CE,58422-493,Feira da Rosa,2026-05-18,2026-06-01
+644ad33c-9b3d-4105-94c9-7ad21369f0b9,Ana Clara da Cruz,pedro-miguelpimenta@example.org,87 3650-0045,Feminino,1977-02-09,268.194.305-15,Cavalcante de Goiás,RR,97786101,"Favela Raul das Neves, 316",2024-04-08,2026-05-06
+f8a63b21-9ae3-472e-8204-785a75d365dc,Dra. Ana Luiza Nunes,xcavalcante@example.com,24 1146-9665,Feminino,2000-05-07,238.491.067-13,Porto da Serra,SP,25034243,"Viaduto Araújo, 9",2022-09-06,2025-09-13
+889c9bf2-6f18-4f1b-b57b-79413c629db6,Maria Helena Nascimento,beatriz15@example.net,32 6489-5512,Feminino,1990-06-18,925.768.034-74,Jesus,SC,54222-077,"Feira da Paz, 65",2022-11-11,2025-05-05
+8511163b-e35d-47e5-828d-bff9693b2a6f,Clarice da Cruz,klopes@example.org,+55 96 3709-2657,Feminino,1989-01-21,827.431.056-07,Cassiano da Praia,RN,45416630,"Setor Eloá Albuquerque, 8",2024-02-06,2025-02-01
+c0211c74-0ca5-4998-9b18-e70e7878642e,Dr. Matheus Sousa,joao-guilherme41@example.com,+55 75 1410-7380,Feminino,1975-07-13,867.530.421-80,Barros,BA,37982665,Trevo Porto,2024-01-16,2026-01-31
+e1351ce0-d6f4-4062-9059-94fd4dabef21,João Pedro Silva,fogacamanuella@example.org,64 1209-6167,Feminino,2006-11-17,469.821.305-33,Pinto das Pedras,AC,16773116,"Jardim de Brito, 3",2025-02-22,2025-07-15
+5412aeba-1651-453f-9adb-d089f7843fa5,Dra. Ana Laura Costa,maragao@example.org,84 5232-2646,Masculino,1983-02-18,794.032.685-65,Santos,RJ,46655385,"Passarela Leão, 63",2025-07-08,2026-03-01
+c1023ec0-7774-4cdb-88f4-2efb4fb617d8,Srta. Allana Sousa,rmonteiro@example.org,66 0152-7694,Masculino,1992-01-05,536.874.902-38,Pires da Prata,AP,61815-545,"Jardim Porto, 11",2025-12-09,2026-04-10
+e8b6752c-d4e5-42fe-9c2e-b4392ecef578,Yasmin Aragão,carvalhovicente@example.net,+55 19 2728-1086,Feminino,1965-09-01,564.231.709-16,Andrade Verde,RS,56505-148,Conjunto Montenegro,2026-06-09,2026-06-14
+c3f76406-e966-44fe-a6e9-31d3e3688c58,Gabrielly Sousa,novaesjose-miguel@example.net,+55 82 1485-1999,Feminino,1981-01-07,965.042.173-43,da Rocha,SE,95606709,"Conjunto Bernardo Andrade, 63",2022-08-21,2025-04-03
+bb753083-c894-4793-9154-1254a7ff98fd,Giovanna Mendes,sbarbosa@example.net,+55 81 3102-8303,Feminino,1973-03-18,129.853.064-42,da Costa,RO,34185176,"Vale Pires, 4",2023-03-18,2025-10-19
+383d523d-05f4-4652-a609-9f052d7a076a,Matteo Mendes,cardosopietra@example.org,+55 47 5806-7278,Masculino,1976-04-12,713.045.862-35,Alves,BA,19407-294,"Largo Oliveira, 42",2023-07-25,2024-09-28
+e3a731c2-3a88-47c0-964d-14780574ce13,Dom Ramos,jviana@example.com,62 8896-1886,Masculino,1974-10-14,506.743.189-00,Silveira,RN,81870091,"Lagoa Ana Vitória Mendonça, 58",2026-02-17,2026-02-23
+d123a146-7502-44f3-ae2c-a755fb70b005,Maria Dias,salesluan@example.org,32 0790-7769,Feminino,1981-03-29,547.389.021-05,Teixeira,RO,40173-554,"Rodovia Camila Andrade, 4",2026-07-09,2026-07-18
+a2c499ae-8bf1-428a-add4-fc4a5b1db576,Eloah Campos,martinspedro@example.org,19 8947-3343,Masculino,1986-12-06,504.867.312-35,Gonçalves,PE,17463008,"Loteamento de Cardoso, 48",2023-12-22,2024-09-02
+2eaa9244-bb97-42bd-abbb-cfd70d466f85,Lucas Gabriel da Rocha,da-pazsarah@example.org,95 0376-0233,Masculino,1982-08-03,029.643.187-78,Viana,CE,72224-069,"Fazenda Correia, 24",2023-11-25,2025-11-23
+d4b6a5d3-7eb7-4dce-8ddb-0f5d7b612c5e,João Guilherme Gonçalves,camarajoao@example.com,+55 79 6595-5118,Feminino,1987-08-21,673.089.542-00,Pastor do Oeste,MT,47141-240,"Conjunto de Garcia, 92",2026-04-06,2026-05-15
+393007ed-8b72-4ceb-84f8-4982f09116cf,Sofia Pimenta,lborges@example.org,+55 46 4386-6553,Masculino,1990-02-23,361.872.905-77,Melo do Campo,AC,69046-208,"Núcleo Davi Miguel Aragão, 123",2022-09-27,2024-04-22
+16c4c0dd-ca14-4aba-af07-68bf46d2ffd5,Henry Gabriel Camargo,emanuelly09@example.net,+55 28 0494-9614,Masculino,1991-03-20,189.750.643-01,Barros,AM,70084-989,"Núcleo Pimenta, 48",2025-11-02,2026-03-03
+fb4a22ac-57c9-4398-b7cc-02a7526ce4e5,Rafaela Caldeira,pnogueira@example.net,+55 66 9107-3611,Feminino,1996-05-20,347.129.856-82,Cavalcante,AL,08135-439,"Via Santos, 7",2025-05-12,2025-12-24
+a08f6899-8cdc-48a8-8aff-22959fd22ed8,Gustavo Silveira,rebecamacedo@example.net,87 5434-6817,Feminino,1968-01-19,695.407.328-83,Santos,MS,31503152,"Avenida de Vieira, 95",2024-03-26,2025-05-06
+fdc5c9ed-fd35-4e65-bc23-0e8f6a510d37,Luísa Silveira,ana-julianogueira@example.com,75 9868-5991,Masculino,1984-08-11,482.150.739-05,Gomes Paulista,AC,56980167,"Viela Nicolas Guerra, 10",2024-02-09,2026-04-28
+11c45260-72b9-4466-ba1a-94fb6a90ed0f,Guilherme Câmara,rhavimachado@example.com,0300 351 3699,Feminino,1999-10-27,285.394.610-05,Vasconcelos dos Dourados,GO,95335288,Campo Ramos,2023-02-05,2024-08-25
+63793d83-b708-438b-b1e2-122d4fe64964,Henry da Cunha,cgarcia@example.net,+55 37 8588-1005,Feminino,1970-01-19,826.140.759-49,Costela de Jesus,ES,90516-954,"Aeroporto Bento Nascimento, 72",2024-11-03,2026-05-23
+4fd78081-a66f-4a07-9135-e1e82e99b191,João Lucas Rios,mdias@example.com,+55 84 0977-1711,Feminino,1970-02-01,798.632.405-83,Novaes dos Dourados,AC,41603114,"Quadra de Peixoto, 70",2023-07-11,2024-03-15
+3545982e-8c36-418c-9dfb-b9dfefb58a31,Luiz Henrique da Mota,kevinda-costa@example.net,+55 79 1559-5199,Masculino,1993-01-21,645.190.832-06,Dias,AL,58035301,Rua de Farias,2025-05-18,2026-04-08
+a9c0c471-80e0-44cf-84ba-20345f561ed2,Camila Cavalcanti,mariana86@example.net,84 2282-3585,Feminino,1988-08-11,548.729.603-00,Araújo Verde,TO,93906105,"Aeroporto de Novaes, 93",2025-02-24,2025-03-27
+3c1e3129-41b2-41c8-ac35-b92d22470678,Maria Cecília Dias,vasconcelosdiego@example.org,67 2472-7289,Masculino,1996-07-12,134.072.869-96,Borges de Goiás,PE,08377528,"Trevo de Duarte, 7",2026-03-16,2026-05-18
+7460538a-962c-4094-b90c-b602ff0dcfa3,Zoe Pastor,msantos@example.org,43 9494-2353,Masculino,1994-06-12,359.172.068-21,Cirino do Sul,MA,50394852,Esplanada de Mendes,2023-04-25,2023-09-28
+5adf596c-f157-4623-871f-7f80c14f26b4,Dra. Juliana das Neves,julia76@example.org,+55 79 4525-4179,Masculino,1971-01-17,618.403.295-05,Borges do Amparo,PB,39064-585,"Setor Eloah Aparecida, 28",2026-03-25,2026-06-19
+17b5ae6c-37cb-465e-a649-572732041290,Thales Araújo,maria-fernandacavalcante@example.com,+55 11 5307-2522,Masculino,1972-05-11,984.537.062-47,Dias de Costela,PE,69171-481,"Ladeira da Conceição, 941",2025-01-24,2026-02-11
+f880c16e-1751-49d5-993f-88f9320c5119,Maya da Rosa,xdas-neves@example.net,43 0695-2339,Feminino,1981-09-07,279.035.614-99,Azevedo,RN,08498-951,"Trecho Antonella Mendonça, 2",2026-01-20,2026-01-22
+7a5b3933-7f16-4e18-9220-1145539b509e,Vitor Gabriel Silva,yaraujo@example.com,55 6791-3085,Masculino,1989-04-10,716.820.593-59,Pacheco de Rocha,DF,05236564,"Avenida Fonseca, 58",2026-01-22,2026-05-26
+2699f031-7626-4b5c-94c1-c9aeb2f9333c,Sra. Allana Fonseca,leonardo05@example.net,+55 18 3489-5898,Masculino,1974-10-19,693.250.874-56,Vasconcelos,MS,19074437,Recanto de Melo,2023-06-18,2025-11-07
+cee4e7f2-34a7-4f51-902f-15ba806af74d,João Gabriel Almeida,melina17@example.com,24 7668-4114,Masculino,1974-03-11,985.430.671-20,Lima do Amparo,RJ,51774-453,"Morro Mateus Costela, 421",2024-05-30,2025-06-10
+16030ae4-2824-4889-889e-6d8f7719e936,Srta. Liz das Neves,crezende@example.org,84 5769-0876,Feminino,1981-03-01,596.834.102-51,Araújo dos Dourados,AM,66366-619,"Condomínio Martins, 28",2024-09-05,2025-02-04
+65ec1d6e-256d-4ab2-b695-d09e9a9369d0,Dr. Yago Souza,luiz-fernandorocha@example.net,+55 51 6034-6056,Feminino,1992-03-31,490.827.351-05,Moura,TO,10038-135,"Morro Moraes, 76",2023-07-19,2025-04-13
+7e3ca46f-97bc-41d8-8860-5cee5fc4dfa9,Arthur Miguel Silva,souzaisaac@example.org,+55 22 0300-9548,Masculino,1982-05-26,358.760.149-66,Pinto Alegre,CE,30975-841,"Trecho João Pedro da Mata, 71",2025-10-16,2026-03-30
+e7921b34-c65d-4715-8ac8-b42036b308fe,Thales Farias,maria-cecilia48@example.org,+55 28 7632-9210,Masculino,1968-12-27,429.087.135-60,Barros,BA,66376-499,"Chácara de Fernandes, 50",2022-12-12,2024-05-05
+b48e3f67-e056-46f3-8c92-9206168cf5bb,Sophie Vasconcelos,mabreu@example.com,16 4145-8101,Masculino,1978-12-05,187.209.635-21,Cassiano da Mata,RO,75672772,Praia de Vieira,2024-07-16,2025-02-11
+dd6b272b-7886-4b8a-9709-221f43a1e7ea,Arthur Vasconcelos,lucas-gabriel83@example.org,86 1443-8084,Masculino,1982-04-22,821.769.405-20,Garcia do Norte,AC,36967516,"Aeroporto de Andrade, 76",2022-12-29,2024-06-23
+0dcec9ad-0566-49ca-aaf5-7dcef21a507a,Sr. Theo Ramos,gabrielmachado@example.com,+55 74 7219-0486,Feminino,1965-08-01,740.198.265-01,Nunes do Norte,RO,81749395,Praia Maria Júlia Camargo,2025-06-12,2025-12-02
+f35b90f5-76b2-4131-a3c5-3cf77fe70c05,Marcela Cassiano,fandrade@example.org,0900 487 5555,Feminino,2007-08-11,950.163.284-98,da Costa Grande,MT,08837031,Morro de Viana,2024-11-07,2026-02-18
+4ac4cf4e-68f9-49ee-bfff-102e078a1ebf,Benjamin Gomes,fariasluiz-henrique@example.net,+55 12 2797-5695,Feminino,1998-06-10,128.750.936-30,Cardoso,ES,23184892,"Sítio das Neves, 76",2024-07-03,2025-05-17
+131cbff9-bd4a-42c6-8583-9e07ba881475,Alexia Fogaça,nascimentoalicia@example.org,+55 49 7498-8164,Masculino,2005-09-04,169.847.302-87,Casa Grande,RJ,33572-096,Largo Silva,2026-03-18,2026-07-10
+8e4e7657-78fb-4394-bef3-35d02f8a1482,Cecília Oliveira,henry-gabriel43@example.com,+55 31 4714-6454,Feminino,1978-08-07,063.578.291-02,Teixeira,RJ,46461292,"Vila Daniela Vieira, 23",2022-11-24,2024-12-26
+6c2930ab-6a3c-4912-a9bd-e140e56892da,Dr. Davi Luiz Carvalho,luiza38@example.net,+55 24 1710-2031,Feminino,1969-11-23,165.943.807-10,Nascimento do Campo,TO,49514690,"Quadra de Dias, 83",2022-09-30,2024-01-12
+80a7f38b-7a40-41d5-b3fd-569609509dc7,Benjamim Viana,vieiradiogo@example.com,62 3441-1918,Masculino,2004-05-09,973.416.502-06,da Mota,DF,24050569,"Loteamento Sousa, 71",2025-04-20,2026-04-18
+a330f09e-1eed-49bb-97ed-ee9b790455ff,Júlia da Costa,pdias@example.net,48 4646-9696,Masculino,1983-08-06,037.216.589-30,Câmara de Minas,SP,58025-480,"Avenida Sá, 66",2023-12-25,2024-09-07
+6ae4bc25-e43a-439c-8e9e-c5769383c456,Maria Helena Vasconcelos,sara91@example.com,+55 63 6509-3682,Feminino,1997-07-08,219.458.360-24,Lima,MG,41644-691,Travessa de Costela,2024-02-14,2024-04-14
+980dcaeb-e20a-4a1a-a10f-a64666a0998d,Sr. Ravi Lucca Albuquerque,henriquemarques@example.com,+55 32 4327-4573,Masculino,1988-08-15,745.832.019-23,Macedo,AM,45846700,"Praça Ísis Pereira, 71",2025-07-22,2025-10-08
+62a4885b-5ff6-4a3d-bb1c-960782099984,Marina Martins,borgessophie@example.org,87 9430-7452,Feminino,1977-05-27,836.495.270-65,da Cunha,ES,63301686,"Alameda Isabelly Farias, 78",2023-12-30,2025-01-29
+9a2d9ebe-10a5-4957-8fc8-275bcf2f8652,Francisco Rocha,vinicius51@example.org,+55 89 2983-6557,Feminino,2005-10-03,450.879.632-00,Cassiano,PA,22765248,Rua de Sá,2023-09-27,2026-01-21
+07c90e4a-1cc3-4540-aeb6-726ec8e49b34,Sr. Gael da Mota,ana-luiza63@example.com,+55 42 1333-2329,Feminino,1979-07-12,430.182.795-14,Pacheco,AC,04835981,"Núcleo Maria Vitória Moura, 93",2023-12-31,2025-07-23
+dc5a9a19-eb3c-4dbd-8dc0-0ce288e54740,Anthony Gabriel Almeida,silveiravitor-hugo@example.net,12 8494-8844,Feminino,1981-02-22,391.457.602-25,Montenegro Paulista,RO,11707226,"Favela Isis Garcia, 9",2024-02-14,2025-03-07
+a5c3b542-8eef-451d-8ca8-9f239eecd001,Davi Lucca Aparecida,tda-mata@example.com,+55 35 5304-2012,Masculino,1983-02-28,084.972.365-56,Marques,MT,46925-706,Residencial Valentim Moreira,2023-06-24,2025-11-30
+4bbf5f6a-4d71-49df-97b8-baa902d703c7,Vicente Borges,santosdavi-lucas@example.net,+55 32 7028-9245,Feminino,1984-09-16,309.728.156-86,Rezende de Andrade,TO,76296989,"Viaduto Casa Grande, 34",2026-01-29,2026-05-15
+4ba296ea-a6a5-4bc0-bf0a-da0b3f8d6ab2,Sra. Zoe Cunha,maysa89@example.org,61 8452-1180,Masculino,2005-10-25,764.281.309-04,Castro,MG,83117-435,Passarela Theodoro Fernandes,2025-08-21,2025-12-03
+2a67efa5-277d-4dfa-9779-9a5e02baddfd,Sabrina Pinto,azevedocamila@example.net,+55 33 7661-6816,Feminino,1999-12-01,653.201.978-02,Ferreira das Pedras,PI,78457-020,"Ladeira Vieira, 142",2023-11-13,2024-04-06
+11ae5714-ca1b-4424-a3c3-9113aa2975d3,Alana Nogueira,anthony-gabriel49@example.com,44 9792-3808,Masculino,1995-07-24,248.596.370-38,Pinto de Albuquerque,AL,76376-744,"Trevo Dias, 6",2023-09-09,2024-06-16
+cf9cd305-9e95-49c2-8051-a7f96fc33727,Emanuelly Mendes,brunanogueira@example.com,+55 77 2571-7100,Masculino,1966-08-23,531.862.097-30,Fernandes,PI,68112-300,"Travessa Mendes, 946",2025-03-03,2025-11-27
+bbb4c090-a7ec-4eba-8876-7df435f866e5,Asafe Vargas,viniciusgoncalves@example.org,+55 61 5150-9209,Feminino,1996-02-05,816.453.702-08,Vasconcelos,PR,99728-024,"Vale Pinto, 8",2025-12-20,2026-01-01
+e4376c91-1dde-47a9-bfea-8263e6cffb69,Marcos Vinicius Freitas,marquesbruno@example.com,+55 13 1759-7106,Feminino,1967-05-08,024.385.769-10,da Luz,ES,13281-737,"Viela Brito, 6",2025-12-20,2026-04-15
+1114860f-67fa-479c-8cb9-5870799af501,Agatha da Rocha,xrios@example.org,+55 73 6613-4040,Masculino,1978-05-17,218.460.395-33,Borges de Moraes,SC,00426418,"Largo de Caldeira, 872",2024-07-19,2025-06-24
+0d8ac3a7-1ae1-4b95-95da-b9a909da05c6,Caroline Araújo,thiagocastro@example.com,+55 47 9400-7803,Feminino,1983-02-14,941.650.238-33,da Rocha do Oeste,RJ,77354572,"Condomínio Eduardo Novais, 55",2025-02-24,2025-12-05
+5d6dce98-7324-4cee-bb80-570104511aa4,Pedro Henrique Jesus,yfonseca@example.net,+55 41 3807-9952,Feminino,1986-11-21,207.913.458-23,Albuquerque das Pedras,MA,40282500,Trevo Anthony Gabriel Garcia,2025-10-25,2026-04-05
+7cb56e25-b9d5-4f6c-81ad-61c890ab32b6,Cauê Pacheco,nicole66@example.net,38 5478-5695,Feminino,1971-01-19,486.903.175-20,Martins,PI,53337-608,Trevo Giovanna Sousa,2026-06-22,2026-07-04
+f14281bd-cbf4-44ba-9922-bea22d41d5ff,Olívia Machado,goncalvesvalentina@example.net,+55 14 6491-3454,Feminino,1986-06-06,597.186.304-57,Camargo,RS,42303097,"Setor Montenegro, 11",2026-01-29,2026-05-22
+138dc354-98a1-4f14-911c-054e1663642c,Lucas Gabriel Sales,vieiraesther@example.com,+55 87 8315-9233,Masculino,1976-02-11,216.537.894-09,Costa de Freitas,CE,68056698,"Rodovia João Guilherme Ramos, 55",2025-08-12,2026-01-18
+9716863e-b562-4c1f-a2c1-8a485d1470d9,Benjamim Casa Grande,maria27@example.com,67 0804-3737,Feminino,1972-06-24,647.198.203-87,Farias da Serra,PE,74468-919,Feira de da Rocha,2024-07-24,2024-12-12
+aa309c4b-c45a-4f9e-bf1a-a14ccd598d4e,Maria Júlia Vieira,renancampos@example.org,+55 41 2640-0850,Masculino,1999-11-14,709.364.528-38,Guerra,AP,88978-867,"Via de Ramos, 61",2023-10-08,2024-11-20
+29d76d30-8930-4f06-a749-308107c85099,Srta. Emilly Câmara,pimentaallana@example.com,19 7032-3563,Masculino,2002-04-09,240.198.653-70,Mendonça,RO,92548152,"Estação Isabela Albuquerque, 26",2026-07-05,2026-07-06
+efa88221-b4a0-4b57-b0f8-2044a93b8b26,João Guilherme Sousa,lorenafernandes@example.org,+55 14 6859-2133,Masculino,1998-06-24,678.415.309-00,Mendes do Sul,MS,89551-714,"Estação Antônio Fernandes, 54",2024-06-01,2026-07-09
+a7734c75-870f-4e0a-b202-15071f25a2a8,Dr. Otávio Rodrigues,stella44@example.net,95 0560-6966,Masculino,1976-03-21,127.986.043-03,Borges Grande,PA,78036574,Campo Anthony Caldeira,2024-05-08,2025-09-04
+d49c5648-b27f-4e42-9cf0-99cac006adf9,Ian Gomes,viniciusmacedo@example.net,74 6544-9959,Feminino,1982-02-06,359.674.028-29,Rezende do Campo,SP,68190023,"Vila de Barbosa, 47",2024-03-25,2026-02-20
+85635836-efc8-4f76-9886-c2263f4e459e,Kaique Farias,moraeslaura@example.org,+55 55 1745-8140,Masculino,1982-11-08,582.796.103-59,Sampaio de Azevedo,MG,87411-850,"Jardim Marques, 49",2022-09-07,2023-04-07
+561a4f37-69af-4cc1-b344-af1669ab973c,Vitória Cavalcanti,marcos-viniciusmoraes@example.org,38 6282-9334,Feminino,1971-03-06,173.459.260-52,Aparecida,SP,11825-271,"Lago Igor Guerra, 72",2024-10-28,2026-06-26
+b3a8b097-290a-4565-849f-70410f256f8d,Stephany Guerra,stella91@example.org,44 7766-5283,Masculino,2001-02-07,826.493.750-00,Costela,AM,79806151,"Ladeira Brito, 72",2025-09-26,2026-01-25
+6c9ec2e7-a3aa-45ef-84a5-c60d74afd836,Raul Montenegro,hribeiro@example.net,+55 12 4493-8709,Feminino,1974-07-16,497.285.631-91,Fogaça de Farias,MT,17860-439,"Colônia Alves, 46",2025-01-22,2025-07-05
+61743f21-935a-4070-a9fe-59be44fad2d9,Pedro Peixoto,heitormontenegro@example.org,+55 67 2362-5870,Masculino,1970-08-03,015.496.823-42,Lopes de Moreira,TO,25408-304,"Estação João Farias, 25",2024-08-12,2026-04-11
+c310ac41-142a-4008-a81f-7018ce441e9c,Matteo Vargas,enrico08@example.net,+55 55 8177-9943,Feminino,1965-09-19,617.582.439-37,da Luz,SP,86490-417,Loteamento Novaes,2025-06-26,2025-07-12
+f72b0e52-bb3e-4bc5-8b75-e385b9f61d2d,Srta. Ana Liz Abreu,fernandesstella@example.com,+55 71 9325-3554,Masculino,1982-09-16,504.637.129-43,Rodrigues da Prata,PE,87569-052,"Esplanada Pimenta, 79",2023-03-30,2023-05-06
+f0cce54f-b8db-4a4e-a584-7635bc7a68e2,Valentina Moura,psales@example.org,38 5901-0315,Masculino,1976-05-15,728.935.140-14,Cavalcante do Galho,TO,66834694,"Rodovia da Paz, 16",2025-09-23,2026-03-23
+e131702f-2a39-4638-90e1-ff8a038e9e6d,Henrique Costa,aparecidaravi@example.com,+55 47 7473-8999,Feminino,2000-06-05,639.082.514-51,Santos,RS,58544967,"Trecho de das Neves, 949",2024-01-16,2025-04-09
+00364451-2061-4848-ba7f-703a8e10cceb,Gael Henrique Siqueira,pachecomatheus@example.com,0500 175 2392,Feminino,1996-07-04,697.058.423-29,Monteiro da Praia,MT,55177-293,Rua de da Mota,2022-12-23,2023-12-29
+fcaf71b2-ba8f-42d3-b638-791fda031ff0,Antony Freitas,raelfreitas@example.com,+55 17 8326-6965,Masculino,1997-12-20,864.573.912-73,Rodrigues da Prata,CE,04908394,"Alameda Vieira, 97",2024-02-28,2024-05-08
+9817fefa-2b6a-4a61-8be0-97cadf8c3def,Sra. Marcela Fernandes,thiagorocha@example.net,37 0619-8435,Masculino,1983-12-11,710.694.852-76,Barbosa,RO,95790-472,"Núcleo da Rocha, 83",2025-08-23,2026-05-03
+df9ff50e-cb71-4f30-b5b5-8dff90792f40,Daniela Montenegro,cauaborges@example.org,12 1441-6000,Feminino,1980-02-05,164.273.085-80,Mendonça,MT,61302-182,"Largo de Cavalcanti, 1",2022-07-23,2026-05-09
+2cb623c9-39ed-47c9-a43e-0fc07288254c,Enrico Rios,carvalhoantonella@example.org,64 7463-2691,Masculino,1983-04-15,280.149.657-01,Macedo das Pedras,RJ,14363168,"Sítio Mateus Andrade, 47",2022-09-02,2025-02-21
+d75accb6-7187-44d6-a6e1-7907c92bf45a,Isaac da Costa,pachecoheitor@example.net,+55 75 0497-1299,Feminino,1981-07-08,416.258.709-49,da Rosa de Minas,PI,89363319,"Loteamento de Montenegro, 36",2022-10-21,2024-06-11
+69cb748d-a1b3-471b-ab17-2739576c6f76,Enzo Gabriel Cassiano,helenaramos@example.com,+55 63 3327-5049,Feminino,1979-09-09,791.024.635-80,Camargo,AL,91102-729,"Viaduto de Lima, 68",2026-03-09,2026-05-16
+56eff29f-e61d-474d-b902-a6ede7c38793,Luísa Abreu,azevedoana-laura@example.com,99 7438-8675,Feminino,1984-08-26,218.345.069-05,Silveira da Serra,SP,33946-968,Aeroporto Emanuel Pereira,2022-11-29,2024-03-10
+256b4015-d0aa-43b0-aad1-d1e4decf97dd,Daniel Santos,ribeirobryan@example.org,0900 312 8662,Feminino,2005-12-14,245.806.719-02,da Cruz do Norte,RO,00674653,"Sítio de da Mota, 96",2024-10-03,2025-07-12
+7d299deb-c935-48b0-ad41-f61737430ac0,Benjamim Mendes,isaac25@example.net,+55 54 2119-3928,Feminino,1970-12-28,213.480.765-26,da Rocha de Melo,TO,10833290,"Avenida de Correia, 29",2026-03-23,2026-03-24
+6abd7b19-1ce5-4c86-ab57-9b992c784507,Yago Macedo,kgarcia@example.com,35 0851-7808,Masculino,1978-11-20,634.517.092-52,Sousa Verde,ES,29734-889,"Esplanada de da Cunha, 722",2023-05-03,2025-04-22
+a007a0c6-dbeb-4a83-a524-e2d0234f4933,Giovanna Ferreira,julianafonseca@example.org,+55 92 2674-1399,Masculino,1985-05-23,986.527.341-19,da Cunha,RJ,68652-584,"Residencial de Ramos, 73",2022-11-18,2023-02-21
+2b025764-b0a9-40ce-8d5d-078fbaaad88e,Sarah Fogaça,zcamara@example.net,51 3741-8392,Feminino,1989-07-15,869.173.502-30,Araújo,SE,74627-400,"Vila Arthur Pinto, 25",2026-06-25,2026-07-03
+e2754d36-7da6-45ee-906e-beb6ca3439d6,Marcela Santos,albuquerqueotto@example.org,+55 61 5253-5503,Feminino,1968-04-07,423.865.071-90,Casa Grande,MS,15898497,"Ladeira Isabella Sá, 64",2026-05-06,2026-06-17
+6ae66481-ab12-4f73-ab3e-0e96fc74870b,Henry Carvalho,qcastro@example.com,94 0802-2678,Masculino,1978-08-28,928.530.147-97,Pereira,PI,45390-952,"Favela Maysa Dias, 162",2025-07-28,2026-01-30
+70babf20-3911-44bd-a554-bae0e4aeb875,Luiz Henrique Câmara,marcos-viniciusguerra@example.com,17 9763-8417,Feminino,2000-11-05,301.687.259-59,Pires,RO,13589754,"Recanto Diego Borges, 24",2024-03-22,2024-06-25
+cbcccd4b-d640-4d47-ae81-16aaef17d34b,Benicio Pires,leaoclara@example.org,+55 11 4435-5344,Masculino,1987-01-16,148.257.063-71,Moreira,BA,59340672,"Travessa de Montenegro, 12",2024-11-04,2025-10-07
+8aa5476e-0935-45c3-93df-4cd566eee150,Dr. Thiago Souza,das-nevesmelina@example.net,+55 51 8128-0159,Masculino,1993-06-28,651.482.930-98,Fogaça do Amparo,GO,63143487,"Colônia Ana Sophia Pimenta, 78",2023-11-17,2025-01-19
+074d6713-a9fb-4533-a8b6-27b2e46065bf,Bianca Vasconcelos,dcunha@example.net,32 0770-4240,Masculino,1973-03-09,516.894.073-01,Pereira de Freitas,PA,34602-952,"Loteamento Benjamin da Luz, 85",2022-10-04,2026-06-13
+777f05cc-eb4f-4bb3-8cdf-a8d42b4bfc78,Heitor Pinto,wdias@example.org,+55 73 9692-2383,Masculino,1976-06-16,568.719.304-93,Duarte do Campo,MG,28085-276,Passarela Albuquerque,2025-09-27,2026-01-22
+ab074cb9-2802-4ba5-b748-d04b54e0ba63,Anna Liz da Mata,emanuelvasconcelos@example.org,22 9895-0709,Feminino,2006-09-06,136.780.952-59,Melo Alegre,CE,22030055,"Vila Pereira, 32",2022-11-21,2025-02-24
+db858dd4-3638-4d9a-b12e-5a15262825c4,Vitor Gabriel Alves,pachecothiago@example.org,+55 11 6704-6945,Masculino,2000-10-14,728.195.640-11,Sampaio do Amparo,SE,41856788,"Núcleo de Campos, 826",2024-12-17,2026-01-14
+a5dba07e-9a2d-4603-86a9-13b9677b633d,Isabel Melo,da-motaluiz-henrique@example.org,+55 17 6837-8451,Feminino,1996-02-09,786.309.521-21,Farias da Prata,AP,41278-827,"Praça Duarte, 18",2024-12-07,2026-04-12
+0d3f74aa-30e1-4781-9bcb-6abbcf945f20,Dr. Oliver Costela,rezendeana-clara@example.net,+55 51 4380-0109,Feminino,1985-04-22,578.643.102-90,Pastor,PE,76063139,"Trecho de Sousa, 13",2024-03-03,2024-07-31
+c49fe0c7-5ab4-4182-a9ff-b72373efd0cf,Srta. Beatriz Vieira,rafaela61@example.net,37 6337-7854,Masculino,1971-03-07,470.918.623-50,Vargas Verde,RN,18552-605,"Largo Cauê Alves, 329",2024-02-12,2025-06-01
+f0dbb94a-716c-488c-84fb-f52076da06b4,Ana Laura Barbosa,ana-cecilia55@example.net,31 5174-5246,Feminino,1999-12-23,624.083.715-62,da Costa,SE,38603087,"Travessa Davi Luiz Dias, 13",2023-10-14,2024-06-27
+6231989e-f11f-432e-9b25-105e7cd7d664,Ravi Lucca Araújo,goliveira@example.org,+55 15 1789-7565,Masculino,1997-04-02,871.490.326-13,Araújo,MS,24090725,Jardim Marcelo Pastor,2025-12-04,2026-05-30
+226ccc20-b85d-4bb9-b29a-537bfa014d64,Gabriela Abreu,salesjoana@example.org,65 2498-9579,Masculino,1992-07-03,293.860.715-68,Correia,PA,13856856,Alameda Lucas Rios,2022-08-21,2026-06-06
+1dd1a1b6-0175-49b2-93e9-eddd2a576f68,Rebeca Oliveira,gabriel75@example.org,+55 13 5131-2966,Feminino,2000-03-11,046.759.138-57,Rocha da Praia,MT,82263-772,"Colônia de Moraes, 4",2023-12-28,2026-03-01
+8dc27582-172d-4155-b3ee-3c1111b85d53,Leonardo Vieira,teixeirabruna@example.com,+55 18 0228-3717,Feminino,1978-08-07,215.930.876-59,das Neves,GO,98940758,"Jardim Cavalcante, 98",2025-05-27,2025-09-01
+5ec070a7-f6ee-47f7-a5e3-174f2db54b0d,Lucas Gabriel Macedo,cnogueira@example.org,51 4752-9041,Feminino,1989-05-22,028.734.516-53,Pimenta,PI,49278545,Rodovia Murilo Barbosa,2025-05-18,2025-06-19
+644b1e00-26ec-49d5-9f56-3228ce976aff,Sr. Lucca Pires,uaragao@example.com,75 1365-3231,Feminino,1973-08-29,017.635.489-10,Sá,RS,74467606,"Passarela de Viana, 48",2023-11-25,2024-08-05
+c49d8c06-e054-47bc-944b-c01f154cc80a,Breno da Rosa,joao24@example.org,+55 32 9272-2085,Masculino,1993-10-10,435.081.729-88,Silva,MG,70067150,"Conjunto de Correia, 66",2023-11-07,2026-06-11
+a81c10fb-01cf-45eb-a0a1-613adbe09317,Brenda da Rosa,nogueiramaria-fernanda@example.net,+55 43 5451-2669,Masculino,2007-01-21,947.631.028-69,da Cunha,SC,78118632,"Conjunto Marques, 75",2025-08-30,2025-12-24
+bb6cbef3-922f-48c7-9cfe-d64a0730e797,Esther Almeida,oliversantos@example.org,+55 77 7685-7062,Feminino,1979-06-11,801.953.726-03,Ferreira das Flores,AC,90331374,"Estação de Aparecida, 60",2024-05-23,2024-07-05
+fb1ffa56-82a4-4130-bfa7-224294fa98d3,Erick Freitas,caleb92@example.org,93 4449-8129,Feminino,1983-09-21,506.187.932-59,Peixoto,RS,17976-271,"Área Maria Flor Dias, 885",2022-10-08,2025-05-31
+2bf256bf-38e2-4fe1-9370-e137e5bb850b,Pedro Henrique Rezende,riosvitoria@example.org,45 3510-4884,Masculino,2003-08-12,248.350.769-74,Rodrigues,SE,80204-573,Morro da Paz,2023-12-02,2025-06-24
+80ebbf90-ed32-4dd6-a59a-655a65b8d9de,Gustavo Teixeira,nogueirabernardo@example.org,0800 499 0743,Masculino,2002-11-02,371.592.046-70,Nogueira de Garcia,AC,14327-007,"Chácara Monteiro, 33",2024-02-04,2024-08-04
+9baf1ca3-61a7-4d31-a9ce-d551d2c75ad8,Sr. Diego Pires,emanuella21@example.org,+55 44 0457-9190,Masculino,1989-06-13,932.617.840-40,Silva da Mata,AL,85652005,Fazenda de Dias,2025-11-19,2026-04-14
+385dccd8-9ccc-4a37-b81b-b7523b7c051b,Aurora Ramos,ualbuquerque@example.com,+55 98 0931-0980,Feminino,1969-08-21,620.547.819-67,Melo,TO,65196-738,"Favela Teixeira, 48",2026-05-30,2026-07-11
+3a57eb37-3918-422c-bd74-8635955e0b82,Pedro Lucas Dias,faraujo@example.com,22 7753-0353,Feminino,1966-09-10,159.476.328-37,Barbosa de Duarte,SE,95016915,"Esplanada Rafael Oliveira, 9",2024-08-15,2025-10-30
+b8078d55-3cbc-4ea6-a5fa-b7a5a8508ece,Emanuella Mendes,iancasa-grande@example.com,74 3096-1213,Masculino,1970-03-18,756.193.028-30,Rios de Garcia,TO,19236597,"Distrito de Sousa, 7",2025-09-24,2026-02-05
+28e8e424-316a-4824-b20b-28ed5963e6a3,Paulo Machado,samuelmachado@example.net,+55 65 5426-3842,Masculino,1998-10-18,957.864.231-82,Silva,RJ,97490701,"Jardim de Sales, 117",2022-08-04,2022-08-20
+df66485b-63db-4c3f-8257-6b040fdb29f8,Henrique Silveira,limavitor-hugo@example.net,87 7917-6372,Masculino,1987-01-09,093.481.756-10,Andrade do Sul,MA,91108-173,"Fazenda de Lima, 9",2022-11-24,2023-05-05
+38cacaa9-d92c-45bc-a2ba-2b2f47b80404,Dra. Melina Sales,ana-livia19@example.net,28 0830-4129,Masculino,1997-04-14,190.328.456-24,Mendonça de Ferreira,ES,14241-924,"Praça Emanuel Freitas, 14",2024-11-23,2025-06-20
+ae5ec518-3956-4b90-9fc9-ed2b232ce7c4,Camila Sales,mcaldeira@example.org,74 4774-8238,Feminino,2007-04-06,361.720.459-70,Moreira das Flores,RS,44361-287,"Colônia Maysa Fonseca, 8",2026-01-12,2026-06-15
+42213c82-d004-437c-a25e-b23f9c85ba73,Srta. Anna Liz da Cruz,fogacapedro-lucas@example.com,54 3484-2319,Feminino,1996-07-15,071.495.862-01,Silveira,RN,69334-469,"Fazenda Leandro Cardoso, 43",2025-03-18,2025-10-24
+ecd34d9c-c525-440b-b1f4-8b1c8f0062df,Mathias Araújo,maria45@example.com,33 4408-2739,Feminino,1997-10-02,124.576.038-62,Siqueira,PA,57322-496,Lago de Pastor,2024-06-20,2025-03-02
+7c834c27-6866-439d-8a3e-906945ca6130,Lorena Araújo,ppacheco@example.com,61 7598-8731,Masculino,1986-06-08,782.465.139-82,Pinto,SE,62930775,"Passarela Vasconcelos, 937",2025-03-20,2026-07-19
+f2dc3c58-9c1a-4f1d-bafe-2d0a311c3b98,Ana Vitória Rocha,fda-conceicao@example.org,+55 84 1971-8017,Masculino,2004-03-08,879.026.145-30,Rodrigues,AC,10936840,Travessa Ana Lívia Albuquerque,2025-10-02,2026-02-27
+63f94a60-c987-41c5-829e-806ea30c20cf,Dr. Rhavi Aparecida,joao-pedrocastro@example.com,49 3903-8504,Feminino,1974-04-06,756.102.438-07,Vieira,AC,68869-546,"Loteamento Moura, 8",2024-01-18,2026-04-27
+9de0357f-fff7-4f93-8df1-aa53370896d4,Anthony Gabriel Marques,paulo16@example.com,+55 83 5638-1771,Feminino,1970-08-13,708.936.125-02,Teixeira,BA,30128-058,"Parque Siqueira, 20",2024-07-05,2025-05-06
+3c93f94a-6e06-4fa6-b5b0-a7764c033306,Clarice Lopes,sathomas@example.net,13 7055-8507,Feminino,1970-06-01,649.083.725-00,Cassiano,MG,65083356,"Quadra Marcos Vinicius Moura, 7",2026-05-28,2026-07-05
+f6727a58-1b5b-4f3e-b327-42b11c51e334,Ana Julia Sá,fernandesrebeca@example.net,+55 91 0582-3134,Masculino,2002-12-07,912.678.503-02,Santos do Norte,MA,33728-916,"Residencial Abreu, 681",2026-05-30,2026-06-10
+6e56530d-5777-4e37-9087-4935173fc666,Yan Andrade,emillyaraujo@example.org,+55 89 2364-1219,Masculino,1987-01-20,917.648.235-91,Melo,RN,68461-537,"Pátio Pereira, 3",2024-04-11,2026-06-30
+0dfebed2-7575-4aff-92dc-d3be7f49360a,Maria Fernanda Pastor,pintodiego@example.net,+55 66 6020-2019,Masculino,1966-03-29,095.123.864-70,da Cunha de Teixeira,RR,44478647,Passarela Aparecida,2023-12-30,2025-10-12
+eccf0569-770b-4f08-8f9e-e896a953c967,Miguel Cardoso,wpimenta@example.org,+55 69 1625-1034,Masculino,2000-02-09,762.913.845-82,Alves do Norte,PR,81045072,"Parque João Felipe Souza, 83",2026-05-01,2026-07-10
+c7654e50-ff68-4db0-b686-08f07fdd838b,Luana Ramos,luiz-miguel60@example.org,89 8717-9445,Masculino,1971-02-22,609.258.417-49,Rodrigues Grande,MG,42964-960,"Área de Costa, 6",2023-01-31,2026-05-27
+e1cbd103-7a74-4f5a-b920-1f428aa1554e,Luísa da Cruz,brunada-cunha@example.com,+55 92 1280-1210,Feminino,1974-11-16,376.941.285-00,Pereira de Brito,PE,21906-271,"Passarela de Brito, 59",2023-03-31,2025-06-11
+62848f56-09ca-4297-9c7f-2b4dc7fd8d6b,Sr. Gael Henrique Guerra,sabrinaaragao@example.com,+55 79 0433-3828,Masculino,1980-01-17,975.213.846-28,Montenegro,RR,54555-770,"Praça Pietra Guerra, 6",2022-12-29,2024-03-13
+d9bfcb0e-e841-436d-8ef4-c2069f979a80,Maria Fernanda Marques,theodoro79@example.com,+55 54 2120-6003,Masculino,1997-08-23,418.329.765-64,Garcia de Ferreira,CE,87619443,"Travessa Elisa da Luz, 553",2022-10-29,2026-04-22
+f5d1b2b0-619f-425c-a1c2-b9559ff6f2ab,Manuella Abreu,maria-liz51@example.net,62 2876-3004,Feminino,1997-10-12,261.803.745-62,Castro,PB,85458145,"Passarela Sophie Novais, 596",2023-04-25,2026-03-26
+55fbd130-d079-4de6-adcb-003ad7b65394,Emanuelly Campos,maria-julia87@example.net,+55 89 5555-9081,Feminino,1985-01-09,268.503.947-38,Silveira do Galho,RO,05732-349,"Largo Castro, 75",2025-04-09,2026-07-05
+f1a9baf3-f19d-4b45-94ad-b0cc3cf56b87,Isis Fernandes,riosgabriela@example.org,12 1714-2908,Feminino,2004-05-15,967.852.103-21,Santos de Aparecida,SC,56110-773,"Jardim Caio Fernandes, 421",2023-10-14,2026-01-08
+13560395-01c2-4841-8624-5053981967cf,Eloah Viana,xaragao@example.org,91 9351-7418,Masculino,1994-02-14,085.241.639-33,Fernandes,MA,31173355,"Trevo Théo Siqueira, 74",2026-03-31,2026-05-22
+2f69ad3d-893f-432f-a2b0-94734b4e56f8,Isadora Leão,laraazevedo@example.com,13 3879-9145,Feminino,1983-03-02,362.479.851-00,Correia do Campo,SP,21907537,"Parque de Sousa, 74",2024-01-13,2025-05-14
+75882083-3355-4b5d-8a36-2bb6c5d8e564,Luara Albuquerque,moraescatarina@example.com,91 7382-3877,Masculino,1983-03-24,596.803.271-59,Rios,AP,91560916,"Distrito Pires, 88",2022-07-20,2022-10-03
+a6c97368-bc4e-4e09-8e3f-29bbeb7d0b0b,Sr. Lucca Aparecida,agatharocha@example.org,95 7610-7249,Feminino,2007-01-27,690.284.571-94,Sousa Grande,PA,03800899,"Sítio Isabel Lopes, 82",2026-01-07,2026-02-28
+72190dfe-1635-4e14-a2d8-baeab3337c3e,Arthur Miguel Sampaio,lucascaldeira@example.org,67 1983-2143,Feminino,1968-11-22,134.782.965-28,Souza de Costa,BA,10821-288,"Rua Rodrigo Casa Grande, 46",2024-12-12,2024-12-27
+5f1f4fcd-c179-4d2b-94c0-4a19fb5171a0,Apollo Macedo,dcavalcante@example.org,43 2727-2823,Feminino,2003-09-17,671.089.524-67,Silva do Galho,AL,80996190,"Largo Sampaio, 31",2026-07-06,2026-07-07
+edfb5e11-baf6-459f-a8cc-817a3f335e24,Srta. Maria Júlia da Costa,rezendemaya@example.org,13 7418-3389,Masculino,1989-03-15,204.936.518-70,Vieira,BA,02574-818,"Rodovia de Vieira, 90",2023-08-10,2024-01-29
+6006576b-90a2-40c2-8b37-74b4d5045c7f,Enzo Gabriel da Mata,ana-clara85@example.net,+55 95 6179-1057,Feminino,2001-06-07,193.502.486-89,Barbosa dos Dourados,PR,05514-756,"Fazenda de Cirino, 230",2026-06-17,2026-06-17
+df391c13-4fd6-4548-9880-c5b67bd0fcd9,Giovanna Barros,igor31@example.net,+55 66 0863-5483,Masculino,1982-02-16,248.053.179-14,Santos de Siqueira,RO,86737659,"Residencial Fernando Lima, 30",2024-07-30,2026-06-15
+2ecd45be-1047-4daf-8a6a-1640c0914ab1,Giovanna Ribeiro,cvargas@example.net,+55 62 6798-2847,Masculino,1972-08-23,958.231.046-42,das Neves,AP,78076854,"Campo Moura, 4",2026-03-06,2026-03-30
+47628382-dad1-41dd-8140-1cb907d9487a,João Felipe Viana,kcaldeira@example.com,54 6464-1002,Feminino,2004-03-24,739.486.025-65,Marques de Alves,PB,48732-265,"Praia Casa Grande, 241",2025-04-30,2025-11-11
+1b213a15-0996-4fa2-828b-0d43c4a08521,Maria Melo,leonardonovais@example.net,+55 35 2125-7161,Masculino,1970-05-27,576.382.410-53,Andrade,AC,94013-372,Passarela de Castro,2023-11-16,2024-05-12
+349549b4-568b-4fc9-ab1c-b0b8058f8339,Felipe Gomes,das-nevesaurora@example.net,13 8365-9342,Feminino,1967-10-09,274.305.896-00,Cirino da Praia,TO,08743686,"Lago Garcia, 55",2024-03-10,2024-08-28
+c5a900a8-448e-4cf1-99bb-1f8659755e37,Sra. Liz Silva,grocha@example.com,91 5568-7400,Masculino,1989-03-30,275.680.341-35,da Rocha,PB,57597186,"Esplanada Pietra Machado, 30",2024-05-29,2025-11-05
+8962398d-7c58-4bf6-b9bc-3be06e1289eb,Kevin Garcia,nicolascosta@example.com,+55 82 9931-9753,Masculino,2007-08-18,876.302.195-12,Almeida da Praia,RS,73806-872,"Travessa Ribeiro, 91",2025-05-22,2025-08-18
+3c7f3dd8-3ebd-4d0c-b5b5-c0ce4ef567e8,Lorena Casa Grande,maria-helena66@example.com,+55 43 5712-2621,Masculino,1972-08-20,938.542.170-05,Garcia,BA,51442-688,"Recanto de da Rocha, 2",2025-05-27,2026-04-27
+b4b4afd8-f2c4-4d0c-9080-17afeef22ffc,Maria Flor Costela,theodoro57@example.org,+55 46 5603-6781,Feminino,1968-06-10,935.647.108-84,da Conceição do Galho,DF,41955487,"Esplanada Bárbara da Conceição, 96",2023-11-15,2026-05-04
+bda9aed9-ecc0-48f0-b329-360600c84ed3,Rafael Porto,stephanyazevedo@example.org,43 8908-9424,Feminino,1996-12-15,385.647.092-10,das Neves Paulista,AP,39972-936,"Feira Silveira, 264",2023-02-14,2024-07-19
+14146f1b-96c3-4d6e-ac37-6d2bd2a86f39,Lucas Vieira,smarques@example.net,+55 86 4753-6548,Masculino,1985-07-11,132.908.765-86,Campos,SP,93164137,"Setor de Cavalcante, 70",2025-12-28,2026-05-24
+37cabe4a-895d-4806-a775-7d40acdf6092,Ravy Dias,lsilva@example.net,+55 14 0700-8501,Feminino,1990-03-31,207.364.159-80,Rios,AP,32982114,"Campo Jesus, 455",2023-07-09,2023-11-29
+7c5b4df2-4f76-4100-a25e-e51cc357aba6,Dr. Vinícius Ribeiro,hlopes@example.org,+55 47 4163-4239,Feminino,2007-09-13,216.534.079-99,Rodrigues da Serra,RO,15169-385,"Vereda Vinicius Barbosa, 844",2022-11-13,2026-03-29
+e215c9f1-0d01-490b-9853-2febd2cb032e,Carolina Nogueira,rodrigomachado@example.com,+55 54 3442-5290,Masculino,1977-11-18,203.967.548-56,Pastor de Brito,RN,15748-703,"Avenida de Camargo, 3",2026-03-15,2026-03-17
+2f422cfa-1aac-488d-a414-ecac96ee80ea,Luiz Gustavo Cunha,marcelocastro@example.net,24 2742-8881,Masculino,1977-05-20,910.386.542-89,da Conceição,ES,35188-400,"Chácara Pires, 416",2024-08-25,2024-11-15
+5bab1575-face-4294-98ad-24dd15cd5e92,Liam Pinto,julianacassiano@example.com,79 9818-2158,Feminino,1997-10-31,849.635.712-00,Santos,PA,42623-008,"Trevo Dom da Mata, 363",2025-11-30,2025-12-22
+60cc4010-e5bb-4e36-b24f-5320d56d1f50,Bento Costela,joao-guilhermegarcia@example.org,46 3224-9525,Masculino,2000-03-03,976.354.128-09,Garcia da Mata,SP,86570953,"Sítio de Andrade, 25",2022-09-24,2023-01-21
+78eaa3d5-0e82-4c0b-9e75-285cd6cefcc6,Oliver Pires,antonella40@example.com,37 6391-1754,Feminino,1995-12-08,125.876.493-82,Duarte,SC,73857-733,"Lago Maria Luísa da Conceição, 73",2025-05-22,2026-01-06
+fa597a38-df37-4982-8795-20418bc6048d,Bento Nogueira,bernardo75@example.org,65 8563-5427,Feminino,1979-01-11,802.746.195-20,Freitas de Dias,GO,66412835,"Lago de Pereira, 64",2024-05-03,2024-05-09
+559a84f5-822f-4d8f-b058-23f1de93c5f3,Dr. Luigi Peixoto,nicolecamara@example.org,+55 37 0636-0868,Masculino,1965-08-13,427.683.159-82,Barbosa da Prata,PE,17881814,Alameda Henry Gabriel Carvalho,2025-01-09,2025-07-13
+df705806-7f8f-406a-9a95-15013adc4e07,Rodrigo Rodrigues,da-mataemanuelly@example.net,0800 091 9581,Feminino,1967-01-25,753.102.468-35,Cassiano de da Costa,GO,56693-168,"Ladeira de Melo, 11",2025-10-08,2025-11-15
+137f0711-24b9-44ad-a1a8-558ff0b0f6bc,Dra. Emanuella Cunha,sophie85@example.com,14 9928-4524,Masculino,2008-02-07,903.461.578-20,Pires,SP,10620-800,"Largo Ester Gonçalves, 84",2024-06-28,2024-10-17
+755201fc-703d-4318-a534-4f1c1497ba60,Francisco Rocha,cardosoasafe@example.com,96 2138-2998,Feminino,1974-01-06,254.076.319-70,Costela,RN,40985254,"Residencial de Porto, 868",2023-05-29,2026-07-14
+4e5a6371-e18d-4a9f-87ad-749e3d69864c,Luiz Felipe Monteiro,caldeiraigor@example.org,51 7025-7278,Feminino,2004-03-25,507.431.692-80,Melo de Souza,DF,67054289,"Rua de Oliveira, 17",2026-01-29,2026-02-28
+bc602aa0-7c05-4ef0-b5c3-13afbd2ab6af,Ian Lopes,matteo02@example.com,96 9725-7647,Masculino,1967-05-07,241.670.839-22,Vasconcelos,MS,81882082,"Esplanada Cavalcante, 63",2026-07-14,2026-07-19
+fd1e7413-bb2b-49cd-a59a-3204aaf318b3,Gustavo Albuquerque,enzo-gabrieljesus@example.com,+55 61 7465-6058,Masculino,1972-04-08,138.564.720-53,Caldeira,AM,50693230,"Lago Luiz Miguel Melo, 94",2023-07-03,2026-04-01
+b7b93628-629f-4297-be21-bd805b5fff09,Leandro Machado,joaocostela@example.org,44 6478-3837,Masculino,1971-03-13,269.831.457-55,da Mata,RS,24394-652,"Recanto Teixeira, 12",2023-10-06,2025-12-04
+d8852d7b-319f-4276-9e5c-370a43893b28,Júlia Sá,davi-luizda-paz@example.com,43 4399-8250,Feminino,1994-01-11,816.403.927-69,Novais Grande,MS,57737871,"Área de Cassiano, 87",2025-11-16,2025-11-29
+66ac4ac4-9335-4171-9472-7a88684b761c,Felipe Pinto,kmachado@example.net,77 4524-3915,Masculino,1975-04-28,934.517.026-06,da Rocha do Norte,MT,17911-685,"Vereda Monteiro, 95",2026-05-26,2026-06-04
+ce747bfc-6201-47e0-856e-c2885ca0dd16,Ayla Guerra,luigi13@example.com,+55 11 6762-3015,Masculino,1991-01-28,104.736.289-96,Oliveira,ES,54288381,"Trecho Luiz Otávio da Rosa, 76",2025-03-27,2026-07-07
+549966f2-e144-48e9-83c0-3da8744a12c8,Luara Gonçalves,bella60@example.net,67 6453-0239,Masculino,2008-03-30,635.214.098-05,Pastor do Norte,AM,88696-643,"Esplanada Maria Helena da Mota, 36",2026-06-09,2026-06-29
+a3a5ad55-348d-477f-a8c7-34636dc70a85,Lucas Gabriel Nogueira,ana-julia79@example.net,13 4843-7352,Feminino,2004-01-14,062.371.549-06,Vargas,ES,59357947,"Lago de Borges, 66",2023-08-31,2025-05-04
+926b00fb-0149-4145-af2c-15b6e6e9b8c9,João Gabriel Mendes,cunhanoah@example.com,+55 53 7741-0503,Feminino,1971-11-17,241.097.836-31,Rocha,RS,38703-458,"Fazenda Rios, 34",2023-01-11,2025-09-23
+0b2f4c3d-2870-4bb6-8856-af4e9cb86365,Sophie Vasconcelos,rfonseca@example.com,88 0065-6205,Masculino,1991-05-28,372.108.695-30,Cunha,SE,34149921,"Aeroporto Vargas, 53",2022-07-28,2023-12-22
+4f30561e-c081-4bb3-9ce6-acf573700864,Dra. Stella Sampaio,caldeiradaniela@example.org,+55 21 0384-1091,Feminino,1971-01-12,759.231.680-30,da Mota de Goiás,RJ,84373754,"Trecho de Gonçalves, 87",2024-03-03,2025-08-28
+b5301f10-e462-4586-a8d1-bb312df02379,João Felipe Melo,gsouza@example.net,31 9438-2127,Feminino,2006-06-28,816.532.709-77,Marques,SC,76739259,"Rodovia Ester Nascimento, 55",2022-12-17,2024-03-03
+2faea2bd-6db0-43df-96b3-45fad682ba03,Mariane Silveira,jade63@example.org,+55 18 2445-6668,Masculino,2007-03-21,280.795.641-67,Silveira,RR,33306900,"Esplanada Maria Laura Ferreira, 92",2023-09-29,2024-03-05
+19978e80-f517-444d-9642-afba85d19d92,Dr. Diego Caldeira,vargaspedro-lucas@example.org,19 6340-7666,Masculino,1999-03-24,689.701.345-57,Fonseca,AM,23235-557,"Vereda de Nunes, 42",2023-06-25,2025-02-11
+13b37721-1187-4b05-827a-317116113994,Giovanna Camargo,martinsisabela@example.com,+55 74 9739-3272,Masculino,1988-11-26,034.678.925-74,Mendes do Campo,AC,80574-233,Aeroporto Fonseca,2024-12-25,2025-12-30
+14638c0b-e47c-4f73-aefa-d5c36aed00e5,Agatha Costa,heloisa05@example.com,19 4992-7948,Masculino,1988-01-11,418.567.029-01,Pastor,AC,82248596,"Recanto Monteiro, 82",2022-08-07,2023-01-17
+68ba4956-ba83-41c1-9758-9b4eeb7e63d9,Lorena Gonçalves,ana-beatriz49@example.net,88 5610-1408,Masculino,1996-08-11,794.053.186-75,Vieira,SC,84217902,"Lago Pedro Miguel Silveira, 1",2024-04-22,2025-11-21
+e1d7831c-cb6c-4d7c-b500-00bb98942ccb,Emanuel das Neves,maria-luisa53@example.com,44 4200-9076,Feminino,1988-10-18,162.859.037-86,Costela de Ramos,PR,93986-270,"Recanto de Machado, 326",2024-12-18,2025-07-03
+247dd6f8-dfd3-4cd9-bd02-e9d0809bde90,Lucas Gabriel Siqueira,salesayla@example.net,27 6848-1649,Masculino,1987-08-07,412.678.590-67,Viana da Prata,GO,51715822,"Rodovia de Sampaio, 80",2023-08-25,2025-07-31
+223c09ec-c29a-4693-ad16-6cd33380a37c,Maria Fernanda Mendonça,rafaela39@example.com,+55 85 5154-4537,Masculino,2006-04-30,790.483.215-14,Rezende do Amparo,GO,43382-898,Travessa Leão,2024-12-17,2026-05-14
+d03977a8-6c16-4d5f-8e63-579de18cfccf,Manuela Mendonça,carlos-eduardopereira@example.net,+55 47 3023-0315,Masculino,1988-07-17,739.521.640-70,Ribeiro de Martins,RO,41313125,"Estação de Rezende, 11",2022-10-18,2025-11-24
+441ed48d-7e24-4778-8133-556e7fbb283d,Giovanna Leão,nunesbernardo@example.net,+55 19 6889-9749,Feminino,1981-06-17,714.285.960-11,da Costa Paulista,PR,77586-230,Praça Theo da Rosa,2026-03-25,2026-05-26
+471b35f2-5dcf-41a4-8b19-fb7ab59b4321,Gustavo Pacheco,otaviomacedo@example.org,13 7713-3088,Masculino,1965-09-04,260.493.715-80,Vieira,RJ,04059254,"Pátio de da Mata, 63",2023-06-12,2024-04-03
+3cdb91a8-758c-4535-bffc-7773d97317af,Anna Liz Cavalcante,ramosrodrigo@example.net,0800 160 5214,Feminino,1983-11-27,803.456.791-48,da Mota,MA,47760270,"Jardim de Silva, 960",2023-05-14,2023-05-22
+86c400b5-8725-42cd-9d53-4d67f33cbcb8,João Vitor Cirino,lara58@example.net,+55 64 6792-2565,Masculino,2005-05-19,472.830.916-96,Guerra do Norte,PB,22660417,"Estação de Machado, 94",2023-10-05,2024-05-19
+aa30b432-b4c0-4df1-abf0-ca6fbfe8a080,Pietra da Mata,mariane09@example.net,+55 62 5652-1794,Masculino,1989-03-09,924.180.763-69,Moreira,DF,04065-879,"Feira de Pereira, 84",2026-01-21,2026-07-01
+5f5d771f-994f-42f9-887c-6abf2db0b1fc,Cecilia da Rocha,bernardosiqueira@example.org,+55 74 9529-2862,Masculino,2001-02-11,785.206.941-01,Correia Alegre,ES,42438368,Lago da Paz,2026-01-30,2026-06-12
+d7f17fe8-f44f-4560-b7e6-cbf97a5c8607,Dra. Alice Fonseca,vcorreia@example.org,24 5965-8712,Masculino,1981-01-04,735.982.610-12,Camargo,CE,02284347,"Praia Camargo, 67",2023-10-11,2026-03-14
+b25f3277-6716-46c9-bda4-3561870b96b6,Vitor Hugo Gomes,luiz-henriquegomes@example.org,95 3636-5085,Feminino,1980-12-27,630.524.978-47,Moura,AP,25784616,"Residencial Vitor Hugo Sales, 67",2024-01-30,2026-07-17
+440edfdf-b2f1-4148-bfb5-3650557e3a1e,Raquel Barros,montenegronatalia@example.com,47 8599-7361,Masculino,1970-10-12,148.326.059-33,Freitas de Goiás,RO,22181-130,Fazenda Luiz Fernando Nogueira,2025-12-22,2025-12-26
+f8774ad6-43d9-471d-a9d0-c727893b8d9c,Davi Vargas,luiz-gustavo16@example.org,+55 53 2178-8649,Feminino,1970-10-15,940.813.625-05,Abreu,ES,95530-866,"Feira Mendes, 864",2026-03-29,2026-06-19
+2f39f918-e322-49ab-94b6-2a786b53d2da,Sr. Gustavo Henrique Santos,cteixeira@example.org,+55 51 0466-0046,Feminino,2001-09-15,316.854.729-82,Casa Grande,AC,86218-953,"Pátio Melo, 7",2025-09-21,2026-05-16
+32f26173-6dab-4b92-8862-8ffb162707da,Isabela da Costa,xda-rosa@example.com,42 3257-2690,Feminino,1990-08-29,304.671.958-20,Borges do Amparo,TO,23571831,"Esplanada de Peixoto, 5",2023-03-17,2024-02-05
+e03c4e13-65ae-4aa7-9d02-4d625413e5f6,Manuella Melo,jesushenry-gabriel@example.org,83 7297-4998,Feminino,1982-04-12,127.648.930-78,Nascimento Grande,DF,55879932,"Rodovia Otto Guerra, 68",2023-07-09,2025-04-23
+a814944c-4dee-45be-b435-352b3787f2e1,Maria Alice Montenegro,pedro-miguelda-mata@example.org,+55 75 6837-7896,Feminino,1989-01-12,652.910.783-59,Araújo,SE,41556-075,"Ladeira de Oliveira, 2",2025-06-05,2025-09-11
+c300195a-7730-43ea-8904-a315240032e4,Camila Sá,hfreitas@example.com,43 3700-2239,Masculino,1976-12-03,986.042.537-00,Macedo,PI,56640-651,"Recanto de Alves, 26",2026-06-08,2026-06-17
+72f5a40d-d462-4114-ab58-5ea7434b7232,Davi Lucca Melo,souzanina@example.com,+55 35 5089-5094,Feminino,1997-08-15,837.509.214-23,Vasconcelos,PB,38226978,"Área Teixeira, 5",2024-09-28,2025-05-12
+34dfbb24-9421-4b00-98d0-923c2eb63139,Kevin Rocha,fogacaaugusto@example.org,21 4560-6432,Feminino,1991-10-05,026.351.987-21,Vargas de Ferreira,TO,47651326,"Pátio Theodoro Cirino, 6",2023-07-14,2026-06-01
+df76d9f0-d15e-41d2-a99d-3a5ab544500d,Srta. Clara Ramos,nicoleda-cruz@example.net,85 4524-0130,Feminino,1980-10-19,380.542.791-32,Pinto de Sales,AC,86867651,"Alameda de Barros, 39",2024-12-05,2026-03-10
+ed82db92-304c-4edf-89a9-337d0f7bf0af,Srta. Nina Almeida,diegoda-conceicao@example.net,+55 91 0144-5160,Masculino,1992-04-21,175.039.482-05,Farias do Sul,PI,87333208,"Residencial Jade Teixeira, 95",2025-06-11,2026-04-07
+2113e23c-e0ba-421d-bb70-c7ed620ddef9,Cecília da Luz,pcorreia@example.com,+55 94 5291-6377,Feminino,1984-11-19,853.410.729-79,Rodrigues,RO,76150-059,"Quadra Carolina Farias, 75",2026-07-14,2026-07-16
+cc049094-5a23-4f4e-828b-f4cc130a8823,Ana Lívia da Luz,silveiramatheus@example.org,28 4256-8030,Masculino,2003-06-26,479.536.182-73,Ramos das Pedras,AM,55804-468,"Favela Ana Sophia Jesus, 33",2023-09-23,2024-12-22
+616e0e1b-dcad-4c70-a56d-6bd2371c59da,Emanuelly da Mata,bellarios@example.net,0500 274 4583,Feminino,1988-04-07,546.219.807-85,Pires da Mata,MG,87723423,Aeroporto Antônio Porto,2026-06-30,2026-07-13
+f8ca863d-0404-4b02-a3b0-eb25e0d6c12f,Vitor Hugo Campos,alice40@example.net,+55 51 6943-7013,Masculino,1989-09-16,835.297.061-59,Gomes de Correia,AP,13655656,Condomínio Pinto,2026-03-27,2026-07-04
+e48fe8cd-fabc-4079-b62b-e7bf2d90c8b3,Daniel Leão,azevedoenzo@example.org,+55 86 1635-1197,Masculino,1979-04-10,976.413.582-09,Fogaça das Pedras,BA,59821785,"Setor Liz Nogueira, 10",2023-10-11,2025-10-26
+b32b10c5-dee4-4fb6-9932-d211af33f009,Srta. Emanuella Monteiro,eporto@example.org,+55 54 7008-6953,Masculino,1993-08-06,348.620.597-83,Marques de Cirino,TO,27849-750,"Pátio de Silva, 56",2026-06-25,2026-07-04
+71f6b9ca-6cc6-473c-a069-5859349e51c3,Oliver Castro,tcardoso@example.org,37 3988-5363,Masculino,1978-12-04,680.123.947-31,Costa,SP,89219369,"Conjunto de Ribeiro, 536",2024-04-28,2025-03-07
+b23cf705-65fa-4bf3-8be6-1afb4f23d84b,Isis Pinto,fsa@example.com,+55 47 1783-3974,Masculino,1988-04-19,029.718.465-20,das Neves de Novais,MA,05788190,"Loteamento Dias, 708",2026-02-10,2026-03-12
+2b19bac7-262d-4f1a-a3af-2d6915b4c2a5,Maria Cecília Leão,giovanna13@example.org,98 8134-7115,Masculino,1977-12-03,580.241.796-01,Montenegro,RO,28504-307,"Praia de Vasconcelos, 5",2023-06-28,2025-01-02
+a1134b73-fb4a-45cb-93bd-b63846a509c6,Dr. Otávio Pinto,erick80@example.com,+55 38 4320-4560,Masculino,1998-08-13,829.465.013-70,Almeida Grande,SP,53825-006,"Jardim Isabela Almeida, 13",2025-12-20,2026-02-04
+dfb6b7ff-5c3c-4140-bc45-76053c01e019,João Pedro Pimenta,da-rochamiguel@example.org,83 4663-0778,Feminino,1965-11-25,695.107.483-66,Siqueira de Rodrigues,MA,68244-320,"Distrito Borges, 17",2025-09-19,2025-10-07
+a412107d-aaee-44ea-a9da-b66f62450123,Clarice Pires,viniciusvargas@example.net,+55 38 4915-1657,Feminino,1985-05-10,721.685.490-01,Moreira do Amparo,PB,82510-955,"Feira Mateus Borges, 9",2023-04-03,2023-04-20
+e3afc7ba-9a3f-48e1-be92-187078525073,Yasmin Ribeiro,mouramaria-sophia@example.net,41 3819-8469,Feminino,2005-07-30,382.610.974-04,Montenegro Grande,MS,44970900,"Núcleo de Borges, 95",2025-05-07,2025-07-31
+79cade4c-ea8d-4577-a2b0-10d9940367e5,Milena Ribeiro,isaac38@example.com,77 7551-4816,Feminino,1985-09-16,541.023.978-41,da Paz de Goiás,MS,14414-576,Campo de Aparecida,2024-09-23,2024-11-15
+81d4a94c-39d2-4dba-bc5d-a7b8bf271ff3,Vitória Santos,rodriguesrhavi@example.com,51 0524-0256,Masculino,1971-05-30,698.574.231-91,Costa,CE,54030212,"Largo Rodrigo Pacheco, 57",2025-06-06,2026-04-12
+bf717cd1-39d9-496b-ad3b-596367bc655a,Melissa Peixoto,hnunes@example.net,+55 94 8328-4664,Masculino,1971-06-22,579.614.083-39,Teixeira da Mata,RN,12486-274,"Lagoa de Nascimento, 5",2023-10-24,2024-05-25
+f3d29faa-6905-4402-a1dc-56473a3402c8,João Gabriel das Neves,alicia74@example.net,+55 77 8453-0667,Masculino,2001-04-25,591.427.860-02,Vargas da Prata,ES,10311603,"Setor Vitor Hugo Rodrigues, 75",2025-11-10,2026-02-27
+52bd0006-d31e-4b4e-a9d1-e9aeeb060b54,Joaquim Ramos,vitoria94@example.net,+55 47 3030-6954,Feminino,1977-12-21,631.247.589-19,Andrade,RJ,60478-365,"Parque Sales, 45",2023-08-28,2024-09-20
+6650d46d-19ec-4f64-9941-ef7643d46319,Sara Farias,azevedoleandro@example.net,+55 64 5810-0517,Feminino,1971-08-24,163.408.752-62,Pacheco,MA,72889-361,"Rua de Fernandes, 8",2026-06-19,2026-06-29
+592c4ede-b301-4184-8529-c897df1791ce,Lívia Pereira,sara20@example.com,19 8227-1156,Feminino,1996-10-23,149.738.205-04,Costa,MT,19657-071,"Parque Heitor Pimenta, 16",2023-06-16,2024-03-23
+811dac1f-54f1-4f2d-820f-78fb8f6b5873,Lunna Porto,abreuana-sophia@example.org,+55 31 1196-5346,Feminino,1989-01-10,679.851.234-82,Monteiro de Costa,CE,38406488,"Residencial Costela, 60",2024-12-29,2025-03-17
+184d1ab9-5ab9-4ba0-a333-7f23bd48fd3a,Léo Barros,cecilia68@example.net,+55 89 1567-0741,Masculino,1967-08-17,042.876.931-40,Siqueira,PB,17089402,Lago Campos,2024-10-24,2025-02-28
+c9a09955-19ee-4395-ab50-882fa5a15808,Hellena Cavalcante,eloah97@example.org,+55 81 3334-6245,Masculino,2005-09-25,869.310.274-50,Ribeiro,RS,84382560,"Aeroporto Cavalcante, 36",2022-09-09,2023-05-01
+76261042-1d88-457d-92a4-70439960db31,Maria Liz Borges,pimentaluiz-felipe@example.org,19 8749-5861,Feminino,2002-11-05,148.237.560-53,Campos,AL,05736-347,"Área de Cavalcante, 43",2025-12-31,2026-01-28
+8799aa93-b275-499c-9137-aadd83fda13c,Rafael Machado,isaac94@example.org,81 0144-9220,Feminino,1965-12-30,876.430.592-92,Albuquerque,RO,44064-560,"Condomínio de Duarte, 5",2023-05-01,2023-12-07
+c34efda4-16b3-4e2e-872f-8bb871666efb,Leandro da Cunha,montenegroantonella@example.net,+55 83 6740-9053,Masculino,1976-04-28,962.805.437-65,Silva,RS,11938907,"Praça Moreira, 21",2024-11-29,2025-07-04
+97fc796a-2316-4572-b12e-063a70094138,Diogo Alves,ccamara@example.org,+55 75 2659-6831,Feminino,1999-08-19,182.693.704-87,Campos do Norte,DF,14252-452,"Praça Mendonça, 784",2024-02-21,2024-05-18
+2bbe14c0-913a-4cdd-bc22-a41c7e4b3bdc,Dr. Fernando Andrade,melojoao-gabriel@example.org,+55 66 5525-8144,Masculino,1989-01-18,425.068.397-47,Azevedo,SC,06213096,"Via Sofia Pacheco, 761",2024-11-13,2026-02-17
+afd63938-6bf1-4cfc-a118-56877747d38d,Luna da Cunha,joao-gabrielda-rosa@example.com,+55 46 9543-4224,Feminino,2005-05-19,065.937.812-40,Siqueira,AC,30091-371,"Largo Aparecida, 471",2023-07-10,2024-12-10
+1964eedc-0583-4721-a42c-6d5cb97ff9a9,Sra. Bárbara Viana,agatha74@example.com,82 0315-4253,Masculino,1997-12-16,794.015.836-84,Aragão,MS,72858-108,"Residencial da Paz, 3",2023-03-12,2025-08-07
+db74bc16-ff58-439c-8ebe-7ec270ba259a,Sra. Catarina Pacheco,diasdavi-lucca@example.com,12 2798-3034,Feminino,2004-07-16,690.428.371-87,Melo de da Rosa,AP,88230145,"Viela Luigi da Paz, 41",2024-10-11,2024-12-04
+bc76aab8-8128-45c6-ba0c-d942d8e61832,Dr. Luiz Henrique Nascimento,zfonseca@example.org,31 5316-5783,Masculino,1981-06-20,532.607.418-44,Souza,DF,63812958,Pátio de Monteiro,2024-09-17,2026-04-15
+2754c9d7-ef86-43e7-a168-d65f28a02dd5,Marcos Vinicius Pacheco,gael-henrique55@example.com,43 3776-3805,Feminino,1990-10-02,719.543.286-64,Câmara,RJ,21613605,"Lago Silveira, 405",2025-05-01,2026-03-29
+f874f895-f1f5-4ce5-bc73-6f2dd9f54976,Sr. Pedro Henrique das Neves,sfonseca@example.net,+55 88 9012-9796,Masculino,2005-05-04,740.518.632-71,Abreu do Galho,TO,75456811,"Campo Yasmin Andrade, 487",2024-05-02,2024-10-12
+ec33ebac-4d50-41a0-a3c5-c43a411da81e,Caleb das Neves,jda-mota@example.com,28 9907-1762,Masculino,1976-05-14,702.359.681-02,Viana,PI,23373318,"Praça de da Mota, 806",2026-07-18,2026-07-19
+f3fac21f-b126-45c1-ae8a-6f94083c5867,Milena Cardoso,araujoalexandre@example.org,+55 77 9574-3316,Masculino,1982-07-10,549.601.827-76,Pacheco de Brito,PR,22641484,"Rua Novais, 397",2023-06-15,2024-09-21
+3cf69b05-c01c-43fc-90d9-3cbc4c3f931b,Hadassa Garcia,luiz-gustavo28@example.com,69 4311-2859,Masculino,1993-06-26,786.192.405-01,Albuquerque de Costela,DF,06927196,"Esplanada de Carvalho, 126",2026-02-16,2026-02-25
+a005d625-19c5-4a1b-bd63-32429ecb1cac,Juliana da Mata,arthurdas-neves@example.org,+55 55 5013-6548,Masculino,1988-07-19,731.602.854-80,Vasconcelos,ES,84401341,"Lagoa Letícia Monteiro, 779",2023-01-30,2024-09-29
+07c6fd14-4e96-4cc9-a979-bce776e341eb,Vinícius Carvalho,augusto05@example.net,47 9632-0655,Masculino,2002-04-11,812.563.407-07,Fernandes,AP,61300-854,"Viela de Casa Grande, 42",2023-04-21,2023-09-06
+958ca825-1406-404e-93a4-7374e2c5038c,Théo Farias,luara88@example.net,+55 55 6199-6497,Feminino,1978-01-09,562.387.409-65,Borges,MG,15965573,"Setor Rodrigues, 36",2024-09-20,2025-04-18
+4066fe78-5770-43d2-8705-c9bcfd38bcbc,Rebeca da Mota,hellenaabreu@example.net,31 4845-0570,Masculino,1987-04-05,410.965.728-85,Cavalcanti,PB,84909-578,"Vila Abreu, 3",2024-01-05,2026-05-27
+db16cbf8-796f-43c3-8968-f3c6fa130632,Sr. Breno Pereira,joao-pedromachado@example.net,28 9713-4542,Feminino,2004-06-09,136.095.482-15,Lopes de Viana,RR,03389493,"Estação de da Paz, 53",2024-04-18,2024-12-30
+007e3b8b-1cb1-4633-9293-356b159b37c3,Benjamim Macedo,rodrigo67@example.net,+55 62 1274-8895,Feminino,1985-04-25,394.568.720-92,Leão dos Dourados,PA,86216-674,"Via Mendes, 13",2026-06-11,2026-06-11
+697960af-6497-4e9d-90d8-9e2855a28c06,Sr. Benjamim Ribeiro,onogueira@example.net,+55 82 0698-7119,Feminino,2002-09-22,608.239.451-89,Marques de Sales,SP,26411101,"Setor de Monteiro, 780",2026-02-16,2026-06-07
+24439432-fb5c-4105-a9fe-252679bf75f6,Lavínia Albuquerque,vnascimento@example.org,+55 42 1314-9867,Masculino,1988-12-25,769.130.285-12,Pinto de Macedo,DF,50257-847,"Praça Beatriz Pastor, 37",2023-01-09,2024-03-18
+322ff7e4-1659-4cbf-a3c4-a47d630025f9,Srta. Sarah Vieira,ferreiragustavo-henrique@example.net,+55 27 6272-8101,Feminino,1971-12-31,592.760.348-38,Lopes Verde,GO,20642-837,"Fazenda de Ramos, 21",2026-02-09,2026-07-04
+4f09f6ac-7697-4ddd-935a-715bec43c121,Sr. Daniel Souza,ileao@example.net,95 8822-8367,Masculino,2007-08-11,086.935.124-98,Cavalcanti Alegre,BA,82604-535,"Morro João Lucas Cirino, 40",2023-05-14,2023-08-28
+222683d3-88f8-401b-ba6c-75603864fb24,Brenda Garcia,rafaelramos@example.org,+55 94 0964-1474,Feminino,1966-11-30,178.624.503-53,da Mata,AP,96233-004,"Travessa Sales, 23",2025-06-16,2026-02-16
+0b6ee6c8-72ba-4363-a77b-da770de4bc8f,Bruno Moreira,melina81@example.net,0800 224 3258,Feminino,1974-09-12,207.985.146-20,Moraes,AM,57412735,"Estrada Ana Carolina Aragão, 71",2026-06-25,2026-07-15
+2436d98b-6d82-4b0a-aaa7-ca4934011a13,Ana Julia Leão,nicolascastro@example.com,13 3075-7575,Feminino,1991-05-25,653.819.742-64,Marques,SE,79533-946,"Trevo Benicio Ferreira, 11",2024-05-17,2025-06-06
+0e97a0be-e947-4395-80ed-f1fb3972e1f0,Lavínia Araújo,joao-pedroda-conceicao@example.net,+55 77 1538-0809,Feminino,1985-01-27,819.056.743-84,Campos,MA,62440-890,"Parque de Viana, 2",2023-03-06,2025-11-01
+1d5f2e00-806a-4704-9a76-33d6b9d0ff80,Dr. Henry Gabriel Machado,hadassa76@example.net,+55 84 4503-9888,Masculino,1978-04-07,201.683.597-40,Montenegro de Peixoto,RS,55955315,"Vereda da Luz, 81",2025-12-08,2026-07-09
+2add8722-7133-4996-b64a-11700ec18d54,Luana Fonseca,isabela68@example.org,64 2890-1855,Masculino,1992-08-05,375.489.021-23,Alves,PR,58865-092,"Pátio Otto Gonçalves, 35",2025-12-25,2026-07-17
+a23c2340-c974-4eab-88df-aa1120aeafe3,Bella Caldeira,matteo51@example.net,63 7856-8831,Feminino,1997-11-13,354.197.628-46,Rezende Verde,RS,68504-015,Praça de Moraes,2026-01-15,2026-02-15
+c59c59c2-5c5c-4a41-a80d-fc61ac65e48d,Ravi Campos,ana-beatriz58@example.org,88 9158-8284,Feminino,1974-01-03,645.328.719-64,Porto da Serra,GO,97865236,"Feira de Costa, 3",2025-05-30,2026-02-10
+cf07d8c6-883b-4b47-92d2-dad56b74701d,Manuela Pastor,maiterocha@example.org,+55 34 1150-8323,Masculino,1989-10-04,810.279.536-03,Azevedo do Norte,PB,57361-951,Campo de Correia,2024-05-02,2025-09-14
+e74dde74-acc4-49b4-827d-c00fbba365ef,Sr. Paulo Castro,aragaoarthur@example.org,71 2800-9466,Feminino,1990-06-13,592.376.840-29,Silveira,MS,37525003,"Passarela Ribeiro, 43",2023-01-11,2023-07-04
+e01df007-ed88-40f2-8e68-1f66e6a149eb,Clara Gonçalves,valentina88@example.net,74 5486-1483,Masculino,1983-11-07,534.107.869-10,Oliveira,DF,35856-338,"Aeroporto de Gomes, 59",2025-04-01,2026-02-05
+326720d5-4cf5-4158-a24f-d9a507e315ea,Amanda Rezende,lcirino@example.com,+55 75 2399-9392,Feminino,1967-07-07,478.502.136-53,Macedo Alegre,MG,16337347,"Distrito Silveira, 75",2025-08-19,2025-12-24
+2d065026-42b1-427b-8f86-f3237235cf2f,Sra. Catarina Macedo,pintoluiz-otavio@example.com,84 0755-4403,Masculino,1991-03-19,153.240.976-16,Ramos dos Dourados,ES,31205-549,"Residencial Castro, 17",2023-01-15,2025-04-10
+09e26fc2-b77f-4832-ad8d-492bb1cf7402,José Pedro Câmara,albuquerquebrayan@example.com,+55 46 2512-0304,Feminino,1973-10-06,369.524.081-42,Sá,DF,76658-754,"Viela Ágatha Martins, 41",2024-10-19,2025-05-23
+81a9a432-be71-46a3-894a-c3a275378022,Srta. Valentina Pacheco,maria-clara20@example.net,83 5026-3496,Feminino,1995-02-18,824.513.906-89,Jesus de Guerra,SP,79165466,"Lagoa Cavalcanti, 45",2025-02-06,2026-01-25
+85ee7e8a-5018-4fba-9a14-c221a8c73b1c,Diego Camargo,luiz-felipe89@example.com,+55 88 5676-5734,Feminino,1968-08-11,086.524.937-74,da Cruz,RR,70769298,"Estrada Brito, 25",2022-12-29,2024-02-29
+9f952be8-3ecd-468e-96e2-9468e408fd9c,Zoe Marques,pietra75@example.com,99 6328-7278,Feminino,1996-01-28,918.672.045-76,Porto,RS,28024263,"Aeroporto Pinto, 96",2024-07-30,2025-07-10
+2bb2a08f-0170-48ee-8305-1a6c730135d7,Bruno Rodrigues,ana-cecilia87@example.com,94 0615-7134,Masculino,1993-08-19,597.184.236-64,Monteiro Paulista,CE,39128-472,Loteamento de Dias,2022-09-29,2024-05-16
+8c469081-6a36-44aa-abba-ba5bb18ca425,Ana Julia Viana,lnovaes@example.com,+55 79 6204-3734,Masculino,1990-03-08,924.681.370-78,Casa Grande,BA,63729-354,"Largo Gael da Conceição, 403",2023-07-24,2025-09-27
+f7e3e8a0-ce07-40a4-b6e2-b73cec62e5b4,Lucas Gabriel Cassiano,davi48@example.com,+55 64 5483-3625,Masculino,1996-09-07,980.264.137-50,Campos,RR,82286-315,"Via Ana Liz da Luz, 52",2023-06-28,2024-03-21
+b15ce6a1-fd20-47ce-89b9-06e3073c399b,Ágatha da Rocha,da-motaana-vitoria@example.com,93 6759-7570,Feminino,1989-10-31,120.798.436-13,Abreu,GO,54266-734,"Largo de da Mata, 3",2025-12-30,2026-03-17
+7425a8fc-63f3-4965-8f0d-84b9763666e4,Melissa Caldeira,wmacedo@example.com,+55 68 6885-7570,Masculino,2002-12-15,618.294.753-55,Vieira dos Dourados,AL,21545615,"Distrito de Pimenta, 10",2025-02-05,2025-04-18
+d8d80a36-09db-4274-ac9b-6e28123a8399,Davi Lucca da Rosa,levi91@example.net,69 7500-9360,Masculino,1970-10-31,081.693.572-68,Rocha de Minas,PA,63573083,"Campo de Carvalho, 81",2026-04-30,2026-06-23
+edaa7a67-1e37-43f7-a069-ea328bdc657e,Evelyn Carvalho,henry-gabriel36@example.net,34 4722-7410,Feminino,1970-06-19,412.890.365-51,Monteiro,RJ,80585-319,"Pátio Souza, 86",2025-09-13,2025-11-17
+ffec391f-9d7d-440e-9bc4-5429f7b47306,Vitor Gabriel Carvalho,emanuellymelo@example.net,46 3403-3382,Feminino,1995-10-17,983.672.014-69,Macedo,SP,32445-717,"Condomínio Danilo Moraes, 1",2022-11-04,2024-01-05
+88ed9c77-1dcf-492c-b2f9-cd490488e1cc,Henry Aragão,acorreia@example.org,85 1708-6238,Feminino,1988-11-24,021.538.679-59,Cavalcanti dos Dourados,SP,34372172,"Trecho da Cruz, 18",2022-11-22,2024-06-01
+8ff71c26-1c16-48b3-8091-791855430313,Luiz Gustavo Jesus,pietroandrade@example.net,+55 35 9384-1188,Feminino,2002-07-03,381.579.260-68,Oliveira,RO,25009527,"Jardim de Alves, 42",2024-08-24,2025-01-25
+c47da24e-d7cf-4f8a-8839-2f6796443ff5,Samuel Fonseca,da-cunhanathan@example.org,+55 85 2519-2064,Feminino,1976-07-25,913.056.287-21,Vargas,ES,78612-282,"Esplanada de Câmara, 48",2026-03-31,2026-07-17
+76689e53-549c-43c9-b6ac-436b54f90ed8,Emanuel Cardoso,da-costaana-julia@example.com,0300 457 9563,Feminino,1984-12-11,394.067.128-22,da Mota,RO,78942-518,"Núcleo Marques, 24",2024-09-01,2026-05-14
+0ed11080-c375-4456-b97f-5e3fdc2dad64,Ravi Lucca Vieira,camargoemanuel@example.org,+55 27 6191-1456,Feminino,1988-10-31,015.873.496-39,Jesus de Casa Grande,CE,02267-477,"Viaduto Novaes, 53",2023-04-10,2026-03-23
+2da4db75-e546-43b6-9102-fe8132446fc7,Yuri Abreu,ana-claradas-neves@example.com,+55 55 9937-6849,Masculino,2003-06-29,974.230.681-87,Duarte do Norte,SP,09683-728,Aeroporto de Mendes,2025-09-07,2025-12-24
+986ce298-883c-4bc0-94f1-ef3af72e5819,Carlos Eduardo Oliveira,jadecassiano@example.net,83 8143-4256,Feminino,1991-10-12,723.068.951-12,Casa Grande,DF,44935516,"Vereda Nogueira, 664",2023-10-17,2025-07-30
+534aa86d-41a8-4457-994b-c225077ed412,Diego Araújo,oliver99@example.org,33 2750-2365,Masculino,1988-11-14,078.135.692-02,Abreu dos Dourados,MT,56546-882,Sítio de Barbosa,2023-02-26,2023-04-13
+078f6801-7ed3-448b-a2c0-43a77e3f62b1,Francisco Siqueira,jesusclara@example.net,83 0159-8103,Feminino,1965-10-01,942.185.360-15,Costela do Oeste,SP,93510-863,"Ladeira Cauê Cavalcante, 31",2024-07-21,2024-11-04
+2ff6e17a-6bb3-47ba-bd65-64b6c2a99d98,Bruno Andrade,umoraes@example.com,+55 73 7339-5180,Masculino,1992-03-24,069.421.837-50,Cavalcante,AM,83155877,"Favela João Vitor Oliveira, 114",2026-05-19,2026-05-25
+0939c8f6-9a55-47c2-8aab-d305db1bfcf0,Ryan Nogueira,santosemilly@example.org,+55 71 7151-1675,Feminino,1975-01-10,708.169.432-22,Moura de da Luz,RS,12673-021,"Residencial Novaes, 3",2023-02-28,2025-03-09
+ca87726a-c6ac-4be8-a15d-74b864b255d9,Fernanda Sampaio,mateusmoura@example.net,95 0144-1975,Feminino,2004-11-22,192.076.458-58,Leão da Serra,AL,97835827,"Favela de Araújo, 500",2024-09-02,2025-03-24
+71e958f9-c185-422b-802a-ab38b0330bf1,Ágatha Martins,ramosenrico@example.net,+55 24 8927-4160,Feminino,1966-03-30,279.483.015-50,Marques Verde,GO,42389-234,"Esplanada de Barbosa, 21",2023-08-02,2023-10-15
+0beb5ddd-df73-45ef-9a88-1e6c57d23c01,Allana Silveira,souzaisabelly@example.org,+55 46 0717-1285,Masculino,1988-11-01,739.408.256-38,Almeida dos Dourados,PI,14568-567,Alameda Arthur Gabriel Pacheco,2023-09-24,2024-07-09
+4d23ec59-3172-481b-b858-b7a0d111b793,Dom Porto,moreirakaique@example.com,66 8353-6429,Feminino,1990-06-18,196.038.257-86,Ribeiro,TO,93293599,"Jardim Henrique Farias, 45",2023-03-22,2025-10-20
+f2f96463-35ef-4ef2-942d-edd594d9e471,Samuel da Cruz,costamaya@example.net,54 4230-3155,Feminino,1985-11-09,954.126.830-70,Gonçalves Verde,ES,02147339,"Trevo Sousa, 34",2022-08-18,2023-02-06
+1eb7fc24-1ff9-45ed-8c14-ec5ad66ec58f,João Guilherme Rios,nogueiraenzo@example.org,66 1211-1160,Feminino,1993-08-13,329.104.856-33,Mendes do Amparo,ES,48897-213,"Parque de Viana, 53",2022-12-28,2024-03-02
+e310e5f1-e502-40bc-bc2c-a90c01313608,Srta. Sophia Gomes,da-luzrafaela@example.net,+55 75 7015-1995,Feminino,2000-06-13,813.602.794-31,Moura de Guerra,MT,30058299,"Viela Vitória Barbosa, 94",2025-07-06,2026-05-10
+b3b415f0-6709-4a92-aefa-dd9045b67944,Théo da Mota,vinicius24@example.com,+55 94 5040-2919,Feminino,2005-03-09,206.973.841-87,Silveira de Melo,RJ,69201-668,"Loteamento Nascimento, 77",2026-01-09,2026-03-23
+1dc19838-0bae-4d63-bb23-d2806ccd0b29,Bruno Brito,rochaluiz-gustavo@example.net,+55 45 0766-6610,Feminino,2004-06-22,238.964.570-47,Pinto de Machado,RN,69512352,"Lago Ferreira, 98",2024-11-05,2024-11-24
+df82f940-cae0-47e3-9457-844d960fa487,Alícia Pereira,hellena64@example.org,+55 47 8061-8283,Masculino,1979-09-11,139.405.287-14,Machado do Oeste,SE,45814-947,"Condomínio Pastor, 31",2024-04-06,2026-07-12
+36402023-667b-4d7a-a162-360476f3bc34,Lucas Mendes,qbrito@example.com,73 8624-5463,Feminino,1971-05-23,674.205.931-16,Correia,PR,50486-889,"Condomínio de Novais, 35",2024-02-18,2024-10-06
+45e6c70c-c726-46b6-b66d-f9434b74c073,Luna Cunha,milena84@example.com,+55 24 5153-4719,Masculino,1976-12-15,567.823.041-71,Fogaça do Norte,AL,03001-560,Setor Lima,2024-06-16,2025-03-05
+1bbeb793-5b8e-4c7e-817e-daca1797c6d2,Sra. Ísis Silva,josue28@example.com,+55 14 7942-2589,Masculino,1993-10-31,326.795.480-00,Casa Grande do Campo,RR,91883607,Chácara de da Luz,2024-10-16,2025-02-18
+c9fce2e2-ccb0-4a47-92d5-d197b5b95900,Luísa Porto,beatrizcunha@example.com,+55 11 3086-4843,Feminino,1967-08-31,453.128.976-55,Nunes da Praia,SE,43482063,"Fazenda Ana Cecília da Rocha, 89",2023-02-01,2024-04-19
+b821c2a1-3089-43c6-ad9b-bc56fe5d3cfc,Bruno Vargas,pcirino@example.net,+55 68 7267-0402,Feminino,1995-02-20,327.915.068-02,Correia,MS,69329-580,"Viela Oliver Costela, 859",2024-07-17,2026-07-07
+fe297a6c-004e-4de7-b3c5-bd4e0b309fe8,Isaac Novais,mendoncadavi-lucca@example.com,+55 93 5960-3876,Feminino,1981-11-05,496.083.571-01,Moreira,CE,20132474,Ladeira de da Luz,2024-05-22,2026-07-16
+ca6944f6-ba37-49db-b8f5-6f28b0ee8d57,Laís da Costa,zda-conceicao@example.com,75 8802-9693,Masculino,2001-12-05,081.267.493-69,Campos,MA,86737-531,"Viela Cardoso, 33",2023-05-19,2024-04-28
+90b3a98c-ea56-4d4a-a231-14f11e156af4,Dra. Lara Andrade,pedro39@example.org,+55 79 9359-6812,Masculino,1983-10-10,058.729.146-01,Moreira dos Dourados,SC,82947670,"Núcleo de Moreira, 383",2023-08-11,2025-03-02
+56521ec2-c3a0-4959-bdd0-4970bc13aea5,Miguel Monteiro,rebeca01@example.com,96 6147-6375,Feminino,1968-04-22,463.219.078-04,Abreu,RO,85486-855,"Via Vitor Barros, 410",2022-08-30,2025-11-16

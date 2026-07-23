@@ -1,0 +1,67 @@
+version 1:
+
+models:
+  - name: kpi_ticket_medio
+    description:
+      "KPI que mede o valor médio dos pedidos."
+  
+  - name: kpi_receita_ytd_comparativo
+    description: >
+      KPI que compara a receita acumulada do ano atual com a receita
+      acumulada do mesmo período do ano anterior.
+    columns:
+      
+      - name: RECEITA_YTD_ATUAL
+        description:
+          "Receita acumulada do ano atual até a data mais recente."
+      - name: RECEITA_YTD_ANTERIOR
+        description:
+          "Receita acumulada do mesmo periodo do ano anterior."
+      - name: VARIACAO_PERCENTUAL
+        description:
+          "Variação percentual da receita entre o período do ano passado e o atual."
+
+  - name: kpi_receita_mtd_comparativo
+    description: >
+      KPI que compara a receita acumulada do mês atual com a receita
+      acumulada do mesmo período do mês anterior.
+    columns:
+
+      - name: RECEITA_MTD_ATUAL
+        description:
+          "Receita acumulada do mês atual até a data mais recente."
+        
+      - name: RECEITA_MTD_ANTERIOR
+        description:
+          "Receita  acumulada do mesmo periodo do mês anterior."
+      
+      - name: VARIACAO_PERCENTUAL
+        description:
+          "Variação percentual da receita entre o período do mês anterior e do atual."
+
+  - name: kpi_receita_total
+    description:
+      "KPI que calcula a receita total das vendas concluídas."
+  
+  - name: kpi_novos_clientes_mes
+    description: >
+      KPI que conta quantos clientes realizaram seu primeiro
+      pedido nos últimos 90 dias.
+  
+  - name: kpi_clientes_ativos
+    description: >
+      KPI que retorna quantos clientes realizaram pedido nos 
+      últimos 90 dias.
+
+  - name: kpi_categoria_mais_vendida
+    description:
+      "KPI que retorna a categoria com maior quantidade de itens vendidos."
+    columns:
+
+      - name: CATEGORIA
+        description:
+          "Indica a categoria a qual os produtos pertencem."
+      
+      - name: QTD_VENDIDA
+        descriptio:
+          "Retorna a quantidade de itens vendidos da categoria."

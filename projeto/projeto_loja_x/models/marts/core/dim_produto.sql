@@ -1,0 +1,11 @@
+SELECT
+  P.PRODUTO_ID,
+  P.PRODUTO,
+  P.CATEGORIA,
+  P.MARCA,
+  P.PRECO,
+  PM.QTD_TOTAL_VENDIDA,
+  PM.VALOR_TOTAL_VENDIDO
+FROM {{ ref('stg_produtos') }} AS P
+LEFT JOIN {{ ref('int_produto_metricas') }} AS PM
+  ON P.PRODUTO_ID = PM.PRODUTO_ID

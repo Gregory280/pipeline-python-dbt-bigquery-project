@@ -74,22 +74,17 @@ O Dockerfile prepara um ambiente contendo todas as dependências necessárias pa
 O pipeline foi desenvolvido seguindo uma arquitetura em camadas utilizando o dbt.
 
 ```text
-Dados Sintéticos
-        │
-        ▼
-      RAW
-        │
-        ▼
-    STAGING
-        │
-        ▼
- INTERMEDIATE
-        │
-        ▼
-      MARTS
-   ├── CORE
-   ├── REPORTS
-   └── KPIs
+Dados de Origem (CSV/API)
+     ↓
+BigQuery (dados brutos)
+     ↓
+dbt Staging
+     ↓
+dbt Intermediate
+     ↓
+dbt Marts
+     ↓
+Dashboard
 ```
 
 ---

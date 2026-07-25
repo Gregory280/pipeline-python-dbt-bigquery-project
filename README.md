@@ -200,9 +200,3 @@ O projeto utiliza o **dbt Docs**, permitindo visualizar:
 * Automatização da carga de dados;
 * Passar a executar o dbt no docker na núvem ao invés localmente.
 
----
-
-# Autor
-
-**Gregory Nicholas Mayer**
-

@@ -1,0 +1,1 @@
+Diretório que representa o conteúdo trabalhado no cloud shell editor.

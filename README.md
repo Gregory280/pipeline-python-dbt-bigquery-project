@@ -10,9 +10,11 @@ O projeto contempla desde a geração de dados sintéticos até a construção d
 
 - Python 3.11
 - Docker
-- dbt Core
-- Google BigQuery
+- Data Build Tool (dbt)
 - SQL
+- BigQuery
+- Cloud Run
+- Cloud Scheduler
 
 ---
 
@@ -24,6 +26,8 @@ O projeto contempla desde a geração de dados sintéticos até a construção d
 - Modelagem dimensional utilizando dbt.
 - Criação de relatórios analíticos.
 - Desenvolvimento de KPIs de negócio.
+- Automação da ingestão de dados novos utilizando Cloud Run Jobs
+- Agendamento da ingestão e transformação de dados com Cloud Scheduler
 
 ---
 
@@ -74,17 +78,21 @@ O Dockerfile prepara um ambiente contendo todas as dependências necessárias pa
 O pipeline foi desenvolvido seguindo uma arquitetura em camadas utilizando o dbt.
 
 ```text
-Dados de Origem (CSV/API)
-     ↓
-BigQuery (dados brutos)
-     ↓
-dbt Staging
-     ↓
-dbt Intermediate
-     ↓
-dbt Marts
-     ↓
-Dashboard
+Dados de Origem (CSV/API)             Cloud Scheduler
+     ↓                                      ↓
+BigQuery (dados brutos)              Cloud Run Job (Python)
+     ↓                                      ↓
+dbt Staging                          Google BigQuery (raw)
+     ↓                                      ↓
+dbt Intermediate                     Cloud Run Job (dbt)
+     ↓                                      ↓
+dbt Marts                              dbt Staging
+     ↓                                      ↓
+Dashboard                              dbt Intermediate
+                                            ↓
+                                       dbt Marts
+                                            ↓
+                                       Dashboard     
 ```
 
 ---
@@ -197,6 +205,7 @@ O projeto utiliza o **dbt Docs**, permitindo visualizar:
 # Próximos Passos
 
 * Ampliação dos testes automatizados do dbt;
-* Automatização da carga de dados;
-* Passar a executar o dbt no docker na núvem ao invés localmente.
+* Automatização da carga de dados ✅;
+* Passar a executar o dbt no docker na núvem ao invés localmente ✅;
+* Utilizar modelos incrementais ao invés;
 

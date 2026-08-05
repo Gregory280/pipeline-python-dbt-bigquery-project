@@ -1,3 +1,13 @@
+{{
+  config(
+    materialized='table',
+    partition_by={
+      "field": "DATA",
+      "data_type": "date"
+    }
+  )
+}}
+
 SELECT
   ITEM_ID,
   PEDIDO_ID,

@@ -165,8 +165,10 @@ Exemplos:
 * Clientes ativos nos últimos 90 dias;
 * Receita por categoria;
 * Receita por origem;
+* Receita por tipo de pagamento
 * Vendas da última semana;
-* Vendas dos últimos 30 dias.
+* Vendas dos últimos 30 dias;
+* Vendas do mês atual;
 
 Esses modelos disponibilizam consultas prontas para consumo por ferramentas de Business Intelligence.
 
@@ -179,6 +181,7 @@ Contém indicadores de desempenho utilizados para monitoramento da saúde do neg
 Entre os KPIs desenvolvidos estão:
 
 * Receita Total;
+* Total de Pedidos;
 * Ticket Médio;
 * Clientes Ativos;
 * Novos Clientes do Mês;

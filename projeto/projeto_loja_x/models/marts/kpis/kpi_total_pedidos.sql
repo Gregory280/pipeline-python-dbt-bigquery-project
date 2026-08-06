@@ -1,0 +1,3 @@
+SELECT
+  COUNT(DISTINCT PEDIDO_ID) AS TOTAL_PEDIDOS
+FROM {{ ref('fato_venda') }}
